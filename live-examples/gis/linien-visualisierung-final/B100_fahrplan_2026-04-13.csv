@@ -1,0 +1,2462 @@
+richtung,tagestyp,fahrt_nr,reihenfolge,haltestelle,uhrzeit
+Puderbach -> Neuwied,Mo-Fr,1,1,Puderbach Verbandsgemeinde,4.49
+Puderbach -> Neuwied,Mo-Fr,1,2,Hölzchens Mühle,4.50
+Puderbach -> Neuwied,Mo-Fr,1,3,Hanroth Hedwigsthal A,4.51
+Puderbach -> Neuwied,Mo-Fr,1,4,Raubach In der Au,4.55
+Puderbach -> Neuwied,Mo-Fr,1,5,Wienau Flemmer,4.58
+Puderbach -> Neuwied,Mo-Fr,1,6,Dierdorf Markt an,5.02
+Puderbach -> Neuwied,Mo-Fr,1,7,Dierdorf Markt ab,5.03
+Puderbach -> Neuwied,Mo-Fr,1,8,Neuwieder Straße B,5.04
+Puderbach -> Neuwied,Mo-Fr,1,9,SZ-Center B,5.06
+Puderbach -> Neuwied,Mo-Fr,1,10,Rüscheid Siegel,5.13
+Puderbach -> Neuwied,Mo-Fr,1,11,Anhausen Petershof A,5.15
+Puderbach -> Neuwied,Mo-Fr,1,12,Schillerstraße A an,5.18
+Puderbach -> Neuwied,Mo-Fr,1,13,Schillerstraße A ab,5.19
+Puderbach -> Neuwied,Mo-Fr,1,14,Braunsberg/Rheinhöhenweg,5.21
+Puderbach -> Neuwied,Mo-Fr,1,15,Gladbach Haus am Pilz,5.23
+Puderbach -> Neuwied,Mo-Fr,1,16,Chausseehaus,5.26
+Puderbach -> Neuwied,Mo-Fr,1,17,Torney Dierdorfer Straße,5.29
+Puderbach -> Neuwied,Mo-Fr,1,18,Friedhof Wennenberg,5.30
+Puderbach -> Neuwied,Mo-Fr,1,19,Neuwied Beverwijker Ring,5.32
+Puderbach -> Neuwied,Mo-Fr,1,20,Ludwig-Erhard-Schule,5.35
+Puderbach -> Neuwied,Mo-Fr,1,21,Matthiasberg,5.36
+Puderbach -> Neuwied,Mo-Fr,1,22,Stadion A,5.38
+Puderbach -> Neuwied,Mo-Fr,1,23,Im Weidchen A,5.39
+Puderbach -> Neuwied,Mo-Fr,1,24,Schloßtheater A,5.40
+Puderbach -> Neuwied,Mo-Fr,1,25,Marktkirche A,5.42
+Puderbach -> Neuwied,Mo-Fr,1,26,Marktstraße B,5.43
+Puderbach -> Neuwied,Mo-Fr,1,27,Moltkeplatz A,5.45
+Puderbach -> Neuwied,Mo-Fr,1,28,Bahnhof H,5.51
+Puderbach -> Neuwied,Mo-Fr,2,1,Puderbach Verbandsgemeinde,5.49
+Puderbach -> Neuwied,Mo-Fr,2,2,Hölzchens Mühle,5.50
+Puderbach -> Neuwied,Mo-Fr,2,3,Hanroth Hedwigsthal A,5.51
+Puderbach -> Neuwied,Mo-Fr,2,4,Raubach In der Au,5.55
+Puderbach -> Neuwied,Mo-Fr,2,5,Wienau Flemmer,5.58
+Puderbach -> Neuwied,Mo-Fr,2,6,Dierdorf Markt an,6.02
+Puderbach -> Neuwied,Mo-Fr,2,7,Dierdorf Markt ab,6.03
+Puderbach -> Neuwied,Mo-Fr,2,8,Neuwieder Straße B,6.04
+Puderbach -> Neuwied,Mo-Fr,2,9,SZ-Center B,6.06
+Puderbach -> Neuwied,Mo-Fr,2,10,Rüscheid Siegel,6.13
+Puderbach -> Neuwied,Mo-Fr,2,11,Anhausen Petershof A,6.15
+Puderbach -> Neuwied,Mo-Fr,2,12,Schillerstraße A an,6.18
+Puderbach -> Neuwied,Mo-Fr,2,13,Schillerstraße A ab,6.19
+Puderbach -> Neuwied,Mo-Fr,2,14,Braunsberg/Rheinhöhenweg,6.21
+Puderbach -> Neuwied,Mo-Fr,2,15,Gladbach Haus am Pilz,6.23
+Puderbach -> Neuwied,Mo-Fr,2,16,Chausseehaus,6.26
+Puderbach -> Neuwied,Mo-Fr,2,17,Torney Dierdorfer Straße,6.29
+Puderbach -> Neuwied,Mo-Fr,2,18,Friedhof Wennenberg,6.30
+Puderbach -> Neuwied,Mo-Fr,2,19,Neuwied Beverwijker Ring,6.32
+Puderbach -> Neuwied,Mo-Fr,2,20,Ludwig-Erhard-Schule,6.35
+Puderbach -> Neuwied,Mo-Fr,2,21,Matthiasberg,6.36
+Puderbach -> Neuwied,Mo-Fr,2,22,Stadion A,6.38
+Puderbach -> Neuwied,Mo-Fr,2,23,Im Weidchen A,6.39
+Puderbach -> Neuwied,Mo-Fr,2,24,Schloßtheater A,6.40
+Puderbach -> Neuwied,Mo-Fr,2,25,Marktkirche A,6.42
+Puderbach -> Neuwied,Mo-Fr,2,26,Marktstraße B,6.43
+Puderbach -> Neuwied,Mo-Fr,2,27,Moltkeplatz A,6.45
+Puderbach -> Neuwied,Mo-Fr,2,28,Bahnhof H,6.51
+Puderbach -> Neuwied,Mo-Fr,3,1,Puderbach Verbandsgemeinde,6.49
+Puderbach -> Neuwied,Mo-Fr,3,2,Hölzchens Mühle,6.50
+Puderbach -> Neuwied,Mo-Fr,3,3,Hanroth Hedwigsthal A,6.51
+Puderbach -> Neuwied,Mo-Fr,3,4,Raubach In der Au,6.55
+Puderbach -> Neuwied,Mo-Fr,3,5,Wienau Flemmer,6.58
+Puderbach -> Neuwied,Mo-Fr,3,6,Dierdorf Markt an,7.02
+Puderbach -> Neuwied,Mo-Fr,3,7,Dierdorf Markt ab,7.03
+Puderbach -> Neuwied,Mo-Fr,3,8,Neuwieder Straße B,7.04
+Puderbach -> Neuwied,Mo-Fr,3,9,SZ-Center B,7.06
+Puderbach -> Neuwied,Mo-Fr,3,10,Rüscheid Siegel,7.13
+Puderbach -> Neuwied,Mo-Fr,3,11,Anhausen Petershof A,7.15
+Puderbach -> Neuwied,Mo-Fr,3,12,Schillerstraße A an,7.18
+Puderbach -> Neuwied,Mo-Fr,3,13,Schillerstraße A ab,7.19
+Puderbach -> Neuwied,Mo-Fr,3,14,Braunsberg/Rheinhöhenweg,7.21
+Puderbach -> Neuwied,Mo-Fr,3,15,Gladbach Haus am Pilz,7.23
+Puderbach -> Neuwied,Mo-Fr,3,16,Chausseehaus,7.26
+Puderbach -> Neuwied,Mo-Fr,3,17,Torney Dierdorfer Straße,7.29
+Puderbach -> Neuwied,Mo-Fr,3,18,Friedhof Wennenberg,7.30
+Puderbach -> Neuwied,Mo-Fr,3,19,Neuwied Beverwijker Ring,7.32
+Puderbach -> Neuwied,Mo-Fr,3,20,Ludwig-Erhard-Schule,7.35
+Puderbach -> Neuwied,Mo-Fr,3,21,Matthiasberg,7.36
+Puderbach -> Neuwied,Mo-Fr,3,22,Stadion A,7.38
+Puderbach -> Neuwied,Mo-Fr,3,23,Im Weidchen A,7.39
+Puderbach -> Neuwied,Mo-Fr,3,24,Schloßtheater A,7.40
+Puderbach -> Neuwied,Mo-Fr,3,25,Marktkirche A,7.42
+Puderbach -> Neuwied,Mo-Fr,3,26,Marktstraße B,7.43
+Puderbach -> Neuwied,Mo-Fr,3,27,Moltkeplatz A,7.45
+Puderbach -> Neuwied,Mo-Fr,3,28,Bahnhof H,7.51
+Puderbach -> Neuwied,Mo-Fr,4,1,Puderbach Verbandsgemeinde,7.49
+Puderbach -> Neuwied,Mo-Fr,4,2,Hölzchens Mühle,7.50
+Puderbach -> Neuwied,Mo-Fr,4,3,Hanroth Hedwigsthal A,7.51
+Puderbach -> Neuwied,Mo-Fr,4,4,Raubach In der Au,7.55
+Puderbach -> Neuwied,Mo-Fr,4,5,Wienau Flemmer,7.58
+Puderbach -> Neuwied,Mo-Fr,4,6,Dierdorf Markt an,8.02
+Puderbach -> Neuwied,Mo-Fr,4,7,Dierdorf Markt ab,8.03
+Puderbach -> Neuwied,Mo-Fr,4,8,Neuwieder Straße B,8.04
+Puderbach -> Neuwied,Mo-Fr,4,9,SZ-Center B,8.06
+Puderbach -> Neuwied,Mo-Fr,4,10,Rüscheid Siegel,8.13
+Puderbach -> Neuwied,Mo-Fr,4,11,Anhausen Petershof A,8.15
+Puderbach -> Neuwied,Mo-Fr,4,12,Schillerstraße A an,8.18
+Puderbach -> Neuwied,Mo-Fr,4,13,Schillerstraße A ab,8.19
+Puderbach -> Neuwied,Mo-Fr,4,14,Braunsberg/Rheinhöhenweg,8.21
+Puderbach -> Neuwied,Mo-Fr,4,15,Gladbach Haus am Pilz,8.23
+Puderbach -> Neuwied,Mo-Fr,4,16,Chausseehaus,8.26
+Puderbach -> Neuwied,Mo-Fr,4,17,Torney Dierdorfer Straße,8.29
+Puderbach -> Neuwied,Mo-Fr,4,18,Friedhof Wennenberg,8.30
+Puderbach -> Neuwied,Mo-Fr,4,19,Neuwied Beverwijker Ring,8.32
+Puderbach -> Neuwied,Mo-Fr,4,20,Ludwig-Erhard-Schule,8.35
+Puderbach -> Neuwied,Mo-Fr,4,21,Matthiasberg,8.36
+Puderbach -> Neuwied,Mo-Fr,4,22,Stadion A,8.38
+Puderbach -> Neuwied,Mo-Fr,4,23,Im Weidchen A,8.39
+Puderbach -> Neuwied,Mo-Fr,4,24,Schloßtheater A,8.40
+Puderbach -> Neuwied,Mo-Fr,4,25,Marktkirche A,8.42
+Puderbach -> Neuwied,Mo-Fr,4,26,Marktstraße B,8.43
+Puderbach -> Neuwied,Mo-Fr,4,27,Moltkeplatz A,8.45
+Puderbach -> Neuwied,Mo-Fr,4,28,Bahnhof H,8.51
+Puderbach -> Neuwied,Mo-Fr,5,1,Puderbach Verbandsgemeinde,8.49
+Puderbach -> Neuwied,Mo-Fr,5,2,Hölzchens Mühle,8.50
+Puderbach -> Neuwied,Mo-Fr,5,3,Hanroth Hedwigsthal A,8.51
+Puderbach -> Neuwied,Mo-Fr,5,4,Raubach In der Au,8.55
+Puderbach -> Neuwied,Mo-Fr,5,5,Wienau Flemmer,8.58
+Puderbach -> Neuwied,Mo-Fr,5,6,Dierdorf Markt an,9.02
+Puderbach -> Neuwied,Mo-Fr,5,7,Dierdorf Markt ab,9.03
+Puderbach -> Neuwied,Mo-Fr,5,8,Neuwieder Straße B,9.04
+Puderbach -> Neuwied,Mo-Fr,5,9,SZ-Center B,9.06
+Puderbach -> Neuwied,Mo-Fr,5,10,Rüscheid Siegel,9.13
+Puderbach -> Neuwied,Mo-Fr,5,11,Anhausen Petershof A,9.15
+Puderbach -> Neuwied,Mo-Fr,5,12,Schillerstraße A an,9.18
+Puderbach -> Neuwied,Mo-Fr,5,13,Schillerstraße A ab,9.19
+Puderbach -> Neuwied,Mo-Fr,5,14,Braunsberg/Rheinhöhenweg,9.21
+Puderbach -> Neuwied,Mo-Fr,5,15,Gladbach Haus am Pilz,9.23
+Puderbach -> Neuwied,Mo-Fr,5,16,Chausseehaus,9.26
+Puderbach -> Neuwied,Mo-Fr,5,17,Torney Dierdorfer Straße,9.29
+Puderbach -> Neuwied,Mo-Fr,5,18,Friedhof Wennenberg,9.30
+Puderbach -> Neuwied,Mo-Fr,5,19,Neuwied Beverwijker Ring,9.32
+Puderbach -> Neuwied,Mo-Fr,5,20,Ludwig-Erhard-Schule,9.35
+Puderbach -> Neuwied,Mo-Fr,5,21,Matthiasberg,9.36
+Puderbach -> Neuwied,Mo-Fr,5,22,Stadion A,9.38
+Puderbach -> Neuwied,Mo-Fr,5,23,Im Weidchen A,9.39
+Puderbach -> Neuwied,Mo-Fr,5,24,Schloßtheater A,9.40
+Puderbach -> Neuwied,Mo-Fr,5,25,Marktkirche A,9.42
+Puderbach -> Neuwied,Mo-Fr,5,26,Marktstraße B,9.43
+Puderbach -> Neuwied,Mo-Fr,5,27,Moltkeplatz A,9.45
+Puderbach -> Neuwied,Mo-Fr,5,28,Bahnhof H,9.51
+Puderbach -> Neuwied,Mo-Fr,6,1,Puderbach Verbandsgemeinde,9.49
+Puderbach -> Neuwied,Mo-Fr,6,2,Hölzchens Mühle,9.50
+Puderbach -> Neuwied,Mo-Fr,6,3,Hanroth Hedwigsthal A,9.51
+Puderbach -> Neuwied,Mo-Fr,6,4,Raubach In der Au,9.55
+Puderbach -> Neuwied,Mo-Fr,6,5,Wienau Flemmer,9.58
+Puderbach -> Neuwied,Mo-Fr,6,6,Dierdorf Markt an,10.02
+Puderbach -> Neuwied,Mo-Fr,6,7,Dierdorf Markt ab,10.03
+Puderbach -> Neuwied,Mo-Fr,6,8,Neuwieder Straße B,10.04
+Puderbach -> Neuwied,Mo-Fr,6,9,SZ-Center B,10.06
+Puderbach -> Neuwied,Mo-Fr,6,10,Rüscheid Siegel,10.13
+Puderbach -> Neuwied,Mo-Fr,6,11,Anhausen Petershof A,10.15
+Puderbach -> Neuwied,Mo-Fr,6,12,Schillerstraße A an,10.18
+Puderbach -> Neuwied,Mo-Fr,6,13,Schillerstraße A ab,10.19
+Puderbach -> Neuwied,Mo-Fr,6,14,Braunsberg/Rheinhöhenweg,10.21
+Puderbach -> Neuwied,Mo-Fr,6,15,Gladbach Haus am Pilz,10.23
+Puderbach -> Neuwied,Mo-Fr,6,16,Chausseehaus,10.26
+Puderbach -> Neuwied,Mo-Fr,6,17,Torney Dierdorfer Straße,10.29
+Puderbach -> Neuwied,Mo-Fr,6,18,Friedhof Wennenberg,10.30
+Puderbach -> Neuwied,Mo-Fr,6,19,Neuwied Beverwijker Ring,10.32
+Puderbach -> Neuwied,Mo-Fr,6,20,Ludwig-Erhard-Schule,10.35
+Puderbach -> Neuwied,Mo-Fr,6,21,Matthiasberg,10.36
+Puderbach -> Neuwied,Mo-Fr,6,22,Stadion A,10.38
+Puderbach -> Neuwied,Mo-Fr,6,23,Im Weidchen A,10.39
+Puderbach -> Neuwied,Mo-Fr,6,24,Schloßtheater A,10.40
+Puderbach -> Neuwied,Mo-Fr,6,25,Marktkirche A,10.42
+Puderbach -> Neuwied,Mo-Fr,6,26,Marktstraße B,10.43
+Puderbach -> Neuwied,Mo-Fr,6,27,Moltkeplatz A,10.45
+Puderbach -> Neuwied,Mo-Fr,6,28,Bahnhof H,10.51
+Puderbach -> Neuwied,Mo-Fr,7,1,Puderbach Verbandsgemeinde,10.49
+Puderbach -> Neuwied,Mo-Fr,7,2,Hölzchens Mühle,10.50
+Puderbach -> Neuwied,Mo-Fr,7,3,Hanroth Hedwigsthal A,10.51
+Puderbach -> Neuwied,Mo-Fr,7,4,Raubach In der Au,10.55
+Puderbach -> Neuwied,Mo-Fr,7,5,Wienau Flemmer,10.58
+Puderbach -> Neuwied,Mo-Fr,7,6,Dierdorf Markt an,11.02
+Puderbach -> Neuwied,Mo-Fr,7,7,Dierdorf Markt ab,11.03
+Puderbach -> Neuwied,Mo-Fr,7,8,Neuwieder Straße B,11.04
+Puderbach -> Neuwied,Mo-Fr,7,9,SZ-Center B,11.06
+Puderbach -> Neuwied,Mo-Fr,7,10,Rüscheid Siegel,11.13
+Puderbach -> Neuwied,Mo-Fr,7,11,Anhausen Petershof A,11.15
+Puderbach -> Neuwied,Mo-Fr,7,12,Schillerstraße A an,11.18
+Puderbach -> Neuwied,Mo-Fr,7,13,Schillerstraße A ab,11.19
+Puderbach -> Neuwied,Mo-Fr,7,14,Braunsberg/Rheinhöhenweg,11.21
+Puderbach -> Neuwied,Mo-Fr,7,15,Gladbach Haus am Pilz,11.23
+Puderbach -> Neuwied,Mo-Fr,7,16,Chausseehaus,11.26
+Puderbach -> Neuwied,Mo-Fr,7,17,Torney Dierdorfer Straße,11.29
+Puderbach -> Neuwied,Mo-Fr,7,18,Friedhof Wennenberg,11.30
+Puderbach -> Neuwied,Mo-Fr,7,19,Neuwied Beverwijker Ring,11.32
+Puderbach -> Neuwied,Mo-Fr,7,20,Ludwig-Erhard-Schule,11.35
+Puderbach -> Neuwied,Mo-Fr,7,21,Matthiasberg,11.36
+Puderbach -> Neuwied,Mo-Fr,7,22,Stadion A,11.38
+Puderbach -> Neuwied,Mo-Fr,7,23,Im Weidchen A,11.39
+Puderbach -> Neuwied,Mo-Fr,7,24,Schloßtheater A,11.40
+Puderbach -> Neuwied,Mo-Fr,7,25,Marktkirche A,11.42
+Puderbach -> Neuwied,Mo-Fr,7,26,Marktstraße B,11.43
+Puderbach -> Neuwied,Mo-Fr,7,27,Moltkeplatz A,11.45
+Puderbach -> Neuwied,Mo-Fr,7,28,Bahnhof H,11.51
+Puderbach -> Neuwied,Mo-Fr,8,1,Puderbach Verbandsgemeinde,11.49
+Puderbach -> Neuwied,Mo-Fr,8,2,Hölzchens Mühle,11.50
+Puderbach -> Neuwied,Mo-Fr,8,3,Hanroth Hedwigsthal A,11.51
+Puderbach -> Neuwied,Mo-Fr,8,4,Raubach In der Au,11.55
+Puderbach -> Neuwied,Mo-Fr,8,5,Wienau Flemmer,11.58
+Puderbach -> Neuwied,Mo-Fr,8,6,Dierdorf Markt an,12.02
+Puderbach -> Neuwied,Mo-Fr,8,7,Dierdorf Markt ab,12.03
+Puderbach -> Neuwied,Mo-Fr,8,8,Neuwieder Straße B,12.04
+Puderbach -> Neuwied,Mo-Fr,8,9,SZ-Center B,12.06
+Puderbach -> Neuwied,Mo-Fr,8,10,Rüscheid Siegel,12.13
+Puderbach -> Neuwied,Mo-Fr,8,11,Anhausen Petershof A,12.15
+Puderbach -> Neuwied,Mo-Fr,8,12,Schillerstraße A an,12.18
+Puderbach -> Neuwied,Mo-Fr,8,13,Schillerstraße A ab,12.19
+Puderbach -> Neuwied,Mo-Fr,8,14,Braunsberg/Rheinhöhenweg,12.21
+Puderbach -> Neuwied,Mo-Fr,8,15,Gladbach Haus am Pilz,12.23
+Puderbach -> Neuwied,Mo-Fr,8,16,Chausseehaus,12.26
+Puderbach -> Neuwied,Mo-Fr,8,17,Torney Dierdorfer Straße,12.29
+Puderbach -> Neuwied,Mo-Fr,8,18,Friedhof Wennenberg,12.30
+Puderbach -> Neuwied,Mo-Fr,8,19,Neuwied Beverwijker Ring,12.32
+Puderbach -> Neuwied,Mo-Fr,8,20,Ludwig-Erhard-Schule,12.35
+Puderbach -> Neuwied,Mo-Fr,8,21,Matthiasberg,12.36
+Puderbach -> Neuwied,Mo-Fr,8,22,Stadion A,12.38
+Puderbach -> Neuwied,Mo-Fr,8,23,Im Weidchen A,12.39
+Puderbach -> Neuwied,Mo-Fr,8,24,Schloßtheater A,12.40
+Puderbach -> Neuwied,Mo-Fr,8,25,Marktkirche A,12.42
+Puderbach -> Neuwied,Mo-Fr,8,26,Marktstraße B,12.43
+Puderbach -> Neuwied,Mo-Fr,8,27,Moltkeplatz A,12.45
+Puderbach -> Neuwied,Mo-Fr,8,28,Bahnhof H,12.51
+Puderbach -> Neuwied,Mo-Fr,9,1,Puderbach Verbandsgemeinde,12.49
+Puderbach -> Neuwied,Mo-Fr,9,2,Hölzchens Mühle,12.50
+Puderbach -> Neuwied,Mo-Fr,9,3,Hanroth Hedwigsthal A,12.51
+Puderbach -> Neuwied,Mo-Fr,9,4,Raubach In der Au,12.55
+Puderbach -> Neuwied,Mo-Fr,9,5,Wienau Flemmer,12.58
+Puderbach -> Neuwied,Mo-Fr,9,6,Dierdorf Markt an,13.02
+Puderbach -> Neuwied,Mo-Fr,9,7,Dierdorf Markt ab,13.03
+Puderbach -> Neuwied,Mo-Fr,9,8,Neuwieder Straße B,13.04
+Puderbach -> Neuwied,Mo-Fr,9,9,SZ-Center B,13.06
+Puderbach -> Neuwied,Mo-Fr,9,10,Rüscheid Siegel,13.13
+Puderbach -> Neuwied,Mo-Fr,9,11,Anhausen Petershof A,13.15
+Puderbach -> Neuwied,Mo-Fr,9,12,Schillerstraße A an,13.18
+Puderbach -> Neuwied,Mo-Fr,9,13,Schillerstraße A ab,13.19
+Puderbach -> Neuwied,Mo-Fr,9,14,Braunsberg/Rheinhöhenweg,13.21
+Puderbach -> Neuwied,Mo-Fr,9,15,Gladbach Haus am Pilz,13.23
+Puderbach -> Neuwied,Mo-Fr,9,16,Chausseehaus,13.26
+Puderbach -> Neuwied,Mo-Fr,9,17,Torney Dierdorfer Straße,13.29
+Puderbach -> Neuwied,Mo-Fr,9,18,Friedhof Wennenberg,13.30
+Puderbach -> Neuwied,Mo-Fr,9,19,Neuwied Beverwijker Ring,13.32
+Puderbach -> Neuwied,Mo-Fr,9,20,Ludwig-Erhard-Schule,13.35
+Puderbach -> Neuwied,Mo-Fr,9,21,Matthiasberg,13.36
+Puderbach -> Neuwied,Mo-Fr,9,22,Stadion A,13.38
+Puderbach -> Neuwied,Mo-Fr,9,23,Im Weidchen A,13.39
+Puderbach -> Neuwied,Mo-Fr,9,24,Schloßtheater A,13.40
+Puderbach -> Neuwied,Mo-Fr,9,25,Marktkirche A,13.42
+Puderbach -> Neuwied,Mo-Fr,9,26,Marktstraße B,13.43
+Puderbach -> Neuwied,Mo-Fr,9,27,Moltkeplatz A,13.45
+Puderbach -> Neuwied,Mo-Fr,9,28,Bahnhof H,13.51
+Puderbach -> Neuwied,Mo-Fr,10,1,Puderbach Verbandsgemeinde,13.49
+Puderbach -> Neuwied,Mo-Fr,10,2,Hölzchens Mühle,13.50
+Puderbach -> Neuwied,Mo-Fr,10,3,Hanroth Hedwigsthal A,13.51
+Puderbach -> Neuwied,Mo-Fr,10,4,Raubach In der Au,13.55
+Puderbach -> Neuwied,Mo-Fr,10,5,Wienau Flemmer,13.58
+Puderbach -> Neuwied,Mo-Fr,10,6,Dierdorf Markt an,14.02
+Puderbach -> Neuwied,Mo-Fr,10,7,Dierdorf Markt ab,14.03
+Puderbach -> Neuwied,Mo-Fr,10,8,Neuwieder Straße B,14.04
+Puderbach -> Neuwied,Mo-Fr,10,9,SZ-Center B,14.06
+Puderbach -> Neuwied,Mo-Fr,10,10,Rüscheid Siegel,14.13
+Puderbach -> Neuwied,Mo-Fr,10,11,Anhausen Petershof A,14.15
+Puderbach -> Neuwied,Mo-Fr,10,12,Schillerstraße A an,14.18
+Puderbach -> Neuwied,Mo-Fr,10,13,Schillerstraße A ab,14.19
+Puderbach -> Neuwied,Mo-Fr,10,14,Braunsberg/Rheinhöhenweg,14.21
+Puderbach -> Neuwied,Mo-Fr,10,15,Gladbach Haus am Pilz,14.23
+Puderbach -> Neuwied,Mo-Fr,10,16,Chausseehaus,14.26
+Puderbach -> Neuwied,Mo-Fr,10,17,Torney Dierdorfer Straße,14.29
+Puderbach -> Neuwied,Mo-Fr,10,18,Friedhof Wennenberg,14.30
+Puderbach -> Neuwied,Mo-Fr,10,19,Neuwied Beverwijker Ring,14.32
+Puderbach -> Neuwied,Mo-Fr,10,20,Ludwig-Erhard-Schule,14.35
+Puderbach -> Neuwied,Mo-Fr,10,21,Matthiasberg,14.36
+Puderbach -> Neuwied,Mo-Fr,10,22,Stadion A,14.38
+Puderbach -> Neuwied,Mo-Fr,10,23,Im Weidchen A,14.39
+Puderbach -> Neuwied,Mo-Fr,10,24,Schloßtheater A,14.40
+Puderbach -> Neuwied,Mo-Fr,10,25,Marktkirche A,14.42
+Puderbach -> Neuwied,Mo-Fr,10,26,Marktstraße B,14.43
+Puderbach -> Neuwied,Mo-Fr,10,27,Moltkeplatz A,14.45
+Puderbach -> Neuwied,Mo-Fr,10,28,Bahnhof H,14.51
+Puderbach -> Neuwied,Mo-Fr,11,1,Puderbach Verbandsgemeinde,14.49
+Puderbach -> Neuwied,Mo-Fr,11,2,Hölzchens Mühle,14.50
+Puderbach -> Neuwied,Mo-Fr,11,3,Hanroth Hedwigsthal A,14.51
+Puderbach -> Neuwied,Mo-Fr,11,4,Raubach In der Au,14.55
+Puderbach -> Neuwied,Mo-Fr,11,5,Wienau Flemmer,14.58
+Puderbach -> Neuwied,Mo-Fr,11,6,Dierdorf Markt an,15.02
+Puderbach -> Neuwied,Mo-Fr,11,7,Dierdorf Markt ab,15.03
+Puderbach -> Neuwied,Mo-Fr,11,8,Neuwieder Straße B,15.04
+Puderbach -> Neuwied,Mo-Fr,11,9,SZ-Center B,15.06
+Puderbach -> Neuwied,Mo-Fr,11,10,Rüscheid Siegel,15.13
+Puderbach -> Neuwied,Mo-Fr,11,11,Anhausen Petershof A,15.15
+Puderbach -> Neuwied,Mo-Fr,11,12,Schillerstraße A an,15.18
+Puderbach -> Neuwied,Mo-Fr,11,13,Schillerstraße A ab,15.19
+Puderbach -> Neuwied,Mo-Fr,11,14,Braunsberg/Rheinhöhenweg,15.21
+Puderbach -> Neuwied,Mo-Fr,11,15,Gladbach Haus am Pilz,15.23
+Puderbach -> Neuwied,Mo-Fr,11,16,Chausseehaus,15.26
+Puderbach -> Neuwied,Mo-Fr,11,17,Torney Dierdorfer Straße,15.29
+Puderbach -> Neuwied,Mo-Fr,11,18,Friedhof Wennenberg,15.30
+Puderbach -> Neuwied,Mo-Fr,11,19,Neuwied Beverwijker Ring,15.32
+Puderbach -> Neuwied,Mo-Fr,11,20,Ludwig-Erhard-Schule,15.35
+Puderbach -> Neuwied,Mo-Fr,11,21,Matthiasberg,15.36
+Puderbach -> Neuwied,Mo-Fr,11,22,Stadion A,15.38
+Puderbach -> Neuwied,Mo-Fr,11,23,Im Weidchen A,15.39
+Puderbach -> Neuwied,Mo-Fr,11,24,Schloßtheater A,15.40
+Puderbach -> Neuwied,Mo-Fr,11,25,Marktkirche A,15.42
+Puderbach -> Neuwied,Mo-Fr,11,26,Marktstraße B,15.43
+Puderbach -> Neuwied,Mo-Fr,11,27,Moltkeplatz A,15.45
+Puderbach -> Neuwied,Mo-Fr,11,28,Bahnhof H,15.51
+Puderbach -> Neuwied,Mo-Fr,12,1,Puderbach Verbandsgemeinde,15.49
+Puderbach -> Neuwied,Mo-Fr,12,2,Hölzchens Mühle,15.50
+Puderbach -> Neuwied,Mo-Fr,12,3,Hanroth Hedwigsthal A,15.51
+Puderbach -> Neuwied,Mo-Fr,12,4,Raubach In der Au,15.55
+Puderbach -> Neuwied,Mo-Fr,12,5,Wienau Flemmer,15.58
+Puderbach -> Neuwied,Mo-Fr,12,6,Dierdorf Markt an,16.02
+Puderbach -> Neuwied,Mo-Fr,12,7,Dierdorf Markt ab,16.03
+Puderbach -> Neuwied,Mo-Fr,12,8,Neuwieder Straße B,16.04
+Puderbach -> Neuwied,Mo-Fr,12,9,SZ-Center B,16.06
+Puderbach -> Neuwied,Mo-Fr,12,10,Rüscheid Siegel,16.13
+Puderbach -> Neuwied,Mo-Fr,12,11,Anhausen Petershof A,16.15
+Puderbach -> Neuwied,Mo-Fr,12,12,Schillerstraße A an,16.18
+Puderbach -> Neuwied,Mo-Fr,12,13,Schillerstraße A ab,16.19
+Puderbach -> Neuwied,Mo-Fr,12,14,Braunsberg/Rheinhöhenweg,16.21
+Puderbach -> Neuwied,Mo-Fr,12,15,Gladbach Haus am Pilz,16.23
+Puderbach -> Neuwied,Mo-Fr,12,16,Chausseehaus,16.26
+Puderbach -> Neuwied,Mo-Fr,12,17,Torney Dierdorfer Straße,16.29
+Puderbach -> Neuwied,Mo-Fr,12,18,Friedhof Wennenberg,16.30
+Puderbach -> Neuwied,Mo-Fr,12,19,Neuwied Beverwijker Ring,16.32
+Puderbach -> Neuwied,Mo-Fr,12,20,Ludwig-Erhard-Schule,16.35
+Puderbach -> Neuwied,Mo-Fr,12,21,Matthiasberg,16.36
+Puderbach -> Neuwied,Mo-Fr,12,22,Stadion A,16.38
+Puderbach -> Neuwied,Mo-Fr,12,23,Im Weidchen A,16.39
+Puderbach -> Neuwied,Mo-Fr,12,24,Schloßtheater A,16.40
+Puderbach -> Neuwied,Mo-Fr,12,25,Marktkirche A,16.42
+Puderbach -> Neuwied,Mo-Fr,12,26,Marktstraße B,16.43
+Puderbach -> Neuwied,Mo-Fr,12,27,Moltkeplatz A,16.45
+Puderbach -> Neuwied,Mo-Fr,12,28,Bahnhof H,16.51
+Puderbach -> Neuwied,Mo-Fr,13,1,Puderbach Verbandsgemeinde,16.49
+Puderbach -> Neuwied,Mo-Fr,13,2,Hölzchens Mühle,16.50
+Puderbach -> Neuwied,Mo-Fr,13,3,Hanroth Hedwigsthal A,16.51
+Puderbach -> Neuwied,Mo-Fr,13,4,Raubach In der Au,16.55
+Puderbach -> Neuwied,Mo-Fr,13,5,Wienau Flemmer,16.58
+Puderbach -> Neuwied,Mo-Fr,13,6,Dierdorf Markt an,17.02
+Puderbach -> Neuwied,Mo-Fr,13,7,Dierdorf Markt ab,17.03
+Puderbach -> Neuwied,Mo-Fr,13,8,Neuwieder Straße B,17.04
+Puderbach -> Neuwied,Mo-Fr,13,9,SZ-Center B,17.06
+Puderbach -> Neuwied,Mo-Fr,13,10,Rüscheid Siegel,17.13
+Puderbach -> Neuwied,Mo-Fr,13,11,Anhausen Petershof A,17.15
+Puderbach -> Neuwied,Mo-Fr,13,12,Schillerstraße A an,17.18
+Puderbach -> Neuwied,Mo-Fr,13,13,Schillerstraße A ab,17.19
+Puderbach -> Neuwied,Mo-Fr,13,14,Braunsberg/Rheinhöhenweg,17.21
+Puderbach -> Neuwied,Mo-Fr,13,15,Gladbach Haus am Pilz,17.23
+Puderbach -> Neuwied,Mo-Fr,13,16,Chausseehaus,17.26
+Puderbach -> Neuwied,Mo-Fr,13,17,Torney Dierdorfer Straße,17.29
+Puderbach -> Neuwied,Mo-Fr,13,18,Friedhof Wennenberg,17.30
+Puderbach -> Neuwied,Mo-Fr,13,19,Neuwied Beverwijker Ring,17.32
+Puderbach -> Neuwied,Mo-Fr,13,20,Ludwig-Erhard-Schule,17.35
+Puderbach -> Neuwied,Mo-Fr,13,21,Matthiasberg,17.36
+Puderbach -> Neuwied,Mo-Fr,13,22,Stadion A,17.38
+Puderbach -> Neuwied,Mo-Fr,13,23,Im Weidchen A,17.39
+Puderbach -> Neuwied,Mo-Fr,13,24,Schloßtheater A,17.40
+Puderbach -> Neuwied,Mo-Fr,13,25,Marktkirche A,17.42
+Puderbach -> Neuwied,Mo-Fr,13,26,Marktstraße B,17.43
+Puderbach -> Neuwied,Mo-Fr,13,27,Moltkeplatz A,17.45
+Puderbach -> Neuwied,Mo-Fr,13,28,Bahnhof H,17.51
+Puderbach -> Neuwied,Mo-Fr,14,1,Puderbach Verbandsgemeinde,17.49
+Puderbach -> Neuwied,Mo-Fr,14,2,Hölzchens Mühle,17.50
+Puderbach -> Neuwied,Mo-Fr,14,3,Hanroth Hedwigsthal A,17.51
+Puderbach -> Neuwied,Mo-Fr,14,4,Raubach In der Au,17.55
+Puderbach -> Neuwied,Mo-Fr,14,5,Wienau Flemmer,17.58
+Puderbach -> Neuwied,Mo-Fr,14,6,Dierdorf Markt an,18.02
+Puderbach -> Neuwied,Mo-Fr,14,7,Dierdorf Markt ab,18.03
+Puderbach -> Neuwied,Mo-Fr,14,8,Neuwieder Straße B,18.04
+Puderbach -> Neuwied,Mo-Fr,14,9,SZ-Center B,18.06
+Puderbach -> Neuwied,Mo-Fr,14,10,Rüscheid Siegel,18.13
+Puderbach -> Neuwied,Mo-Fr,14,11,Anhausen Petershof A,18.15
+Puderbach -> Neuwied,Mo-Fr,14,12,Schillerstraße A an,18.18
+Puderbach -> Neuwied,Mo-Fr,14,13,Schillerstraße A ab,18.19
+Puderbach -> Neuwied,Mo-Fr,14,14,Braunsberg/Rheinhöhenweg,18.21
+Puderbach -> Neuwied,Mo-Fr,14,15,Gladbach Haus am Pilz,18.23
+Puderbach -> Neuwied,Mo-Fr,14,16,Chausseehaus,18.26
+Puderbach -> Neuwied,Mo-Fr,14,17,Torney Dierdorfer Straße,18.29
+Puderbach -> Neuwied,Mo-Fr,14,18,Friedhof Wennenberg,18.30
+Puderbach -> Neuwied,Mo-Fr,14,19,Neuwied Beverwijker Ring,18.32
+Puderbach -> Neuwied,Mo-Fr,14,20,Ludwig-Erhard-Schule,18.35
+Puderbach -> Neuwied,Mo-Fr,14,21,Matthiasberg,18.36
+Puderbach -> Neuwied,Mo-Fr,14,22,Stadion A,18.38
+Puderbach -> Neuwied,Mo-Fr,14,23,Im Weidchen A,18.39
+Puderbach -> Neuwied,Mo-Fr,14,24,Schloßtheater A,18.40
+Puderbach -> Neuwied,Mo-Fr,14,25,Marktkirche A,18.42
+Puderbach -> Neuwied,Mo-Fr,14,26,Marktstraße B,18.43
+Puderbach -> Neuwied,Mo-Fr,14,27,Moltkeplatz A,18.45
+Puderbach -> Neuwied,Mo-Fr,14,28,Bahnhof H,18.51
+Puderbach -> Neuwied,Mo-Fr,15,1,Puderbach Verbandsgemeinde,18.49
+Puderbach -> Neuwied,Mo-Fr,15,2,Hölzchens Mühle,18.50
+Puderbach -> Neuwied,Mo-Fr,15,3,Hanroth Hedwigsthal A,18.51
+Puderbach -> Neuwied,Mo-Fr,15,4,Raubach In der Au,18.55
+Puderbach -> Neuwied,Mo-Fr,15,5,Wienau Flemmer,18.58
+Puderbach -> Neuwied,Mo-Fr,15,6,Dierdorf Markt an,19.02
+Puderbach -> Neuwied,Mo-Fr,15,7,Dierdorf Markt ab,19.03
+Puderbach -> Neuwied,Mo-Fr,15,8,Neuwieder Straße B,19.04
+Puderbach -> Neuwied,Mo-Fr,15,9,SZ-Center B,19.06
+Puderbach -> Neuwied,Mo-Fr,15,10,Rüscheid Siegel,19.13
+Puderbach -> Neuwied,Mo-Fr,15,11,Anhausen Petershof A,19.15
+Puderbach -> Neuwied,Mo-Fr,15,12,Schillerstraße A an,19.18
+Puderbach -> Neuwied,Mo-Fr,15,13,Schillerstraße A ab,19.19
+Puderbach -> Neuwied,Mo-Fr,15,14,Braunsberg/Rheinhöhenweg,19.21
+Puderbach -> Neuwied,Mo-Fr,15,15,Gladbach Haus am Pilz,19.23
+Puderbach -> Neuwied,Mo-Fr,15,16,Chausseehaus,19.26
+Puderbach -> Neuwied,Mo-Fr,15,17,Torney Dierdorfer Straße,19.29
+Puderbach -> Neuwied,Mo-Fr,15,18,Friedhof Wennenberg,19.30
+Puderbach -> Neuwied,Mo-Fr,15,19,Neuwied Beverwijker Ring,19.32
+Puderbach -> Neuwied,Mo-Fr,15,20,Ludwig-Erhard-Schule,19.35
+Puderbach -> Neuwied,Mo-Fr,15,21,Matthiasberg,19.36
+Puderbach -> Neuwied,Mo-Fr,15,22,Stadion A,19.38
+Puderbach -> Neuwied,Mo-Fr,15,23,Im Weidchen A,19.39
+Puderbach -> Neuwied,Mo-Fr,15,24,Schloßtheater A,19.40
+Puderbach -> Neuwied,Mo-Fr,15,25,Marktkirche A,19.42
+Puderbach -> Neuwied,Mo-Fr,15,26,Marktstraße B,19.43
+Puderbach -> Neuwied,Mo-Fr,15,27,Moltkeplatz A,19.45
+Puderbach -> Neuwied,Mo-Fr,15,28,Bahnhof H,19.51
+Puderbach -> Neuwied,Mo-Fr,16,1,Dierdorf Markt ab,20.03
+Puderbach -> Neuwied,Mo-Fr,16,2,Neuwieder Straße B,20.04
+Puderbach -> Neuwied,Mo-Fr,16,3,SZ-Center B,20.06
+Puderbach -> Neuwied,Mo-Fr,16,4,Rüscheid Siegel,20.13
+Puderbach -> Neuwied,Mo-Fr,16,5,Anhausen Petershof A,20.15
+Puderbach -> Neuwied,Mo-Fr,16,6,Schillerstraße A an,20.18
+Puderbach -> Neuwied,Mo-Fr,16,7,Schillerstraße A ab,20.19
+Puderbach -> Neuwied,Mo-Fr,16,8,Braunsberg/Rheinhöhenweg,20.21
+Puderbach -> Neuwied,Mo-Fr,16,9,Gladbach Haus am Pilz,20.23
+Puderbach -> Neuwied,Mo-Fr,16,10,Chausseehaus,20.26
+Puderbach -> Neuwied,Mo-Fr,16,11,Torney Dierdorfer Straße,20.29
+Puderbach -> Neuwied,Mo-Fr,16,12,Friedhof Wennenberg,20.30
+Puderbach -> Neuwied,Mo-Fr,16,13,Neuwied Beverwijker Ring,20.32
+Puderbach -> Neuwied,Mo-Fr,16,14,Ludwig-Erhard-Schule,20.35
+Puderbach -> Neuwied,Mo-Fr,16,15,Matthiasberg,20.36
+Puderbach -> Neuwied,Mo-Fr,16,16,Stadion A,20.38
+Puderbach -> Neuwied,Mo-Fr,16,17,Im Weidchen A,20.39
+Puderbach -> Neuwied,Mo-Fr,16,18,Schloßtheater A,20.40
+Puderbach -> Neuwied,Mo-Fr,16,19,Marktkirche A,20.42
+Puderbach -> Neuwied,Mo-Fr,16,20,Marktstraße B,20.43
+Puderbach -> Neuwied,Mo-Fr,16,21,Moltkeplatz A,20.45
+Puderbach -> Neuwied,Mo-Fr,16,22,Bahnhof H,20.51
+Puderbach -> Neuwied,Mo-Fr,17,1,Puderbach Verbandsgemeinde,20.49
+Puderbach -> Neuwied,Mo-Fr,17,2,Hölzchens Mühle,20.50
+Puderbach -> Neuwied,Mo-Fr,17,3,Hanroth Hedwigsthal A,20.51
+Puderbach -> Neuwied,Mo-Fr,17,4,Raubach In der Au,20.55
+Puderbach -> Neuwied,Mo-Fr,17,5,Wienau Flemmer,20.58
+Puderbach -> Neuwied,Mo-Fr,17,6,Dierdorf Markt an,21.02
+Puderbach -> Neuwied,Mo-Fr,17,7,Dierdorf Markt ab,21.03
+Puderbach -> Neuwied,Mo-Fr,17,8,Neuwieder Straße B,21.04
+Puderbach -> Neuwied,Mo-Fr,17,9,SZ-Center B,21.06
+Puderbach -> Neuwied,Mo-Fr,17,10,Rüscheid Siegel,21.13
+Puderbach -> Neuwied,Mo-Fr,17,11,Anhausen Petershof A,21.15
+Puderbach -> Neuwied,Mo-Fr,17,12,Schillerstraße A an,21.18
+Puderbach -> Neuwied,Mo-Fr,17,13,Schillerstraße A ab,21.19
+Puderbach -> Neuwied,Mo-Fr,17,14,Braunsberg/Rheinhöhenweg,21.21
+Puderbach -> Neuwied,Mo-Fr,17,15,Gladbach Haus am Pilz,21.23
+Puderbach -> Neuwied,Mo-Fr,17,16,Chausseehaus,21.26
+Puderbach -> Neuwied,Mo-Fr,17,17,Torney Dierdorfer Straße,21.29
+Puderbach -> Neuwied,Mo-Fr,17,18,Friedhof Wennenberg,21.30
+Puderbach -> Neuwied,Mo-Fr,17,19,Neuwied Beverwijker Ring,21.32
+Puderbach -> Neuwied,Mo-Fr,17,20,Ludwig-Erhard-Schule,21.35
+Puderbach -> Neuwied,Mo-Fr,17,21,Matthiasberg,21.36
+Puderbach -> Neuwied,Mo-Fr,17,22,Stadion A,21.38
+Puderbach -> Neuwied,Mo-Fr,17,23,Im Weidchen A,21.39
+Puderbach -> Neuwied,Mo-Fr,17,24,Schloßtheater A,21.40
+Puderbach -> Neuwied,Mo-Fr,17,25,Marktkirche A,21.42
+Puderbach -> Neuwied,Mo-Fr,17,26,Marktstraße B,21.43
+Puderbach -> Neuwied,Mo-Fr,17,27,Moltkeplatz A,21.45
+Puderbach -> Neuwied,Mo-Fr,17,28,Bahnhof H,21.51
+Puderbach -> Neuwied,Mo-Fr,18,1,Dierdorf Markt ab,22.03
+Puderbach -> Neuwied,Mo-Fr,18,2,Neuwieder Straße B,22.04
+Puderbach -> Neuwied,Mo-Fr,18,3,SZ-Center B,22.06
+Puderbach -> Neuwied,Mo-Fr,18,4,Rüscheid Siegel,22.13
+Puderbach -> Neuwied,Mo-Fr,18,5,Anhausen Petershof A,22.15
+Puderbach -> Neuwied,Mo-Fr,18,6,Schillerstraße A an,22.18
+Puderbach -> Neuwied,Mo-Fr,18,7,Schillerstraße A ab,22.19
+Puderbach -> Neuwied,Mo-Fr,18,8,Braunsberg/Rheinhöhenweg,22.21
+Puderbach -> Neuwied,Mo-Fr,18,9,Gladbach Haus am Pilz,22.23
+Puderbach -> Neuwied,Mo-Fr,18,10,Chausseehaus,22.26
+Puderbach -> Neuwied,Mo-Fr,18,11,Torney Dierdorfer Straße,22.29
+Puderbach -> Neuwied,Mo-Fr,18,12,Friedhof Wennenberg,22.30
+Puderbach -> Neuwied,Mo-Fr,18,13,Neuwied Beverwijker Ring,22.32
+Puderbach -> Neuwied,Mo-Fr,18,14,Ludwig-Erhard-Schule,22.35
+Puderbach -> Neuwied,Mo-Fr,18,15,Matthiasberg,22.36
+Puderbach -> Neuwied,Mo-Fr,18,16,Stadion A,22.38
+Puderbach -> Neuwied,Mo-Fr,18,17,Im Weidchen A,22.39
+Puderbach -> Neuwied,Mo-Fr,18,18,Schloßtheater A,22.40
+Puderbach -> Neuwied,Mo-Fr,18,19,Marktkirche A,22.42
+Puderbach -> Neuwied,Mo-Fr,18,20,Marktstraße B,22.43
+Puderbach -> Neuwied,Mo-Fr,18,21,Moltkeplatz A,22.45
+Puderbach -> Neuwied,Mo-Fr,18,22,Bahnhof H,22.51
+Puderbach -> Neuwied,Sa,1,1,Puderbach Verbandsgemeinde,6.49
+Puderbach -> Neuwied,Sa,1,2,Hölzchens Mühle,6.50
+Puderbach -> Neuwied,Sa,1,3,Hanroth Hedwigsthal A,6.51
+Puderbach -> Neuwied,Sa,1,4,Raubach In der Au,6.55
+Puderbach -> Neuwied,Sa,1,5,Wienau Flemmer,6.58
+Puderbach -> Neuwied,Sa,1,6,Dierdorf Markt an,7.02
+Puderbach -> Neuwied,Sa,1,7,Dierdorf Markt ab,7.03
+Puderbach -> Neuwied,Sa,1,8,Neuwieder Straße B,7.04
+Puderbach -> Neuwied,Sa,1,9,SZ-Center B,7.06
+Puderbach -> Neuwied,Sa,1,10,Rüscheid Siegel,7.13
+Puderbach -> Neuwied,Sa,1,11,Anhausen Petershof A,7.15
+Puderbach -> Neuwied,Sa,1,12,Schillerstraße A an,7.18
+Puderbach -> Neuwied,Sa,1,13,Schillerstraße A ab,7.19
+Puderbach -> Neuwied,Sa,1,14,Braunsberg/Rheinhöhenweg,7.21
+Puderbach -> Neuwied,Sa,1,15,Gladbach Haus am Pilz,7.23
+Puderbach -> Neuwied,Sa,1,16,Chausseehaus,7.26
+Puderbach -> Neuwied,Sa,1,17,Torney Dierdorfer Straße,7.29
+Puderbach -> Neuwied,Sa,1,18,Friedhof Wennenberg,7.30
+Puderbach -> Neuwied,Sa,1,19,Neuwied Beverwijker Ring,7.32
+Puderbach -> Neuwied,Sa,1,20,Ludwig-Erhard-Schule,7.35
+Puderbach -> Neuwied,Sa,1,21,Matthiasberg,7.36
+Puderbach -> Neuwied,Sa,1,22,Stadion A,7.38
+Puderbach -> Neuwied,Sa,1,23,Im Weidchen A,7.39
+Puderbach -> Neuwied,Sa,1,24,Schloßtheater A,7.40
+Puderbach -> Neuwied,Sa,1,25,Marktkirche A,7.42
+Puderbach -> Neuwied,Sa,1,26,Marktstraße B,7.43
+Puderbach -> Neuwied,Sa,1,27,Moltkeplatz A,7.45
+Puderbach -> Neuwied,Sa,1,28,Bahnhof H,7.51
+Puderbach -> Neuwied,Sa,2,1,Dierdorf Markt ab,8.03
+Puderbach -> Neuwied,Sa,2,2,Neuwieder Straße B,8.04
+Puderbach -> Neuwied,Sa,2,3,SZ-Center B,8.06
+Puderbach -> Neuwied,Sa,2,4,Rüscheid Siegel,8.13
+Puderbach -> Neuwied,Sa,2,5,Anhausen Petershof A,8.15
+Puderbach -> Neuwied,Sa,2,6,Schillerstraße A an,8.18
+Puderbach -> Neuwied,Sa,2,7,Schillerstraße A ab,8.19
+Puderbach -> Neuwied,Sa,2,8,Braunsberg/Rheinhöhenweg,8.21
+Puderbach -> Neuwied,Sa,2,9,Gladbach Haus am Pilz,8.23
+Puderbach -> Neuwied,Sa,2,10,Chausseehaus,8.26
+Puderbach -> Neuwied,Sa,2,11,Torney Dierdorfer Straße,8.29
+Puderbach -> Neuwied,Sa,2,12,Friedhof Wennenberg,8.30
+Puderbach -> Neuwied,Sa,2,13,Neuwied Beverwijker Ring,8.32
+Puderbach -> Neuwied,Sa,2,14,Ludwig-Erhard-Schule,8.35
+Puderbach -> Neuwied,Sa,2,15,Matthiasberg,8.36
+Puderbach -> Neuwied,Sa,2,16,Stadion A,8.38
+Puderbach -> Neuwied,Sa,2,17,Im Weidchen A,8.39
+Puderbach -> Neuwied,Sa,2,18,Schloßtheater A,8.40
+Puderbach -> Neuwied,Sa,2,19,Marktkirche A,8.42
+Puderbach -> Neuwied,Sa,2,20,Marktstraße B,8.43
+Puderbach -> Neuwied,Sa,2,21,Moltkeplatz A,8.45
+Puderbach -> Neuwied,Sa,2,22,Bahnhof H,8.51
+Puderbach -> Neuwied,Sa,3,1,Puderbach Verbandsgemeinde,8.49
+Puderbach -> Neuwied,Sa,3,2,Hölzchens Mühle,8.50
+Puderbach -> Neuwied,Sa,3,3,Hanroth Hedwigsthal A,8.51
+Puderbach -> Neuwied,Sa,3,4,Raubach In der Au,8.55
+Puderbach -> Neuwied,Sa,3,5,Wienau Flemmer,8.58
+Puderbach -> Neuwied,Sa,3,6,Dierdorf Markt an,9.02
+Puderbach -> Neuwied,Sa,3,7,Dierdorf Markt ab,9.03
+Puderbach -> Neuwied,Sa,3,8,Neuwieder Straße B,9.04
+Puderbach -> Neuwied,Sa,3,9,SZ-Center B,9.06
+Puderbach -> Neuwied,Sa,3,10,Rüscheid Siegel,9.13
+Puderbach -> Neuwied,Sa,3,11,Anhausen Petershof A,9.15
+Puderbach -> Neuwied,Sa,3,12,Schillerstraße A an,9.18
+Puderbach -> Neuwied,Sa,3,13,Schillerstraße A ab,9.19
+Puderbach -> Neuwied,Sa,3,14,Braunsberg/Rheinhöhenweg,9.21
+Puderbach -> Neuwied,Sa,3,15,Gladbach Haus am Pilz,9.23
+Puderbach -> Neuwied,Sa,3,16,Chausseehaus,9.26
+Puderbach -> Neuwied,Sa,3,17,Torney Dierdorfer Straße,9.29
+Puderbach -> Neuwied,Sa,3,18,Friedhof Wennenberg,9.30
+Puderbach -> Neuwied,Sa,3,19,Neuwied Beverwijker Ring,9.32
+Puderbach -> Neuwied,Sa,3,20,Ludwig-Erhard-Schule,9.35
+Puderbach -> Neuwied,Sa,3,21,Matthiasberg,9.36
+Puderbach -> Neuwied,Sa,3,22,Stadion A,9.38
+Puderbach -> Neuwied,Sa,3,23,Im Weidchen A,9.39
+Puderbach -> Neuwied,Sa,3,24,Schloßtheater A,9.40
+Puderbach -> Neuwied,Sa,3,25,Marktkirche A,9.42
+Puderbach -> Neuwied,Sa,3,26,Marktstraße B,9.43
+Puderbach -> Neuwied,Sa,3,27,Moltkeplatz A,9.45
+Puderbach -> Neuwied,Sa,3,28,Bahnhof H,9.51
+Puderbach -> Neuwied,Sa,4,1,Dierdorf Markt ab,10.03
+Puderbach -> Neuwied,Sa,4,2,Neuwieder Straße B,10.04
+Puderbach -> Neuwied,Sa,4,3,SZ-Center B,10.06
+Puderbach -> Neuwied,Sa,4,4,Rüscheid Siegel,10.13
+Puderbach -> Neuwied,Sa,4,5,Anhausen Petershof A,10.15
+Puderbach -> Neuwied,Sa,4,6,Schillerstraße A an,10.18
+Puderbach -> Neuwied,Sa,4,7,Schillerstraße A ab,10.19
+Puderbach -> Neuwied,Sa,4,8,Braunsberg/Rheinhöhenweg,10.21
+Puderbach -> Neuwied,Sa,4,9,Gladbach Haus am Pilz,10.23
+Puderbach -> Neuwied,Sa,4,10,Chausseehaus,10.26
+Puderbach -> Neuwied,Sa,4,11,Torney Dierdorfer Straße,10.29
+Puderbach -> Neuwied,Sa,4,12,Friedhof Wennenberg,10.30
+Puderbach -> Neuwied,Sa,4,13,Neuwied Beverwijker Ring,10.32
+Puderbach -> Neuwied,Sa,4,14,Ludwig-Erhard-Schule,10.35
+Puderbach -> Neuwied,Sa,4,15,Matthiasberg,10.36
+Puderbach -> Neuwied,Sa,4,16,Stadion A,10.38
+Puderbach -> Neuwied,Sa,4,17,Im Weidchen A,10.39
+Puderbach -> Neuwied,Sa,4,18,Schloßtheater A,10.40
+Puderbach -> Neuwied,Sa,4,19,Marktkirche A,10.42
+Puderbach -> Neuwied,Sa,4,20,Marktstraße B,10.43
+Puderbach -> Neuwied,Sa,4,21,Moltkeplatz A,10.45
+Puderbach -> Neuwied,Sa,4,22,Bahnhof H,10.51
+Puderbach -> Neuwied,Sa,5,1,Puderbach Verbandsgemeinde,10.49
+Puderbach -> Neuwied,Sa,5,2,Hölzchens Mühle,10.50
+Puderbach -> Neuwied,Sa,5,3,Hanroth Hedwigsthal A,10.51
+Puderbach -> Neuwied,Sa,5,4,Raubach In der Au,10.55
+Puderbach -> Neuwied,Sa,5,5,Wienau Flemmer,10.58
+Puderbach -> Neuwied,Sa,5,6,Dierdorf Markt an,11.02
+Puderbach -> Neuwied,Sa,5,7,Dierdorf Markt ab,11.03
+Puderbach -> Neuwied,Sa,5,8,Neuwieder Straße B,11.04
+Puderbach -> Neuwied,Sa,5,9,SZ-Center B,11.06
+Puderbach -> Neuwied,Sa,5,10,Rüscheid Siegel,11.13
+Puderbach -> Neuwied,Sa,5,11,Anhausen Petershof A,11.15
+Puderbach -> Neuwied,Sa,5,12,Schillerstraße A an,11.18
+Puderbach -> Neuwied,Sa,5,13,Schillerstraße A ab,11.19
+Puderbach -> Neuwied,Sa,5,14,Braunsberg/Rheinhöhenweg,11.21
+Puderbach -> Neuwied,Sa,5,15,Gladbach Haus am Pilz,11.23
+Puderbach -> Neuwied,Sa,5,16,Chausseehaus,11.26
+Puderbach -> Neuwied,Sa,5,17,Torney Dierdorfer Straße,11.29
+Puderbach -> Neuwied,Sa,5,18,Friedhof Wennenberg,11.30
+Puderbach -> Neuwied,Sa,5,19,Neuwied Beverwijker Ring,11.32
+Puderbach -> Neuwied,Sa,5,20,Ludwig-Erhard-Schule,11.35
+Puderbach -> Neuwied,Sa,5,21,Matthiasberg,11.36
+Puderbach -> Neuwied,Sa,5,22,Stadion A,11.38
+Puderbach -> Neuwied,Sa,5,23,Im Weidchen A,11.39
+Puderbach -> Neuwied,Sa,5,24,Schloßtheater A,11.40
+Puderbach -> Neuwied,Sa,5,25,Marktkirche A,11.42
+Puderbach -> Neuwied,Sa,5,26,Marktstraße B,11.43
+Puderbach -> Neuwied,Sa,5,27,Moltkeplatz A,11.45
+Puderbach -> Neuwied,Sa,5,28,Bahnhof H,11.51
+Puderbach -> Neuwied,Sa,6,1,Dierdorf Markt ab,12.03
+Puderbach -> Neuwied,Sa,6,2,Neuwieder Straße B,12.04
+Puderbach -> Neuwied,Sa,6,3,SZ-Center B,12.06
+Puderbach -> Neuwied,Sa,6,4,Rüscheid Siegel,12.13
+Puderbach -> Neuwied,Sa,6,5,Anhausen Petershof A,12.15
+Puderbach -> Neuwied,Sa,6,6,Schillerstraße A an,12.18
+Puderbach -> Neuwied,Sa,6,7,Schillerstraße A ab,12.19
+Puderbach -> Neuwied,Sa,6,8,Braunsberg/Rheinhöhenweg,12.21
+Puderbach -> Neuwied,Sa,6,9,Gladbach Haus am Pilz,12.23
+Puderbach -> Neuwied,Sa,6,10,Chausseehaus,12.26
+Puderbach -> Neuwied,Sa,6,11,Torney Dierdorfer Straße,12.29
+Puderbach -> Neuwied,Sa,6,12,Friedhof Wennenberg,12.30
+Puderbach -> Neuwied,Sa,6,13,Neuwied Beverwijker Ring,12.32
+Puderbach -> Neuwied,Sa,6,14,Ludwig-Erhard-Schule,12.35
+Puderbach -> Neuwied,Sa,6,15,Matthiasberg,12.36
+Puderbach -> Neuwied,Sa,6,16,Stadion A,12.38
+Puderbach -> Neuwied,Sa,6,17,Im Weidchen A,12.39
+Puderbach -> Neuwied,Sa,6,18,Schloßtheater A,12.40
+Puderbach -> Neuwied,Sa,6,19,Marktkirche A,12.42
+Puderbach -> Neuwied,Sa,6,20,Marktstraße B,12.43
+Puderbach -> Neuwied,Sa,6,21,Moltkeplatz A,12.45
+Puderbach -> Neuwied,Sa,6,22,Bahnhof H,12.51
+Puderbach -> Neuwied,Sa,7,1,Puderbach Verbandsgemeinde,12.49
+Puderbach -> Neuwied,Sa,7,2,Hölzchens Mühle,12.50
+Puderbach -> Neuwied,Sa,7,3,Hanroth Hedwigsthal A,12.51
+Puderbach -> Neuwied,Sa,7,4,Raubach In der Au,12.55
+Puderbach -> Neuwied,Sa,7,5,Wienau Flemmer,12.58
+Puderbach -> Neuwied,Sa,7,6,Dierdorf Markt an,13.02
+Puderbach -> Neuwied,Sa,7,7,Dierdorf Markt ab,13.03
+Puderbach -> Neuwied,Sa,7,8,Neuwieder Straße B,13.04
+Puderbach -> Neuwied,Sa,7,9,SZ-Center B,13.06
+Puderbach -> Neuwied,Sa,7,10,Rüscheid Siegel,13.13
+Puderbach -> Neuwied,Sa,7,11,Anhausen Petershof A,13.15
+Puderbach -> Neuwied,Sa,7,12,Schillerstraße A an,13.18
+Puderbach -> Neuwied,Sa,7,13,Schillerstraße A ab,13.19
+Puderbach -> Neuwied,Sa,7,14,Braunsberg/Rheinhöhenweg,13.21
+Puderbach -> Neuwied,Sa,7,15,Gladbach Haus am Pilz,13.23
+Puderbach -> Neuwied,Sa,7,16,Chausseehaus,13.26
+Puderbach -> Neuwied,Sa,7,17,Torney Dierdorfer Straße,13.29
+Puderbach -> Neuwied,Sa,7,18,Friedhof Wennenberg,13.30
+Puderbach -> Neuwied,Sa,7,19,Neuwied Beverwijker Ring,13.32
+Puderbach -> Neuwied,Sa,7,20,Ludwig-Erhard-Schule,13.35
+Puderbach -> Neuwied,Sa,7,21,Matthiasberg,13.36
+Puderbach -> Neuwied,Sa,7,22,Stadion A,13.38
+Puderbach -> Neuwied,Sa,7,23,Im Weidchen A,13.39
+Puderbach -> Neuwied,Sa,7,24,Schloßtheater A,13.40
+Puderbach -> Neuwied,Sa,7,25,Marktkirche A,13.42
+Puderbach -> Neuwied,Sa,7,26,Marktstraße B,13.43
+Puderbach -> Neuwied,Sa,7,27,Moltkeplatz A,13.45
+Puderbach -> Neuwied,Sa,7,28,Bahnhof H,13.51
+Puderbach -> Neuwied,Sa,8,1,Dierdorf Markt ab,14.03
+Puderbach -> Neuwied,Sa,8,2,Neuwieder Straße B,14.04
+Puderbach -> Neuwied,Sa,8,3,SZ-Center B,14.06
+Puderbach -> Neuwied,Sa,8,4,Rüscheid Siegel,14.13
+Puderbach -> Neuwied,Sa,8,5,Anhausen Petershof A,14.15
+Puderbach -> Neuwied,Sa,8,6,Schillerstraße A an,14.18
+Puderbach -> Neuwied,Sa,8,7,Schillerstraße A ab,14.19
+Puderbach -> Neuwied,Sa,8,8,Braunsberg/Rheinhöhenweg,14.21
+Puderbach -> Neuwied,Sa,8,9,Gladbach Haus am Pilz,14.23
+Puderbach -> Neuwied,Sa,8,10,Chausseehaus,14.26
+Puderbach -> Neuwied,Sa,8,11,Torney Dierdorfer Straße,14.29
+Puderbach -> Neuwied,Sa,8,12,Friedhof Wennenberg,14.30
+Puderbach -> Neuwied,Sa,8,13,Neuwied Beverwijker Ring,14.32
+Puderbach -> Neuwied,Sa,8,14,Ludwig-Erhard-Schule,14.35
+Puderbach -> Neuwied,Sa,8,15,Matthiasberg,14.36
+Puderbach -> Neuwied,Sa,8,16,Stadion A,14.38
+Puderbach -> Neuwied,Sa,8,17,Im Weidchen A,14.39
+Puderbach -> Neuwied,Sa,8,18,Schloßtheater A,14.40
+Puderbach -> Neuwied,Sa,8,19,Marktkirche A,14.42
+Puderbach -> Neuwied,Sa,8,20,Marktstraße B,14.43
+Puderbach -> Neuwied,Sa,8,21,Moltkeplatz A,14.45
+Puderbach -> Neuwied,Sa,8,22,Bahnhof H,14.51
+Puderbach -> Neuwied,Sa,9,1,Puderbach Verbandsgemeinde,14.49
+Puderbach -> Neuwied,Sa,9,2,Hölzchens Mühle,14.50
+Puderbach -> Neuwied,Sa,9,3,Hanroth Hedwigsthal A,14.51
+Puderbach -> Neuwied,Sa,9,4,Raubach In der Au,14.55
+Puderbach -> Neuwied,Sa,9,5,Wienau Flemmer,14.58
+Puderbach -> Neuwied,Sa,9,6,Dierdorf Markt an,15.02
+Puderbach -> Neuwied,Sa,9,7,Dierdorf Markt ab,15.03
+Puderbach -> Neuwied,Sa,9,8,Neuwieder Straße B,15.04
+Puderbach -> Neuwied,Sa,9,9,SZ-Center B,15.06
+Puderbach -> Neuwied,Sa,9,10,Rüscheid Siegel,15.13
+Puderbach -> Neuwied,Sa,9,11,Anhausen Petershof A,15.15
+Puderbach -> Neuwied,Sa,9,12,Schillerstraße A an,15.18
+Puderbach -> Neuwied,Sa,9,13,Schillerstraße A ab,15.19
+Puderbach -> Neuwied,Sa,9,14,Braunsberg/Rheinhöhenweg,15.21
+Puderbach -> Neuwied,Sa,9,15,Gladbach Haus am Pilz,15.23
+Puderbach -> Neuwied,Sa,9,16,Chausseehaus,15.26
+Puderbach -> Neuwied,Sa,9,17,Torney Dierdorfer Straße,15.29
+Puderbach -> Neuwied,Sa,9,18,Friedhof Wennenberg,15.30
+Puderbach -> Neuwied,Sa,9,19,Neuwied Beverwijker Ring,15.32
+Puderbach -> Neuwied,Sa,9,20,Ludwig-Erhard-Schule,15.35
+Puderbach -> Neuwied,Sa,9,21,Matthiasberg,15.36
+Puderbach -> Neuwied,Sa,9,22,Stadion A,15.38
+Puderbach -> Neuwied,Sa,9,23,Im Weidchen A,15.39
+Puderbach -> Neuwied,Sa,9,24,Schloßtheater A,15.40
+Puderbach -> Neuwied,Sa,9,25,Marktkirche A,15.42
+Puderbach -> Neuwied,Sa,9,26,Marktstraße B,15.43
+Puderbach -> Neuwied,Sa,9,27,Moltkeplatz A,15.45
+Puderbach -> Neuwied,Sa,9,28,Bahnhof H,15.51
+Puderbach -> Neuwied,Sa,10,1,Dierdorf Markt ab,16.03
+Puderbach -> Neuwied,Sa,10,2,Neuwieder Straße B,16.04
+Puderbach -> Neuwied,Sa,10,3,SZ-Center B,16.06
+Puderbach -> Neuwied,Sa,10,4,Rüscheid Siegel,16.13
+Puderbach -> Neuwied,Sa,10,5,Anhausen Petershof A,16.15
+Puderbach -> Neuwied,Sa,10,6,Schillerstraße A an,16.18
+Puderbach -> Neuwied,Sa,10,7,Schillerstraße A ab,16.19
+Puderbach -> Neuwied,Sa,10,8,Braunsberg/Rheinhöhenweg,16.21
+Puderbach -> Neuwied,Sa,10,9,Gladbach Haus am Pilz,16.23
+Puderbach -> Neuwied,Sa,10,10,Chausseehaus,16.26
+Puderbach -> Neuwied,Sa,10,11,Torney Dierdorfer Straße,16.29
+Puderbach -> Neuwied,Sa,10,12,Friedhof Wennenberg,16.30
+Puderbach -> Neuwied,Sa,10,13,Neuwied Beverwijker Ring,16.32
+Puderbach -> Neuwied,Sa,10,14,Ludwig-Erhard-Schule,16.35
+Puderbach -> Neuwied,Sa,10,15,Matthiasberg,16.36
+Puderbach -> Neuwied,Sa,10,16,Stadion A,16.38
+Puderbach -> Neuwied,Sa,10,17,Im Weidchen A,16.39
+Puderbach -> Neuwied,Sa,10,18,Schloßtheater A,16.40
+Puderbach -> Neuwied,Sa,10,19,Marktkirche A,16.42
+Puderbach -> Neuwied,Sa,10,20,Marktstraße B,16.43
+Puderbach -> Neuwied,Sa,10,21,Moltkeplatz A,16.45
+Puderbach -> Neuwied,Sa,10,22,Bahnhof H,16.51
+Puderbach -> Neuwied,Sa,11,1,Puderbach Verbandsgemeinde,16.49
+Puderbach -> Neuwied,Sa,11,2,Hölzchens Mühle,16.50
+Puderbach -> Neuwied,Sa,11,3,Hanroth Hedwigsthal A,16.51
+Puderbach -> Neuwied,Sa,11,4,Raubach In der Au,16.55
+Puderbach -> Neuwied,Sa,11,5,Wienau Flemmer,16.58
+Puderbach -> Neuwied,Sa,11,6,Dierdorf Markt an,17.02
+Puderbach -> Neuwied,Sa,11,7,Dierdorf Markt ab,17.03
+Puderbach -> Neuwied,Sa,11,8,Neuwieder Straße B,17.04
+Puderbach -> Neuwied,Sa,11,9,SZ-Center B,17.06
+Puderbach -> Neuwied,Sa,11,10,Rüscheid Siegel,17.13
+Puderbach -> Neuwied,Sa,11,11,Anhausen Petershof A,17.15
+Puderbach -> Neuwied,Sa,11,12,Schillerstraße A an,17.18
+Puderbach -> Neuwied,Sa,11,13,Schillerstraße A ab,17.19
+Puderbach -> Neuwied,Sa,11,14,Braunsberg/Rheinhöhenweg,17.21
+Puderbach -> Neuwied,Sa,11,15,Gladbach Haus am Pilz,17.23
+Puderbach -> Neuwied,Sa,11,16,Chausseehaus,17.26
+Puderbach -> Neuwied,Sa,11,17,Torney Dierdorfer Straße,17.29
+Puderbach -> Neuwied,Sa,11,18,Friedhof Wennenberg,17.30
+Puderbach -> Neuwied,Sa,11,19,Neuwied Beverwijker Ring,17.32
+Puderbach -> Neuwied,Sa,11,20,Ludwig-Erhard-Schule,17.35
+Puderbach -> Neuwied,Sa,11,21,Matthiasberg,17.36
+Puderbach -> Neuwied,Sa,11,22,Stadion A,17.38
+Puderbach -> Neuwied,Sa,11,23,Im Weidchen A,17.39
+Puderbach -> Neuwied,Sa,11,24,Schloßtheater A,17.40
+Puderbach -> Neuwied,Sa,11,25,Marktkirche A,17.42
+Puderbach -> Neuwied,Sa,11,26,Marktstraße B,17.43
+Puderbach -> Neuwied,Sa,11,27,Moltkeplatz A,17.45
+Puderbach -> Neuwied,Sa,11,28,Bahnhof H,17.51
+Puderbach -> Neuwied,Sa,12,1,Dierdorf Markt ab,18.03
+Puderbach -> Neuwied,Sa,12,2,Neuwieder Straße B,18.04
+Puderbach -> Neuwied,Sa,12,3,SZ-Center B,18.06
+Puderbach -> Neuwied,Sa,12,4,Rüscheid Siegel,18.13
+Puderbach -> Neuwied,Sa,12,5,Anhausen Petershof A,18.15
+Puderbach -> Neuwied,Sa,12,6,Schillerstraße A an,18.18
+Puderbach -> Neuwied,Sa,12,7,Schillerstraße A ab,18.19
+Puderbach -> Neuwied,Sa,12,8,Braunsberg/Rheinhöhenweg,18.21
+Puderbach -> Neuwied,Sa,12,9,Gladbach Haus am Pilz,18.23
+Puderbach -> Neuwied,Sa,12,10,Chausseehaus,18.26
+Puderbach -> Neuwied,Sa,12,11,Torney Dierdorfer Straße,18.29
+Puderbach -> Neuwied,Sa,12,12,Friedhof Wennenberg,18.30
+Puderbach -> Neuwied,Sa,12,13,Neuwied Beverwijker Ring,18.32
+Puderbach -> Neuwied,Sa,12,14,Ludwig-Erhard-Schule,18.35
+Puderbach -> Neuwied,Sa,12,15,Matthiasberg,18.36
+Puderbach -> Neuwied,Sa,12,16,Stadion A,18.38
+Puderbach -> Neuwied,Sa,12,17,Im Weidchen A,18.39
+Puderbach -> Neuwied,Sa,12,18,Schloßtheater A,18.40
+Puderbach -> Neuwied,Sa,12,19,Marktkirche A,18.42
+Puderbach -> Neuwied,Sa,12,20,Marktstraße B,18.43
+Puderbach -> Neuwied,Sa,12,21,Moltkeplatz A,18.45
+Puderbach -> Neuwied,Sa,12,22,Bahnhof H,18.51
+Puderbach -> Neuwied,Sa,13,1,Puderbach Verbandsgemeinde,18.49
+Puderbach -> Neuwied,Sa,13,2,Hölzchens Mühle,18.50
+Puderbach -> Neuwied,Sa,13,3,Hanroth Hedwigsthal A,18.51
+Puderbach -> Neuwied,Sa,13,4,Raubach In der Au,18.55
+Puderbach -> Neuwied,Sa,13,5,Wienau Flemmer,18.58
+Puderbach -> Neuwied,Sa,13,6,Dierdorf Markt an,19.02
+Puderbach -> Neuwied,Sa,13,7,Dierdorf Markt ab,19.03
+Puderbach -> Neuwied,Sa,13,8,Neuwieder Straße B,19.04
+Puderbach -> Neuwied,Sa,13,9,SZ-Center B,19.06
+Puderbach -> Neuwied,Sa,13,10,Rüscheid Siegel,19.13
+Puderbach -> Neuwied,Sa,13,11,Anhausen Petershof A,19.15
+Puderbach -> Neuwied,Sa,13,12,Schillerstraße A an,19.18
+Puderbach -> Neuwied,Sa,13,13,Schillerstraße A ab,19.19
+Puderbach -> Neuwied,Sa,13,14,Braunsberg/Rheinhöhenweg,19.21
+Puderbach -> Neuwied,Sa,13,15,Gladbach Haus am Pilz,19.23
+Puderbach -> Neuwied,Sa,13,16,Chausseehaus,19.26
+Puderbach -> Neuwied,Sa,13,17,Torney Dierdorfer Straße,19.29
+Puderbach -> Neuwied,Sa,13,18,Friedhof Wennenberg,19.30
+Puderbach -> Neuwied,Sa,13,19,Neuwied Beverwijker Ring,19.32
+Puderbach -> Neuwied,Sa,13,20,Ludwig-Erhard-Schule,19.35
+Puderbach -> Neuwied,Sa,13,21,Matthiasberg,19.36
+Puderbach -> Neuwied,Sa,13,22,Stadion A,19.38
+Puderbach -> Neuwied,Sa,13,23,Im Weidchen A,19.39
+Puderbach -> Neuwied,Sa,13,24,Schloßtheater A,19.40
+Puderbach -> Neuwied,Sa,13,25,Marktkirche A,19.42
+Puderbach -> Neuwied,Sa,13,26,Marktstraße B,19.43
+Puderbach -> Neuwied,Sa,13,27,Moltkeplatz A,19.45
+Puderbach -> Neuwied,Sa,13,28,Bahnhof H,19.51
+Puderbach -> Neuwied,Sa,14,1,Dierdorf Markt ab,20.03
+Puderbach -> Neuwied,Sa,14,2,Neuwieder Straße B,20.04
+Puderbach -> Neuwied,Sa,14,3,SZ-Center B,20.06
+Puderbach -> Neuwied,Sa,14,4,Rüscheid Siegel,20.13
+Puderbach -> Neuwied,Sa,14,5,Anhausen Petershof A,20.15
+Puderbach -> Neuwied,Sa,14,6,Schillerstraße A an,20.18
+Puderbach -> Neuwied,Sa,14,7,Schillerstraße A ab,20.19
+Puderbach -> Neuwied,Sa,14,8,Braunsberg/Rheinhöhenweg,20.21
+Puderbach -> Neuwied,Sa,14,9,Gladbach Haus am Pilz,20.23
+Puderbach -> Neuwied,Sa,14,10,Chausseehaus,20.26
+Puderbach -> Neuwied,Sa,14,11,Torney Dierdorfer Straße,20.29
+Puderbach -> Neuwied,Sa,14,12,Friedhof Wennenberg,20.30
+Puderbach -> Neuwied,Sa,14,13,Neuwied Beverwijker Ring,20.32
+Puderbach -> Neuwied,Sa,14,14,Ludwig-Erhard-Schule,20.35
+Puderbach -> Neuwied,Sa,14,15,Matthiasberg,20.36
+Puderbach -> Neuwied,Sa,14,16,Stadion A,20.38
+Puderbach -> Neuwied,Sa,14,17,Im Weidchen A,20.39
+Puderbach -> Neuwied,Sa,14,18,Schloßtheater A,20.40
+Puderbach -> Neuwied,Sa,14,19,Marktkirche A,20.42
+Puderbach -> Neuwied,Sa,14,20,Marktstraße B,20.43
+Puderbach -> Neuwied,Sa,14,21,Moltkeplatz A,20.45
+Puderbach -> Neuwied,Sa,14,22,Bahnhof H,20.51
+Puderbach -> Neuwied,Sa,15,1,Puderbach Verbandsgemeinde,20.49
+Puderbach -> Neuwied,Sa,15,2,Hölzchens Mühle,20.50
+Puderbach -> Neuwied,Sa,15,3,Hanroth Hedwigsthal A,20.51
+Puderbach -> Neuwied,Sa,15,4,Raubach In der Au,20.55
+Puderbach -> Neuwied,Sa,15,5,Wienau Flemmer,20.58
+Puderbach -> Neuwied,Sa,15,6,Dierdorf Markt an,21.02
+Puderbach -> Neuwied,Sa,15,7,Dierdorf Markt ab,21.03
+Puderbach -> Neuwied,Sa,15,8,Neuwieder Straße B,21.04
+Puderbach -> Neuwied,Sa,15,9,SZ-Center B,21.06
+Puderbach -> Neuwied,Sa,15,10,Rüscheid Siegel,21.13
+Puderbach -> Neuwied,Sa,15,11,Anhausen Petershof A,21.15
+Puderbach -> Neuwied,Sa,15,12,Schillerstraße A an,21.18
+Puderbach -> Neuwied,Sa,15,13,Schillerstraße A ab,21.19
+Puderbach -> Neuwied,Sa,15,14,Braunsberg/Rheinhöhenweg,21.21
+Puderbach -> Neuwied,Sa,15,15,Gladbach Haus am Pilz,21.23
+Puderbach -> Neuwied,Sa,15,16,Chausseehaus,21.26
+Puderbach -> Neuwied,Sa,15,17,Torney Dierdorfer Straße,21.29
+Puderbach -> Neuwied,Sa,15,18,Friedhof Wennenberg,21.30
+Puderbach -> Neuwied,Sa,15,19,Neuwied Beverwijker Ring,21.32
+Puderbach -> Neuwied,Sa,15,20,Ludwig-Erhard-Schule,21.35
+Puderbach -> Neuwied,Sa,15,21,Matthiasberg,21.36
+Puderbach -> Neuwied,Sa,15,22,Stadion A,21.38
+Puderbach -> Neuwied,Sa,15,23,Im Weidchen A,21.39
+Puderbach -> Neuwied,Sa,15,24,Schloßtheater A,21.40
+Puderbach -> Neuwied,Sa,15,25,Marktkirche A,21.42
+Puderbach -> Neuwied,Sa,15,26,Marktstraße B,21.43
+Puderbach -> Neuwied,Sa,15,27,Moltkeplatz A,21.45
+Puderbach -> Neuwied,Sa,15,28,Bahnhof H,21.51
+Puderbach -> Neuwied,Sa,16,1,Dierdorf Markt ab,22.03
+Puderbach -> Neuwied,Sa,16,2,Neuwieder Straße B,22.04
+Puderbach -> Neuwied,Sa,16,3,SZ-Center B,22.06
+Puderbach -> Neuwied,Sa,16,4,Rüscheid Siegel,22.13
+Puderbach -> Neuwied,Sa,16,5,Anhausen Petershof A,22.15
+Puderbach -> Neuwied,Sa,16,6,Schillerstraße A an,22.18
+Puderbach -> Neuwied,Sa,16,7,Schillerstraße A ab,22.19
+Puderbach -> Neuwied,Sa,16,8,Braunsberg/Rheinhöhenweg,22.21
+Puderbach -> Neuwied,Sa,16,9,Gladbach Haus am Pilz,22.23
+Puderbach -> Neuwied,Sa,16,10,Chausseehaus,22.26
+Puderbach -> Neuwied,Sa,16,11,Torney Dierdorfer Straße,22.29
+Puderbach -> Neuwied,Sa,16,12,Friedhof Wennenberg,22.30
+Puderbach -> Neuwied,Sa,16,13,Neuwied Beverwijker Ring,22.32
+Puderbach -> Neuwied,Sa,16,14,Ludwig-Erhard-Schule,22.35
+Puderbach -> Neuwied,Sa,16,15,Matthiasberg,22.36
+Puderbach -> Neuwied,Sa,16,16,Stadion A,22.38
+Puderbach -> Neuwied,Sa,16,17,Im Weidchen A,22.39
+Puderbach -> Neuwied,Sa,16,18,Schloßtheater A,22.40
+Puderbach -> Neuwied,Sa,16,19,Marktkirche A,22.42
+Puderbach -> Neuwied,Sa,16,20,Marktstraße B,22.43
+Puderbach -> Neuwied,Sa,16,21,Moltkeplatz A,22.45
+Puderbach -> Neuwied,Sa,16,22,Bahnhof H,22.51
+Puderbach -> Neuwied,So+Feiertag,1,1,Puderbach Verbandsgemeinde,6.49
+Puderbach -> Neuwied,So+Feiertag,1,2,Hölzchens Mühle,6.50
+Puderbach -> Neuwied,So+Feiertag,1,3,Hanroth Hedwigsthal A,6.51
+Puderbach -> Neuwied,So+Feiertag,1,4,Raubach In der Au,6.55
+Puderbach -> Neuwied,So+Feiertag,1,5,Wienau Flemmer,6.58
+Puderbach -> Neuwied,So+Feiertag,1,6,Dierdorf Markt an,7.02
+Puderbach -> Neuwied,So+Feiertag,1,7,Dierdorf Markt ab,7.03
+Puderbach -> Neuwied,So+Feiertag,1,8,Neuwieder Straße B,7.04
+Puderbach -> Neuwied,So+Feiertag,1,9,SZ-Center B,7.06
+Puderbach -> Neuwied,So+Feiertag,1,10,Rüscheid Siegel,7.13
+Puderbach -> Neuwied,So+Feiertag,1,11,Anhausen Petershof A,7.15
+Puderbach -> Neuwied,So+Feiertag,1,12,Schillerstraße A an,7.18
+Puderbach -> Neuwied,So+Feiertag,1,13,Schillerstraße A ab,7.19
+Puderbach -> Neuwied,So+Feiertag,1,14,Braunsberg/Rheinhöhenweg,7.21
+Puderbach -> Neuwied,So+Feiertag,1,15,Gladbach Haus am Pilz,7.23
+Puderbach -> Neuwied,So+Feiertag,1,16,Chausseehaus,7.26
+Puderbach -> Neuwied,So+Feiertag,1,17,Torney Dierdorfer Straße,7.29
+Puderbach -> Neuwied,So+Feiertag,1,18,Friedhof Wennenberg,7.30
+Puderbach -> Neuwied,So+Feiertag,1,19,Neuwied Beverwijker Ring,7.32
+Puderbach -> Neuwied,So+Feiertag,1,20,Ludwig-Erhard-Schule,7.35
+Puderbach -> Neuwied,So+Feiertag,1,21,Matthiasberg,7.36
+Puderbach -> Neuwied,So+Feiertag,1,22,Stadion A,7.38
+Puderbach -> Neuwied,So+Feiertag,1,23,Im Weidchen A,7.39
+Puderbach -> Neuwied,So+Feiertag,1,24,Schloßtheater A,7.40
+Puderbach -> Neuwied,So+Feiertag,1,25,Marktkirche A,7.42
+Puderbach -> Neuwied,So+Feiertag,1,26,Marktstraße B,7.43
+Puderbach -> Neuwied,So+Feiertag,1,27,Moltkeplatz A,7.45
+Puderbach -> Neuwied,So+Feiertag,1,28,Bahnhof H,7.51
+Puderbach -> Neuwied,So+Feiertag,2,1,Puderbach Verbandsgemeinde,8.49
+Puderbach -> Neuwied,So+Feiertag,2,2,Hölzchens Mühle,8.50
+Puderbach -> Neuwied,So+Feiertag,2,3,Hanroth Hedwigsthal A,8.51
+Puderbach -> Neuwied,So+Feiertag,2,4,Raubach In der Au,8.55
+Puderbach -> Neuwied,So+Feiertag,2,5,Wienau Flemmer,8.58
+Puderbach -> Neuwied,So+Feiertag,2,6,Dierdorf Markt an,9.02
+Puderbach -> Neuwied,So+Feiertag,2,7,Dierdorf Markt ab,9.03
+Puderbach -> Neuwied,So+Feiertag,2,8,Neuwieder Straße B,9.04
+Puderbach -> Neuwied,So+Feiertag,2,9,SZ-Center B,9.06
+Puderbach -> Neuwied,So+Feiertag,2,10,Rüscheid Siegel,9.13
+Puderbach -> Neuwied,So+Feiertag,2,11,Anhausen Petershof A,9.15
+Puderbach -> Neuwied,So+Feiertag,2,12,Schillerstraße A an,9.18
+Puderbach -> Neuwied,So+Feiertag,2,13,Schillerstraße A ab,9.19
+Puderbach -> Neuwied,So+Feiertag,2,14,Braunsberg/Rheinhöhenweg,9.21
+Puderbach -> Neuwied,So+Feiertag,2,15,Gladbach Haus am Pilz,9.23
+Puderbach -> Neuwied,So+Feiertag,2,16,Chausseehaus,9.26
+Puderbach -> Neuwied,So+Feiertag,2,17,Torney Dierdorfer Straße,9.29
+Puderbach -> Neuwied,So+Feiertag,2,18,Friedhof Wennenberg,9.30
+Puderbach -> Neuwied,So+Feiertag,2,19,Neuwied Beverwijker Ring,9.32
+Puderbach -> Neuwied,So+Feiertag,2,20,Ludwig-Erhard-Schule,9.35
+Puderbach -> Neuwied,So+Feiertag,2,21,Matthiasberg,9.36
+Puderbach -> Neuwied,So+Feiertag,2,22,Stadion A,9.38
+Puderbach -> Neuwied,So+Feiertag,2,23,Im Weidchen A,9.39
+Puderbach -> Neuwied,So+Feiertag,2,24,Schloßtheater A,9.40
+Puderbach -> Neuwied,So+Feiertag,2,25,Marktkirche A,9.42
+Puderbach -> Neuwied,So+Feiertag,2,26,Marktstraße B,9.43
+Puderbach -> Neuwied,So+Feiertag,2,27,Moltkeplatz A,9.45
+Puderbach -> Neuwied,So+Feiertag,2,28,Bahnhof H,9.51
+Puderbach -> Neuwied,So+Feiertag,3,1,Dierdorf Markt ab,10.03
+Puderbach -> Neuwied,So+Feiertag,3,2,Neuwieder Straße B,10.04
+Puderbach -> Neuwied,So+Feiertag,3,3,SZ-Center B,10.06
+Puderbach -> Neuwied,So+Feiertag,3,4,Rüscheid Siegel,10.13
+Puderbach -> Neuwied,So+Feiertag,3,5,Anhausen Petershof A,10.15
+Puderbach -> Neuwied,So+Feiertag,3,6,Schillerstraße A an,10.18
+Puderbach -> Neuwied,So+Feiertag,3,7,Schillerstraße A ab,10.19
+Puderbach -> Neuwied,So+Feiertag,3,8,Braunsberg/Rheinhöhenweg,10.21
+Puderbach -> Neuwied,So+Feiertag,3,9,Gladbach Haus am Pilz,10.23
+Puderbach -> Neuwied,So+Feiertag,3,10,Chausseehaus,10.26
+Puderbach -> Neuwied,So+Feiertag,3,11,Torney Dierdorfer Straße,10.29
+Puderbach -> Neuwied,So+Feiertag,3,12,Friedhof Wennenberg,10.30
+Puderbach -> Neuwied,So+Feiertag,3,13,Neuwied Beverwijker Ring,10.32
+Puderbach -> Neuwied,So+Feiertag,3,14,Ludwig-Erhard-Schule,10.35
+Puderbach -> Neuwied,So+Feiertag,3,15,Matthiasberg,10.36
+Puderbach -> Neuwied,So+Feiertag,3,16,Stadion A,10.38
+Puderbach -> Neuwied,So+Feiertag,3,17,Im Weidchen A,10.39
+Puderbach -> Neuwied,So+Feiertag,3,18,Schloßtheater A,10.40
+Puderbach -> Neuwied,So+Feiertag,3,19,Marktkirche A,10.42
+Puderbach -> Neuwied,So+Feiertag,3,20,Marktstraße B,10.43
+Puderbach -> Neuwied,So+Feiertag,3,21,Moltkeplatz A,10.45
+Puderbach -> Neuwied,So+Feiertag,3,22,Bahnhof H,10.51
+Puderbach -> Neuwied,So+Feiertag,4,1,Puderbach Verbandsgemeinde,10.49
+Puderbach -> Neuwied,So+Feiertag,4,2,Hölzchens Mühle,10.50
+Puderbach -> Neuwied,So+Feiertag,4,3,Hanroth Hedwigsthal A,10.51
+Puderbach -> Neuwied,So+Feiertag,4,4,Raubach In der Au,10.55
+Puderbach -> Neuwied,So+Feiertag,4,5,Wienau Flemmer,10.58
+Puderbach -> Neuwied,So+Feiertag,4,6,Dierdorf Markt an,11.02
+Puderbach -> Neuwied,So+Feiertag,4,7,Dierdorf Markt ab,11.03
+Puderbach -> Neuwied,So+Feiertag,4,8,Neuwieder Straße B,11.04
+Puderbach -> Neuwied,So+Feiertag,4,9,SZ-Center B,11.06
+Puderbach -> Neuwied,So+Feiertag,4,10,Rüscheid Siegel,11.13
+Puderbach -> Neuwied,So+Feiertag,4,11,Anhausen Petershof A,11.15
+Puderbach -> Neuwied,So+Feiertag,4,12,Schillerstraße A an,11.18
+Puderbach -> Neuwied,So+Feiertag,4,13,Schillerstraße A ab,11.19
+Puderbach -> Neuwied,So+Feiertag,4,14,Braunsberg/Rheinhöhenweg,11.21
+Puderbach -> Neuwied,So+Feiertag,4,15,Gladbach Haus am Pilz,11.23
+Puderbach -> Neuwied,So+Feiertag,4,16,Chausseehaus,11.26
+Puderbach -> Neuwied,So+Feiertag,4,17,Torney Dierdorfer Straße,11.29
+Puderbach -> Neuwied,So+Feiertag,4,18,Friedhof Wennenberg,11.30
+Puderbach -> Neuwied,So+Feiertag,4,19,Neuwied Beverwijker Ring,11.32
+Puderbach -> Neuwied,So+Feiertag,4,20,Ludwig-Erhard-Schule,11.35
+Puderbach -> Neuwied,So+Feiertag,4,21,Matthiasberg,11.36
+Puderbach -> Neuwied,So+Feiertag,4,22,Stadion A,11.38
+Puderbach -> Neuwied,So+Feiertag,4,23,Im Weidchen A,11.39
+Puderbach -> Neuwied,So+Feiertag,4,24,Schloßtheater A,11.40
+Puderbach -> Neuwied,So+Feiertag,4,25,Marktkirche A,11.42
+Puderbach -> Neuwied,So+Feiertag,4,26,Marktstraße B,11.43
+Puderbach -> Neuwied,So+Feiertag,4,27,Moltkeplatz A,11.45
+Puderbach -> Neuwied,So+Feiertag,4,28,Bahnhof H,11.51
+Puderbach -> Neuwied,So+Feiertag,5,1,Dierdorf Markt ab,12.03
+Puderbach -> Neuwied,So+Feiertag,5,2,Neuwieder Straße B,12.04
+Puderbach -> Neuwied,So+Feiertag,5,3,SZ-Center B,12.06
+Puderbach -> Neuwied,So+Feiertag,5,4,Rüscheid Siegel,12.13
+Puderbach -> Neuwied,So+Feiertag,5,5,Anhausen Petershof A,12.15
+Puderbach -> Neuwied,So+Feiertag,5,6,Schillerstraße A an,12.18
+Puderbach -> Neuwied,So+Feiertag,5,7,Schillerstraße A ab,12.19
+Puderbach -> Neuwied,So+Feiertag,5,8,Braunsberg/Rheinhöhenweg,12.21
+Puderbach -> Neuwied,So+Feiertag,5,9,Gladbach Haus am Pilz,12.23
+Puderbach -> Neuwied,So+Feiertag,5,10,Chausseehaus,12.26
+Puderbach -> Neuwied,So+Feiertag,5,11,Torney Dierdorfer Straße,12.29
+Puderbach -> Neuwied,So+Feiertag,5,12,Friedhof Wennenberg,12.30
+Puderbach -> Neuwied,So+Feiertag,5,13,Neuwied Beverwijker Ring,12.32
+Puderbach -> Neuwied,So+Feiertag,5,14,Ludwig-Erhard-Schule,12.35
+Puderbach -> Neuwied,So+Feiertag,5,15,Matthiasberg,12.36
+Puderbach -> Neuwied,So+Feiertag,5,16,Stadion A,12.38
+Puderbach -> Neuwied,So+Feiertag,5,17,Im Weidchen A,12.39
+Puderbach -> Neuwied,So+Feiertag,5,18,Schloßtheater A,12.40
+Puderbach -> Neuwied,So+Feiertag,5,19,Marktkirche A,12.42
+Puderbach -> Neuwied,So+Feiertag,5,20,Marktstraße B,12.43
+Puderbach -> Neuwied,So+Feiertag,5,21,Moltkeplatz A,12.45
+Puderbach -> Neuwied,So+Feiertag,5,22,Bahnhof H,12.51
+Puderbach -> Neuwied,So+Feiertag,6,1,Puderbach Verbandsgemeinde,12.49
+Puderbach -> Neuwied,So+Feiertag,6,2,Hölzchens Mühle,12.50
+Puderbach -> Neuwied,So+Feiertag,6,3,Hanroth Hedwigsthal A,12.51
+Puderbach -> Neuwied,So+Feiertag,6,4,Raubach In der Au,12.55
+Puderbach -> Neuwied,So+Feiertag,6,5,Wienau Flemmer,12.58
+Puderbach -> Neuwied,So+Feiertag,6,6,Dierdorf Markt an,13.02
+Puderbach -> Neuwied,So+Feiertag,6,7,Dierdorf Markt ab,13.03
+Puderbach -> Neuwied,So+Feiertag,6,8,Neuwieder Straße B,13.04
+Puderbach -> Neuwied,So+Feiertag,6,9,SZ-Center B,13.06
+Puderbach -> Neuwied,So+Feiertag,6,10,Rüscheid Siegel,13.13
+Puderbach -> Neuwied,So+Feiertag,6,11,Anhausen Petershof A,13.15
+Puderbach -> Neuwied,So+Feiertag,6,12,Schillerstraße A an,13.18
+Puderbach -> Neuwied,So+Feiertag,6,13,Schillerstraße A ab,13.19
+Puderbach -> Neuwied,So+Feiertag,6,14,Braunsberg/Rheinhöhenweg,13.21
+Puderbach -> Neuwied,So+Feiertag,6,15,Gladbach Haus am Pilz,13.23
+Puderbach -> Neuwied,So+Feiertag,6,16,Chausseehaus,13.26
+Puderbach -> Neuwied,So+Feiertag,6,17,Torney Dierdorfer Straße,13.29
+Puderbach -> Neuwied,So+Feiertag,6,18,Friedhof Wennenberg,13.30
+Puderbach -> Neuwied,So+Feiertag,6,19,Neuwied Beverwijker Ring,13.32
+Puderbach -> Neuwied,So+Feiertag,6,20,Ludwig-Erhard-Schule,13.35
+Puderbach -> Neuwied,So+Feiertag,6,21,Matthiasberg,13.36
+Puderbach -> Neuwied,So+Feiertag,6,22,Stadion A,13.38
+Puderbach -> Neuwied,So+Feiertag,6,23,Im Weidchen A,13.39
+Puderbach -> Neuwied,So+Feiertag,6,24,Schloßtheater A,13.40
+Puderbach -> Neuwied,So+Feiertag,6,25,Marktkirche A,13.42
+Puderbach -> Neuwied,So+Feiertag,6,26,Marktstraße B,13.43
+Puderbach -> Neuwied,So+Feiertag,6,27,Moltkeplatz A,13.45
+Puderbach -> Neuwied,So+Feiertag,6,28,Bahnhof H,13.51
+Puderbach -> Neuwied,So+Feiertag,7,1,Dierdorf Markt ab,14.03
+Puderbach -> Neuwied,So+Feiertag,7,2,Neuwieder Straße B,14.04
+Puderbach -> Neuwied,So+Feiertag,7,3,SZ-Center B,14.06
+Puderbach -> Neuwied,So+Feiertag,7,4,Rüscheid Siegel,14.13
+Puderbach -> Neuwied,So+Feiertag,7,5,Anhausen Petershof A,14.15
+Puderbach -> Neuwied,So+Feiertag,7,6,Schillerstraße A an,14.18
+Puderbach -> Neuwied,So+Feiertag,7,7,Schillerstraße A ab,14.19
+Puderbach -> Neuwied,So+Feiertag,7,8,Braunsberg/Rheinhöhenweg,14.21
+Puderbach -> Neuwied,So+Feiertag,7,9,Gladbach Haus am Pilz,14.23
+Puderbach -> Neuwied,So+Feiertag,7,10,Chausseehaus,14.26
+Puderbach -> Neuwied,So+Feiertag,7,11,Torney Dierdorfer Straße,14.29
+Puderbach -> Neuwied,So+Feiertag,7,12,Friedhof Wennenberg,14.30
+Puderbach -> Neuwied,So+Feiertag,7,13,Neuwied Beverwijker Ring,14.32
+Puderbach -> Neuwied,So+Feiertag,7,14,Ludwig-Erhard-Schule,14.35
+Puderbach -> Neuwied,So+Feiertag,7,15,Matthiasberg,14.36
+Puderbach -> Neuwied,So+Feiertag,7,16,Stadion A,14.38
+Puderbach -> Neuwied,So+Feiertag,7,17,Im Weidchen A,14.39
+Puderbach -> Neuwied,So+Feiertag,7,18,Schloßtheater A,14.40
+Puderbach -> Neuwied,So+Feiertag,7,19,Marktkirche A,14.42
+Puderbach -> Neuwied,So+Feiertag,7,20,Marktstraße B,14.43
+Puderbach -> Neuwied,So+Feiertag,7,21,Moltkeplatz A,14.45
+Puderbach -> Neuwied,So+Feiertag,7,22,Bahnhof H,14.51
+Puderbach -> Neuwied,So+Feiertag,8,1,Puderbach Verbandsgemeinde,14.49
+Puderbach -> Neuwied,So+Feiertag,8,2,Hölzchens Mühle,14.50
+Puderbach -> Neuwied,So+Feiertag,8,3,Hanroth Hedwigsthal A,14.51
+Puderbach -> Neuwied,So+Feiertag,8,4,Raubach In der Au,14.55
+Puderbach -> Neuwied,So+Feiertag,8,5,Wienau Flemmer,14.58
+Puderbach -> Neuwied,So+Feiertag,8,6,Dierdorf Markt an,15.02
+Puderbach -> Neuwied,So+Feiertag,8,7,Dierdorf Markt ab,15.03
+Puderbach -> Neuwied,So+Feiertag,8,8,Neuwieder Straße B,15.04
+Puderbach -> Neuwied,So+Feiertag,8,9,SZ-Center B,15.06
+Puderbach -> Neuwied,So+Feiertag,8,10,Rüscheid Siegel,15.13
+Puderbach -> Neuwied,So+Feiertag,8,11,Anhausen Petershof A,15.15
+Puderbach -> Neuwied,So+Feiertag,8,12,Schillerstraße A an,15.18
+Puderbach -> Neuwied,So+Feiertag,8,13,Schillerstraße A ab,15.19
+Puderbach -> Neuwied,So+Feiertag,8,14,Braunsberg/Rheinhöhenweg,15.21
+Puderbach -> Neuwied,So+Feiertag,8,15,Gladbach Haus am Pilz,15.23
+Puderbach -> Neuwied,So+Feiertag,8,16,Chausseehaus,15.26
+Puderbach -> Neuwied,So+Feiertag,8,17,Torney Dierdorfer Straße,15.29
+Puderbach -> Neuwied,So+Feiertag,8,18,Friedhof Wennenberg,15.30
+Puderbach -> Neuwied,So+Feiertag,8,19,Neuwied Beverwijker Ring,15.32
+Puderbach -> Neuwied,So+Feiertag,8,20,Ludwig-Erhard-Schule,15.35
+Puderbach -> Neuwied,So+Feiertag,8,21,Matthiasberg,15.36
+Puderbach -> Neuwied,So+Feiertag,8,22,Stadion A,15.38
+Puderbach -> Neuwied,So+Feiertag,8,23,Im Weidchen A,15.39
+Puderbach -> Neuwied,So+Feiertag,8,24,Schloßtheater A,15.40
+Puderbach -> Neuwied,So+Feiertag,8,25,Marktkirche A,15.42
+Puderbach -> Neuwied,So+Feiertag,8,26,Marktstraße B,15.43
+Puderbach -> Neuwied,So+Feiertag,8,27,Moltkeplatz A,15.45
+Puderbach -> Neuwied,So+Feiertag,8,28,Bahnhof H,15.51
+Puderbach -> Neuwied,So+Feiertag,9,1,Dierdorf Markt ab,16.03
+Puderbach -> Neuwied,So+Feiertag,9,2,Neuwieder Straße B,16.04
+Puderbach -> Neuwied,So+Feiertag,9,3,SZ-Center B,16.06
+Puderbach -> Neuwied,So+Feiertag,9,4,Rüscheid Siegel,16.13
+Puderbach -> Neuwied,So+Feiertag,9,5,Anhausen Petershof A,16.15
+Puderbach -> Neuwied,So+Feiertag,9,6,Schillerstraße A an,16.18
+Puderbach -> Neuwied,So+Feiertag,9,7,Schillerstraße A ab,16.19
+Puderbach -> Neuwied,So+Feiertag,9,8,Braunsberg/Rheinhöhenweg,16.21
+Puderbach -> Neuwied,So+Feiertag,9,9,Gladbach Haus am Pilz,16.23
+Puderbach -> Neuwied,So+Feiertag,9,10,Chausseehaus,16.26
+Puderbach -> Neuwied,So+Feiertag,9,11,Torney Dierdorfer Straße,16.29
+Puderbach -> Neuwied,So+Feiertag,9,12,Friedhof Wennenberg,16.30
+Puderbach -> Neuwied,So+Feiertag,9,13,Neuwied Beverwijker Ring,16.32
+Puderbach -> Neuwied,So+Feiertag,9,14,Ludwig-Erhard-Schule,16.35
+Puderbach -> Neuwied,So+Feiertag,9,15,Matthiasberg,16.36
+Puderbach -> Neuwied,So+Feiertag,9,16,Stadion A,16.38
+Puderbach -> Neuwied,So+Feiertag,9,17,Im Weidchen A,16.39
+Puderbach -> Neuwied,So+Feiertag,9,18,Schloßtheater A,16.40
+Puderbach -> Neuwied,So+Feiertag,9,19,Marktkirche A,16.42
+Puderbach -> Neuwied,So+Feiertag,9,20,Marktstraße B,16.43
+Puderbach -> Neuwied,So+Feiertag,9,21,Moltkeplatz A,16.45
+Puderbach -> Neuwied,So+Feiertag,9,22,Bahnhof H,16.51
+Puderbach -> Neuwied,So+Feiertag,10,1,Puderbach Verbandsgemeinde,16.49
+Puderbach -> Neuwied,So+Feiertag,10,2,Hölzchens Mühle,16.50
+Puderbach -> Neuwied,So+Feiertag,10,3,Hanroth Hedwigsthal A,16.51
+Puderbach -> Neuwied,So+Feiertag,10,4,Raubach In der Au,16.55
+Puderbach -> Neuwied,So+Feiertag,10,5,Wienau Flemmer,16.58
+Puderbach -> Neuwied,So+Feiertag,10,6,Dierdorf Markt an,17.02
+Puderbach -> Neuwied,So+Feiertag,10,7,Dierdorf Markt ab,17.03
+Puderbach -> Neuwied,So+Feiertag,10,8,Neuwieder Straße B,17.04
+Puderbach -> Neuwied,So+Feiertag,10,9,SZ-Center B,17.06
+Puderbach -> Neuwied,So+Feiertag,10,10,Rüscheid Siegel,17.13
+Puderbach -> Neuwied,So+Feiertag,10,11,Anhausen Petershof A,17.15
+Puderbach -> Neuwied,So+Feiertag,10,12,Schillerstraße A an,17.18
+Puderbach -> Neuwied,So+Feiertag,10,13,Schillerstraße A ab,17.19
+Puderbach -> Neuwied,So+Feiertag,10,14,Braunsberg/Rheinhöhenweg,17.21
+Puderbach -> Neuwied,So+Feiertag,10,15,Gladbach Haus am Pilz,17.23
+Puderbach -> Neuwied,So+Feiertag,10,16,Chausseehaus,17.26
+Puderbach -> Neuwied,So+Feiertag,10,17,Torney Dierdorfer Straße,17.29
+Puderbach -> Neuwied,So+Feiertag,10,18,Friedhof Wennenberg,17.30
+Puderbach -> Neuwied,So+Feiertag,10,19,Neuwied Beverwijker Ring,17.32
+Puderbach -> Neuwied,So+Feiertag,10,20,Ludwig-Erhard-Schule,17.35
+Puderbach -> Neuwied,So+Feiertag,10,21,Matthiasberg,17.36
+Puderbach -> Neuwied,So+Feiertag,10,22,Stadion A,17.38
+Puderbach -> Neuwied,So+Feiertag,10,23,Im Weidchen A,17.39
+Puderbach -> Neuwied,So+Feiertag,10,24,Schloßtheater A,17.40
+Puderbach -> Neuwied,So+Feiertag,10,25,Marktkirche A,17.42
+Puderbach -> Neuwied,So+Feiertag,10,26,Marktstraße B,17.43
+Puderbach -> Neuwied,So+Feiertag,10,27,Moltkeplatz A,17.45
+Puderbach -> Neuwied,So+Feiertag,10,28,Bahnhof H,17.51
+Puderbach -> Neuwied,So+Feiertag,11,1,Dierdorf Markt ab,18.03
+Puderbach -> Neuwied,So+Feiertag,11,2,Neuwieder Straße B,18.04
+Puderbach -> Neuwied,So+Feiertag,11,3,SZ-Center B,18.06
+Puderbach -> Neuwied,So+Feiertag,11,4,Rüscheid Siegel,18.13
+Puderbach -> Neuwied,So+Feiertag,11,5,Anhausen Petershof A,18.15
+Puderbach -> Neuwied,So+Feiertag,11,6,Schillerstraße A an,18.18
+Puderbach -> Neuwied,So+Feiertag,11,7,Schillerstraße A ab,18.19
+Puderbach -> Neuwied,So+Feiertag,11,8,Braunsberg/Rheinhöhenweg,18.21
+Puderbach -> Neuwied,So+Feiertag,11,9,Gladbach Haus am Pilz,18.23
+Puderbach -> Neuwied,So+Feiertag,11,10,Chausseehaus,18.26
+Puderbach -> Neuwied,So+Feiertag,11,11,Torney Dierdorfer Straße,18.29
+Puderbach -> Neuwied,So+Feiertag,11,12,Friedhof Wennenberg,18.30
+Puderbach -> Neuwied,So+Feiertag,11,13,Neuwied Beverwijker Ring,18.32
+Puderbach -> Neuwied,So+Feiertag,11,14,Ludwig-Erhard-Schule,18.35
+Puderbach -> Neuwied,So+Feiertag,11,15,Matthiasberg,18.36
+Puderbach -> Neuwied,So+Feiertag,11,16,Stadion A,18.38
+Puderbach -> Neuwied,So+Feiertag,11,17,Im Weidchen A,18.39
+Puderbach -> Neuwied,So+Feiertag,11,18,Schloßtheater A,18.40
+Puderbach -> Neuwied,So+Feiertag,11,19,Marktkirche A,18.42
+Puderbach -> Neuwied,So+Feiertag,11,20,Marktstraße B,18.43
+Puderbach -> Neuwied,So+Feiertag,11,21,Moltkeplatz A,18.45
+Puderbach -> Neuwied,So+Feiertag,11,22,Bahnhof H,18.51
+Puderbach -> Neuwied,So+Feiertag,12,1,Puderbach Verbandsgemeinde,18.49
+Puderbach -> Neuwied,So+Feiertag,12,2,Hölzchens Mühle,18.50
+Puderbach -> Neuwied,So+Feiertag,12,3,Hanroth Hedwigsthal A,18.51
+Puderbach -> Neuwied,So+Feiertag,12,4,Raubach In der Au,18.55
+Puderbach -> Neuwied,So+Feiertag,12,5,Wienau Flemmer,18.58
+Puderbach -> Neuwied,So+Feiertag,12,6,Dierdorf Markt an,19.02
+Puderbach -> Neuwied,So+Feiertag,12,7,Dierdorf Markt ab,19.03
+Puderbach -> Neuwied,So+Feiertag,12,8,Neuwieder Straße B,19.04
+Puderbach -> Neuwied,So+Feiertag,12,9,SZ-Center B,19.06
+Puderbach -> Neuwied,So+Feiertag,12,10,Rüscheid Siegel,19.13
+Puderbach -> Neuwied,So+Feiertag,12,11,Anhausen Petershof A,19.15
+Puderbach -> Neuwied,So+Feiertag,12,12,Schillerstraße A an,19.18
+Puderbach -> Neuwied,So+Feiertag,12,13,Schillerstraße A ab,19.19
+Puderbach -> Neuwied,So+Feiertag,12,14,Braunsberg/Rheinhöhenweg,19.21
+Puderbach -> Neuwied,So+Feiertag,12,15,Gladbach Haus am Pilz,19.23
+Puderbach -> Neuwied,So+Feiertag,12,16,Chausseehaus,19.26
+Puderbach -> Neuwied,So+Feiertag,12,17,Torney Dierdorfer Straße,19.29
+Puderbach -> Neuwied,So+Feiertag,12,18,Friedhof Wennenberg,19.30
+Puderbach -> Neuwied,So+Feiertag,12,19,Neuwied Beverwijker Ring,19.32
+Puderbach -> Neuwied,So+Feiertag,12,20,Ludwig-Erhard-Schule,19.35
+Puderbach -> Neuwied,So+Feiertag,12,21,Matthiasberg,19.36
+Puderbach -> Neuwied,So+Feiertag,12,22,Stadion A,19.38
+Puderbach -> Neuwied,So+Feiertag,12,23,Im Weidchen A,19.39
+Puderbach -> Neuwied,So+Feiertag,12,24,Schloßtheater A,19.40
+Puderbach -> Neuwied,So+Feiertag,12,25,Marktkirche A,19.42
+Puderbach -> Neuwied,So+Feiertag,12,26,Marktstraße B,19.43
+Puderbach -> Neuwied,So+Feiertag,12,27,Moltkeplatz A,19.45
+Puderbach -> Neuwied,So+Feiertag,12,28,Bahnhof H,19.51
+Puderbach -> Neuwied,So+Feiertag,13,1,Dierdorf Markt ab,20.03
+Puderbach -> Neuwied,So+Feiertag,13,2,Neuwieder Straße B,20.04
+Puderbach -> Neuwied,So+Feiertag,13,3,SZ-Center B,20.06
+Puderbach -> Neuwied,So+Feiertag,13,4,Rüscheid Siegel,20.13
+Puderbach -> Neuwied,So+Feiertag,13,5,Anhausen Petershof A,20.15
+Puderbach -> Neuwied,So+Feiertag,13,6,Schillerstraße A an,20.18
+Puderbach -> Neuwied,So+Feiertag,13,7,Schillerstraße A ab,20.19
+Puderbach -> Neuwied,So+Feiertag,13,8,Braunsberg/Rheinhöhenweg,20.21
+Puderbach -> Neuwied,So+Feiertag,13,9,Gladbach Haus am Pilz,20.23
+Puderbach -> Neuwied,So+Feiertag,13,10,Chausseehaus,20.26
+Puderbach -> Neuwied,So+Feiertag,13,11,Torney Dierdorfer Straße,20.29
+Puderbach -> Neuwied,So+Feiertag,13,12,Friedhof Wennenberg,20.30
+Puderbach -> Neuwied,So+Feiertag,13,13,Neuwied Beverwijker Ring,20.32
+Puderbach -> Neuwied,So+Feiertag,13,14,Ludwig-Erhard-Schule,20.35
+Puderbach -> Neuwied,So+Feiertag,13,15,Matthiasberg,20.36
+Puderbach -> Neuwied,So+Feiertag,13,16,Stadion A,20.38
+Puderbach -> Neuwied,So+Feiertag,13,17,Im Weidchen A,20.39
+Puderbach -> Neuwied,So+Feiertag,13,18,Schloßtheater A,20.40
+Puderbach -> Neuwied,So+Feiertag,13,19,Marktkirche A,20.42
+Puderbach -> Neuwied,So+Feiertag,13,20,Marktstraße B,20.43
+Puderbach -> Neuwied,So+Feiertag,13,21,Moltkeplatz A,20.45
+Puderbach -> Neuwied,So+Feiertag,13,22,Bahnhof H,20.51
+Puderbach -> Neuwied,So+Feiertag,14,1,Puderbach Verbandsgemeinde,20.49
+Puderbach -> Neuwied,So+Feiertag,14,2,Hölzchens Mühle,20.50
+Puderbach -> Neuwied,So+Feiertag,14,3,Hanroth Hedwigsthal A,20.51
+Puderbach -> Neuwied,So+Feiertag,14,4,Raubach In der Au,20.55
+Puderbach -> Neuwied,So+Feiertag,14,5,Wienau Flemmer,20.58
+Puderbach -> Neuwied,So+Feiertag,14,6,Dierdorf Markt an,21.02
+Puderbach -> Neuwied,So+Feiertag,14,7,Dierdorf Markt ab,21.03
+Puderbach -> Neuwied,So+Feiertag,14,8,Neuwieder Straße B,21.04
+Puderbach -> Neuwied,So+Feiertag,14,9,SZ-Center B,21.06
+Puderbach -> Neuwied,So+Feiertag,14,10,Rüscheid Siegel,21.13
+Puderbach -> Neuwied,So+Feiertag,14,11,Anhausen Petershof A,21.15
+Puderbach -> Neuwied,So+Feiertag,14,12,Schillerstraße A an,21.18
+Puderbach -> Neuwied,So+Feiertag,14,13,Schillerstraße A ab,21.19
+Puderbach -> Neuwied,So+Feiertag,14,14,Braunsberg/Rheinhöhenweg,21.21
+Puderbach -> Neuwied,So+Feiertag,14,15,Gladbach Haus am Pilz,21.23
+Puderbach -> Neuwied,So+Feiertag,14,16,Chausseehaus,21.26
+Puderbach -> Neuwied,So+Feiertag,14,17,Torney Dierdorfer Straße,21.29
+Puderbach -> Neuwied,So+Feiertag,14,18,Friedhof Wennenberg,21.30
+Puderbach -> Neuwied,So+Feiertag,14,19,Neuwied Beverwijker Ring,21.32
+Puderbach -> Neuwied,So+Feiertag,14,20,Ludwig-Erhard-Schule,21.35
+Puderbach -> Neuwied,So+Feiertag,14,21,Matthiasberg,21.36
+Puderbach -> Neuwied,So+Feiertag,14,22,Stadion A,21.38
+Puderbach -> Neuwied,So+Feiertag,14,23,Im Weidchen A,21.39
+Puderbach -> Neuwied,So+Feiertag,14,24,Schloßtheater A,21.40
+Puderbach -> Neuwied,So+Feiertag,14,25,Marktkirche A,21.42
+Puderbach -> Neuwied,So+Feiertag,14,26,Marktstraße B,21.43
+Puderbach -> Neuwied,So+Feiertag,14,27,Moltkeplatz A,21.45
+Puderbach -> Neuwied,So+Feiertag,14,28,Bahnhof H,21.51
+Puderbach -> Neuwied,So+Feiertag,15,1,Dierdorf Markt ab,22.03
+Puderbach -> Neuwied,So+Feiertag,15,2,Neuwieder Straße B,22.04
+Puderbach -> Neuwied,So+Feiertag,15,3,SZ-Center B,22.06
+Puderbach -> Neuwied,So+Feiertag,15,4,Rüscheid Siegel,22.13
+Puderbach -> Neuwied,So+Feiertag,15,5,Anhausen Petershof A,22.15
+Puderbach -> Neuwied,So+Feiertag,15,6,Schillerstraße A an,22.18
+Puderbach -> Neuwied,So+Feiertag,15,7,Schillerstraße A ab,22.19
+Puderbach -> Neuwied,So+Feiertag,15,8,Braunsberg/Rheinhöhenweg,22.21
+Puderbach -> Neuwied,So+Feiertag,15,9,Gladbach Haus am Pilz,22.23
+Puderbach -> Neuwied,So+Feiertag,15,10,Chausseehaus,22.26
+Puderbach -> Neuwied,So+Feiertag,15,11,Torney Dierdorfer Straße,22.29
+Puderbach -> Neuwied,So+Feiertag,15,12,Friedhof Wennenberg,22.30
+Puderbach -> Neuwied,So+Feiertag,15,13,Neuwied Beverwijker Ring,22.32
+Puderbach -> Neuwied,So+Feiertag,15,14,Ludwig-Erhard-Schule,22.35
+Puderbach -> Neuwied,So+Feiertag,15,15,Matthiasberg,22.36
+Puderbach -> Neuwied,So+Feiertag,15,16,Stadion A,22.38
+Puderbach -> Neuwied,So+Feiertag,15,17,Im Weidchen A,22.39
+Puderbach -> Neuwied,So+Feiertag,15,18,Schloßtheater A,22.40
+Puderbach -> Neuwied,So+Feiertag,15,19,Marktkirche A,22.42
+Puderbach -> Neuwied,So+Feiertag,15,20,Marktstraße B,22.43
+Puderbach -> Neuwied,So+Feiertag,15,21,Moltkeplatz A,22.45
+Puderbach -> Neuwied,So+Feiertag,15,22,Bahnhof H,22.51
+Neuwied -> Puderbach,Mo-Fr,1,1,Neuwied Bahnhof D,6.11
+Neuwied -> Puderbach,Mo-Fr,1,2,Moltkeplatz B,6.13
+Neuwied -> Puderbach,Mo-Fr,1,3,An der Matthiaskirche A,6.14
+Neuwied -> Puderbach,Mo-Fr,1,4,Schloßstraße A,6.18
+Neuwied -> Puderbach,Mo-Fr,1,5,Im Weidchen B,6.20
+Neuwied -> Puderbach,Mo-Fr,1,6,Stadion B,6.21
+Neuwied -> Puderbach,Mo-Fr,1,7,Matthiasberg,6.23
+Neuwied -> Puderbach,Mo-Fr,1,8,Ludwig-Erhard-Schule,6.25
+Neuwied -> Puderbach,Mo-Fr,1,9,Beverwijker Ring,6.26
+Neuwied -> Puderbach,Mo-Fr,1,10,Torney Friedhof Wennenberg,6.28
+Neuwied -> Puderbach,Mo-Fr,1,11,Dierdorfer Straße,6.29
+Neuwied -> Puderbach,Mo-Fr,1,12,Gladbach Chausseehaus,6.31
+Neuwied -> Puderbach,Mo-Fr,1,13,Haus am Pilz,6.33
+Neuwied -> Puderbach,Mo-Fr,1,14,Anhausen Braunsberg/Rheinhöhenweg,6.36
+Neuwied -> Puderbach,Mo-Fr,1,15,Schillerstraße B an,6.39
+Neuwied -> Puderbach,Mo-Fr,1,16,Schillerstraße B ab,6.41
+Neuwied -> Puderbach,Mo-Fr,1,17,Petershof B,6.44
+Neuwied -> Puderbach,Mo-Fr,1,18,Rüscheid Bamberger,6.46
+Neuwied -> Puderbach,Mo-Fr,1,19,Dierdorf SZ-Center A,6.53
+Neuwied -> Puderbach,Mo-Fr,1,20,Neuwieder Straße A,6.55
+Neuwied -> Puderbach,Mo-Fr,1,21,Dierdorf Markt an,6.57
+Neuwied -> Puderbach,Mo-Fr,1,22,Dierdorf Markt ab,6.58
+Neuwied -> Puderbach,Mo-Fr,1,23,Wienau Flemmer,7.02
+Neuwied -> Puderbach,Mo-Fr,1,24,Raubach In der Au,7.05
+Neuwied -> Puderbach,Mo-Fr,1,25,Hanroth Hedwigsthal B,7.09
+Neuwied -> Puderbach,Mo-Fr,1,26,Puderbach Hölzchens Mühle,7.10
+Neuwied -> Puderbach,Mo-Fr,1,27,Puderbach Verbandsgemeinde,7.14
+Neuwied -> Puderbach,Mo-Fr,2,1,Neuwied Bahnhof D,7.11
+Neuwied -> Puderbach,Mo-Fr,2,2,Moltkeplatz B,7.13
+Neuwied -> Puderbach,Mo-Fr,2,3,An der Matthiaskirche A,7.14
+Neuwied -> Puderbach,Mo-Fr,2,4,Schloßstraße A,7.18
+Neuwied -> Puderbach,Mo-Fr,2,5,Im Weidchen B,7.20
+Neuwied -> Puderbach,Mo-Fr,2,6,Stadion B,7.21
+Neuwied -> Puderbach,Mo-Fr,2,7,Matthiasberg,7.23
+Neuwied -> Puderbach,Mo-Fr,2,8,Ludwig-Erhard-Schule,7.25
+Neuwied -> Puderbach,Mo-Fr,2,9,Beverwijker Ring,7.26
+Neuwied -> Puderbach,Mo-Fr,2,10,Torney Friedhof Wennenberg,7.28
+Neuwied -> Puderbach,Mo-Fr,2,11,Dierdorfer Straße,7.29
+Neuwied -> Puderbach,Mo-Fr,2,12,Gladbach Chausseehaus,7.31
+Neuwied -> Puderbach,Mo-Fr,2,13,Haus am Pilz,7.33
+Neuwied -> Puderbach,Mo-Fr,2,14,Anhausen Braunsberg/Rheinhöhenweg,7.36
+Neuwied -> Puderbach,Mo-Fr,2,15,Schillerstraße B an,7.39
+Neuwied -> Puderbach,Mo-Fr,2,16,Schillerstraße B ab,7.41
+Neuwied -> Puderbach,Mo-Fr,2,17,Petershof B,7.44
+Neuwied -> Puderbach,Mo-Fr,2,18,Rüscheid Bamberger,7.46
+Neuwied -> Puderbach,Mo-Fr,2,19,Dierdorf SZ-Center A,7.53
+Neuwied -> Puderbach,Mo-Fr,2,20,Neuwieder Straße A,7.55
+Neuwied -> Puderbach,Mo-Fr,2,21,Dierdorf Markt an,7.57
+Neuwied -> Puderbach,Mo-Fr,2,22,Dierdorf Markt ab,7.58
+Neuwied -> Puderbach,Mo-Fr,2,23,Wienau Flemmer,8.02
+Neuwied -> Puderbach,Mo-Fr,2,24,Raubach In der Au,8.05
+Neuwied -> Puderbach,Mo-Fr,2,25,Hanroth Hedwigsthal B,8.09
+Neuwied -> Puderbach,Mo-Fr,2,26,Puderbach Hölzchens Mühle,8.10
+Neuwied -> Puderbach,Mo-Fr,2,27,Puderbach Verbandsgemeinde,8.14
+Neuwied -> Puderbach,Mo-Fr,3,1,Neuwied Bahnhof D,8.11
+Neuwied -> Puderbach,Mo-Fr,3,2,Moltkeplatz B,8.13
+Neuwied -> Puderbach,Mo-Fr,3,3,An der Matthiaskirche A,8.14
+Neuwied -> Puderbach,Mo-Fr,3,4,Schloßstraße A,8.18
+Neuwied -> Puderbach,Mo-Fr,3,5,Im Weidchen B,8.20
+Neuwied -> Puderbach,Mo-Fr,3,6,Stadion B,8.21
+Neuwied -> Puderbach,Mo-Fr,3,7,Matthiasberg,8.23
+Neuwied -> Puderbach,Mo-Fr,3,8,Ludwig-Erhard-Schule,8.25
+Neuwied -> Puderbach,Mo-Fr,3,9,Beverwijker Ring,8.26
+Neuwied -> Puderbach,Mo-Fr,3,10,Torney Friedhof Wennenberg,8.28
+Neuwied -> Puderbach,Mo-Fr,3,11,Dierdorfer Straße,8.29
+Neuwied -> Puderbach,Mo-Fr,3,12,Gladbach Chausseehaus,8.31
+Neuwied -> Puderbach,Mo-Fr,3,13,Haus am Pilz,8.33
+Neuwied -> Puderbach,Mo-Fr,3,14,Anhausen Braunsberg/Rheinhöhenweg,8.36
+Neuwied -> Puderbach,Mo-Fr,3,15,Schillerstraße B an,8.39
+Neuwied -> Puderbach,Mo-Fr,3,16,Schillerstraße B ab,8.41
+Neuwied -> Puderbach,Mo-Fr,3,17,Petershof B,8.44
+Neuwied -> Puderbach,Mo-Fr,3,18,Rüscheid Bamberger,8.46
+Neuwied -> Puderbach,Mo-Fr,3,19,Dierdorf SZ-Center A,8.53
+Neuwied -> Puderbach,Mo-Fr,3,20,Neuwieder Straße A,8.55
+Neuwied -> Puderbach,Mo-Fr,3,21,Dierdorf Markt an,8.57
+Neuwied -> Puderbach,Mo-Fr,3,22,Dierdorf Markt ab,8.58
+Neuwied -> Puderbach,Mo-Fr,3,23,Wienau Flemmer,9.02
+Neuwied -> Puderbach,Mo-Fr,3,24,Raubach In der Au,9.05
+Neuwied -> Puderbach,Mo-Fr,3,25,Hanroth Hedwigsthal B,9.09
+Neuwied -> Puderbach,Mo-Fr,3,26,Puderbach Hölzchens Mühle,9.10
+Neuwied -> Puderbach,Mo-Fr,3,27,Puderbach Verbandsgemeinde,9.14
+Neuwied -> Puderbach,Mo-Fr,4,1,Neuwied Bahnhof D,9.11
+Neuwied -> Puderbach,Mo-Fr,4,2,Moltkeplatz B,9.13
+Neuwied -> Puderbach,Mo-Fr,4,3,An der Matthiaskirche A,9.14
+Neuwied -> Puderbach,Mo-Fr,4,4,Schloßstraße A,9.18
+Neuwied -> Puderbach,Mo-Fr,4,5,Im Weidchen B,9.20
+Neuwied -> Puderbach,Mo-Fr,4,6,Stadion B,9.21
+Neuwied -> Puderbach,Mo-Fr,4,7,Matthiasberg,9.23
+Neuwied -> Puderbach,Mo-Fr,4,8,Ludwig-Erhard-Schule,9.25
+Neuwied -> Puderbach,Mo-Fr,4,9,Beverwijker Ring,9.26
+Neuwied -> Puderbach,Mo-Fr,4,10,Torney Friedhof Wennenberg,9.28
+Neuwied -> Puderbach,Mo-Fr,4,11,Dierdorfer Straße,9.29
+Neuwied -> Puderbach,Mo-Fr,4,12,Gladbach Chausseehaus,9.31
+Neuwied -> Puderbach,Mo-Fr,4,13,Haus am Pilz,9.33
+Neuwied -> Puderbach,Mo-Fr,4,14,Anhausen Braunsberg/Rheinhöhenweg,9.36
+Neuwied -> Puderbach,Mo-Fr,4,15,Schillerstraße B an,9.39
+Neuwied -> Puderbach,Mo-Fr,4,16,Schillerstraße B ab,9.41
+Neuwied -> Puderbach,Mo-Fr,4,17,Petershof B,9.44
+Neuwied -> Puderbach,Mo-Fr,4,18,Rüscheid Bamberger,9.46
+Neuwied -> Puderbach,Mo-Fr,4,19,Dierdorf SZ-Center A,9.53
+Neuwied -> Puderbach,Mo-Fr,4,20,Neuwieder Straße A,9.55
+Neuwied -> Puderbach,Mo-Fr,4,21,Dierdorf Markt an,9.57
+Neuwied -> Puderbach,Mo-Fr,4,22,Dierdorf Markt ab,9.58
+Neuwied -> Puderbach,Mo-Fr,4,23,Wienau Flemmer,10.02
+Neuwied -> Puderbach,Mo-Fr,4,24,Raubach In der Au,10.05
+Neuwied -> Puderbach,Mo-Fr,4,25,Hanroth Hedwigsthal B,10.09
+Neuwied -> Puderbach,Mo-Fr,4,26,Puderbach Hölzchens Mühle,10.10
+Neuwied -> Puderbach,Mo-Fr,4,27,Puderbach Verbandsgemeinde,10.14
+Neuwied -> Puderbach,Mo-Fr,5,1,Neuwied Bahnhof D,10.11
+Neuwied -> Puderbach,Mo-Fr,5,2,Moltkeplatz B,10.13
+Neuwied -> Puderbach,Mo-Fr,5,3,An der Matthiaskirche A,10.14
+Neuwied -> Puderbach,Mo-Fr,5,4,Schloßstraße A,10.18
+Neuwied -> Puderbach,Mo-Fr,5,5,Im Weidchen B,10.20
+Neuwied -> Puderbach,Mo-Fr,5,6,Stadion B,10.21
+Neuwied -> Puderbach,Mo-Fr,5,7,Matthiasberg,10.23
+Neuwied -> Puderbach,Mo-Fr,5,8,Ludwig-Erhard-Schule,10.25
+Neuwied -> Puderbach,Mo-Fr,5,9,Beverwijker Ring,10.26
+Neuwied -> Puderbach,Mo-Fr,5,10,Torney Friedhof Wennenberg,10.28
+Neuwied -> Puderbach,Mo-Fr,5,11,Dierdorfer Straße,10.29
+Neuwied -> Puderbach,Mo-Fr,5,12,Gladbach Chausseehaus,10.31
+Neuwied -> Puderbach,Mo-Fr,5,13,Haus am Pilz,10.33
+Neuwied -> Puderbach,Mo-Fr,5,14,Anhausen Braunsberg/Rheinhöhenweg,10.36
+Neuwied -> Puderbach,Mo-Fr,5,15,Schillerstraße B an,10.39
+Neuwied -> Puderbach,Mo-Fr,5,16,Schillerstraße B ab,10.41
+Neuwied -> Puderbach,Mo-Fr,5,17,Petershof B,10.44
+Neuwied -> Puderbach,Mo-Fr,5,18,Rüscheid Bamberger,10.46
+Neuwied -> Puderbach,Mo-Fr,5,19,Dierdorf SZ-Center A,10.53
+Neuwied -> Puderbach,Mo-Fr,5,20,Neuwieder Straße A,10.55
+Neuwied -> Puderbach,Mo-Fr,5,21,Dierdorf Markt an,10.57
+Neuwied -> Puderbach,Mo-Fr,5,22,Dierdorf Markt ab,10.58
+Neuwied -> Puderbach,Mo-Fr,5,23,Wienau Flemmer,11.02
+Neuwied -> Puderbach,Mo-Fr,5,24,Raubach In der Au,11.05
+Neuwied -> Puderbach,Mo-Fr,5,25,Hanroth Hedwigsthal B,11.09
+Neuwied -> Puderbach,Mo-Fr,5,26,Puderbach Hölzchens Mühle,11.10
+Neuwied -> Puderbach,Mo-Fr,5,27,Puderbach Verbandsgemeinde,11.14
+Neuwied -> Puderbach,Mo-Fr,6,1,Neuwied Bahnhof D,11.11
+Neuwied -> Puderbach,Mo-Fr,6,2,Moltkeplatz B,11.13
+Neuwied -> Puderbach,Mo-Fr,6,3,An der Matthiaskirche A,11.14
+Neuwied -> Puderbach,Mo-Fr,6,4,Schloßstraße A,11.18
+Neuwied -> Puderbach,Mo-Fr,6,5,Im Weidchen B,11.20
+Neuwied -> Puderbach,Mo-Fr,6,6,Stadion B,11.21
+Neuwied -> Puderbach,Mo-Fr,6,7,Matthiasberg,11.23
+Neuwied -> Puderbach,Mo-Fr,6,8,Ludwig-Erhard-Schule,11.25
+Neuwied -> Puderbach,Mo-Fr,6,9,Beverwijker Ring,11.26
+Neuwied -> Puderbach,Mo-Fr,6,10,Torney Friedhof Wennenberg,11.28
+Neuwied -> Puderbach,Mo-Fr,6,11,Dierdorfer Straße,11.29
+Neuwied -> Puderbach,Mo-Fr,6,12,Gladbach Chausseehaus,11.31
+Neuwied -> Puderbach,Mo-Fr,6,13,Haus am Pilz,11.33
+Neuwied -> Puderbach,Mo-Fr,6,14,Anhausen Braunsberg/Rheinhöhenweg,11.36
+Neuwied -> Puderbach,Mo-Fr,6,15,Schillerstraße B an,11.39
+Neuwied -> Puderbach,Mo-Fr,6,16,Schillerstraße B ab,11.41
+Neuwied -> Puderbach,Mo-Fr,6,17,Petershof B,11.44
+Neuwied -> Puderbach,Mo-Fr,6,18,Rüscheid Bamberger,11.46
+Neuwied -> Puderbach,Mo-Fr,6,19,Dierdorf SZ-Center A,11.53
+Neuwied -> Puderbach,Mo-Fr,6,20,Neuwieder Straße A,11.55
+Neuwied -> Puderbach,Mo-Fr,6,21,Dierdorf Markt an,11.57
+Neuwied -> Puderbach,Mo-Fr,6,22,Dierdorf Markt ab,11.58
+Neuwied -> Puderbach,Mo-Fr,6,23,Wienau Flemmer,12.02
+Neuwied -> Puderbach,Mo-Fr,6,24,Raubach In der Au,12.05
+Neuwied -> Puderbach,Mo-Fr,6,25,Hanroth Hedwigsthal B,12.09
+Neuwied -> Puderbach,Mo-Fr,6,26,Puderbach Hölzchens Mühle,12.10
+Neuwied -> Puderbach,Mo-Fr,6,27,Puderbach Verbandsgemeinde,12.14
+Neuwied -> Puderbach,Mo-Fr,7,1,Neuwied Bahnhof D,12.11
+Neuwied -> Puderbach,Mo-Fr,7,2,Moltkeplatz B,12.13
+Neuwied -> Puderbach,Mo-Fr,7,3,An der Matthiaskirche A,12.14
+Neuwied -> Puderbach,Mo-Fr,7,4,Schloßstraße A,12.18
+Neuwied -> Puderbach,Mo-Fr,7,5,Im Weidchen B,12.20
+Neuwied -> Puderbach,Mo-Fr,7,6,Stadion B,12.21
+Neuwied -> Puderbach,Mo-Fr,7,7,Matthiasberg,12.23
+Neuwied -> Puderbach,Mo-Fr,7,8,Ludwig-Erhard-Schule,12.25
+Neuwied -> Puderbach,Mo-Fr,7,9,Beverwijker Ring,12.26
+Neuwied -> Puderbach,Mo-Fr,7,10,Torney Friedhof Wennenberg,12.28
+Neuwied -> Puderbach,Mo-Fr,7,11,Dierdorfer Straße,12.29
+Neuwied -> Puderbach,Mo-Fr,7,12,Gladbach Chausseehaus,12.31
+Neuwied -> Puderbach,Mo-Fr,7,13,Haus am Pilz,12.33
+Neuwied -> Puderbach,Mo-Fr,7,14,Anhausen Braunsberg/Rheinhöhenweg,12.36
+Neuwied -> Puderbach,Mo-Fr,7,15,Schillerstraße B an,12.39
+Neuwied -> Puderbach,Mo-Fr,7,16,Schillerstraße B ab,12.41
+Neuwied -> Puderbach,Mo-Fr,7,17,Petershof B,12.44
+Neuwied -> Puderbach,Mo-Fr,7,18,Rüscheid Bamberger,12.46
+Neuwied -> Puderbach,Mo-Fr,7,19,Dierdorf SZ-Center A,12.53
+Neuwied -> Puderbach,Mo-Fr,7,20,Neuwieder Straße A,12.55
+Neuwied -> Puderbach,Mo-Fr,7,21,Dierdorf Markt an,12.57
+Neuwied -> Puderbach,Mo-Fr,7,22,Dierdorf Markt ab,12.58
+Neuwied -> Puderbach,Mo-Fr,7,23,Wienau Flemmer,13.02
+Neuwied -> Puderbach,Mo-Fr,7,24,Raubach In der Au,13.05
+Neuwied -> Puderbach,Mo-Fr,7,25,Hanroth Hedwigsthal B,13.09
+Neuwied -> Puderbach,Mo-Fr,7,26,Puderbach Hölzchens Mühle,13.10
+Neuwied -> Puderbach,Mo-Fr,7,27,Puderbach Verbandsgemeinde,13.14
+Neuwied -> Puderbach,Mo-Fr,8,1,Neuwied Bahnhof D,13.11
+Neuwied -> Puderbach,Mo-Fr,8,2,Moltkeplatz B,13.13
+Neuwied -> Puderbach,Mo-Fr,8,3,An der Matthiaskirche A,13.14
+Neuwied -> Puderbach,Mo-Fr,8,4,Schloßstraße A,13.18
+Neuwied -> Puderbach,Mo-Fr,8,5,Im Weidchen B,13.20
+Neuwied -> Puderbach,Mo-Fr,8,6,Stadion B,13.21
+Neuwied -> Puderbach,Mo-Fr,8,7,Matthiasberg,13.23
+Neuwied -> Puderbach,Mo-Fr,8,8,Ludwig-Erhard-Schule,13.25
+Neuwied -> Puderbach,Mo-Fr,8,9,Beverwijker Ring,13.26
+Neuwied -> Puderbach,Mo-Fr,8,10,Torney Friedhof Wennenberg,13.28
+Neuwied -> Puderbach,Mo-Fr,8,11,Dierdorfer Straße,13.29
+Neuwied -> Puderbach,Mo-Fr,8,12,Gladbach Chausseehaus,13.31
+Neuwied -> Puderbach,Mo-Fr,8,13,Haus am Pilz,13.33
+Neuwied -> Puderbach,Mo-Fr,8,14,Anhausen Braunsberg/Rheinhöhenweg,13.36
+Neuwied -> Puderbach,Mo-Fr,8,15,Schillerstraße B an,13.39
+Neuwied -> Puderbach,Mo-Fr,8,16,Schillerstraße B ab,13.41
+Neuwied -> Puderbach,Mo-Fr,8,17,Petershof B,13.44
+Neuwied -> Puderbach,Mo-Fr,8,18,Rüscheid Bamberger,13.46
+Neuwied -> Puderbach,Mo-Fr,8,19,Dierdorf SZ-Center A,13.53
+Neuwied -> Puderbach,Mo-Fr,8,20,Neuwieder Straße A,13.55
+Neuwied -> Puderbach,Mo-Fr,8,21,Dierdorf Markt an,13.57
+Neuwied -> Puderbach,Mo-Fr,8,22,Dierdorf Markt ab,13.58
+Neuwied -> Puderbach,Mo-Fr,8,23,Wienau Flemmer,14.02
+Neuwied -> Puderbach,Mo-Fr,8,24,Raubach In der Au,14.05
+Neuwied -> Puderbach,Mo-Fr,8,25,Hanroth Hedwigsthal B,14.09
+Neuwied -> Puderbach,Mo-Fr,8,26,Puderbach Hölzchens Mühle,14.10
+Neuwied -> Puderbach,Mo-Fr,8,27,Puderbach Verbandsgemeinde,14.14
+Neuwied -> Puderbach,Mo-Fr,9,1,Neuwied Bahnhof D,14.11
+Neuwied -> Puderbach,Mo-Fr,9,2,Moltkeplatz B,14.13
+Neuwied -> Puderbach,Mo-Fr,9,3,An der Matthiaskirche A,14.14
+Neuwied -> Puderbach,Mo-Fr,9,4,Schloßstraße A,14.18
+Neuwied -> Puderbach,Mo-Fr,9,5,Im Weidchen B,14.20
+Neuwied -> Puderbach,Mo-Fr,9,6,Stadion B,14.21
+Neuwied -> Puderbach,Mo-Fr,9,7,Matthiasberg,14.23
+Neuwied -> Puderbach,Mo-Fr,9,8,Ludwig-Erhard-Schule,14.25
+Neuwied -> Puderbach,Mo-Fr,9,9,Beverwijker Ring,14.26
+Neuwied -> Puderbach,Mo-Fr,9,10,Torney Friedhof Wennenberg,14.28
+Neuwied -> Puderbach,Mo-Fr,9,11,Dierdorfer Straße,14.29
+Neuwied -> Puderbach,Mo-Fr,9,12,Gladbach Chausseehaus,14.31
+Neuwied -> Puderbach,Mo-Fr,9,13,Haus am Pilz,14.33
+Neuwied -> Puderbach,Mo-Fr,9,14,Anhausen Braunsberg/Rheinhöhenweg,14.36
+Neuwied -> Puderbach,Mo-Fr,9,15,Schillerstraße B an,14.39
+Neuwied -> Puderbach,Mo-Fr,9,16,Schillerstraße B ab,14.41
+Neuwied -> Puderbach,Mo-Fr,9,17,Petershof B,14.44
+Neuwied -> Puderbach,Mo-Fr,9,18,Rüscheid Bamberger,14.46
+Neuwied -> Puderbach,Mo-Fr,9,19,Dierdorf SZ-Center A,14.53
+Neuwied -> Puderbach,Mo-Fr,9,20,Neuwieder Straße A,14.55
+Neuwied -> Puderbach,Mo-Fr,9,21,Dierdorf Markt an,14.57
+Neuwied -> Puderbach,Mo-Fr,9,22,Dierdorf Markt ab,14.58
+Neuwied -> Puderbach,Mo-Fr,9,23,Wienau Flemmer,15.02
+Neuwied -> Puderbach,Mo-Fr,9,24,Raubach In der Au,15.05
+Neuwied -> Puderbach,Mo-Fr,9,25,Hanroth Hedwigsthal B,15.09
+Neuwied -> Puderbach,Mo-Fr,9,26,Puderbach Hölzchens Mühle,15.10
+Neuwied -> Puderbach,Mo-Fr,9,27,Puderbach Verbandsgemeinde,15.14
+Neuwied -> Puderbach,Mo-Fr,10,1,Neuwied Bahnhof D,15.11
+Neuwied -> Puderbach,Mo-Fr,10,2,Moltkeplatz B,15.13
+Neuwied -> Puderbach,Mo-Fr,10,3,An der Matthiaskirche A,15.14
+Neuwied -> Puderbach,Mo-Fr,10,4,Schloßstraße A,15.18
+Neuwied -> Puderbach,Mo-Fr,10,5,Im Weidchen B,15.20
+Neuwied -> Puderbach,Mo-Fr,10,6,Stadion B,15.21
+Neuwied -> Puderbach,Mo-Fr,10,7,Matthiasberg,15.23
+Neuwied -> Puderbach,Mo-Fr,10,8,Ludwig-Erhard-Schule,15.25
+Neuwied -> Puderbach,Mo-Fr,10,9,Beverwijker Ring,15.26
+Neuwied -> Puderbach,Mo-Fr,10,10,Torney Friedhof Wennenberg,15.28
+Neuwied -> Puderbach,Mo-Fr,10,11,Dierdorfer Straße,15.29
+Neuwied -> Puderbach,Mo-Fr,10,12,Gladbach Chausseehaus,15.31
+Neuwied -> Puderbach,Mo-Fr,10,13,Haus am Pilz,15.33
+Neuwied -> Puderbach,Mo-Fr,10,14,Anhausen Braunsberg/Rheinhöhenweg,15.36
+Neuwied -> Puderbach,Mo-Fr,10,15,Schillerstraße B an,15.39
+Neuwied -> Puderbach,Mo-Fr,10,16,Schillerstraße B ab,15.41
+Neuwied -> Puderbach,Mo-Fr,10,17,Petershof B,15.44
+Neuwied -> Puderbach,Mo-Fr,10,18,Rüscheid Bamberger,15.46
+Neuwied -> Puderbach,Mo-Fr,10,19,Dierdorf SZ-Center A,15.53
+Neuwied -> Puderbach,Mo-Fr,10,20,Neuwieder Straße A,15.55
+Neuwied -> Puderbach,Mo-Fr,10,21,Dierdorf Markt an,15.57
+Neuwied -> Puderbach,Mo-Fr,10,22,Dierdorf Markt ab,15.58
+Neuwied -> Puderbach,Mo-Fr,10,23,Wienau Flemmer,16.02
+Neuwied -> Puderbach,Mo-Fr,10,24,Raubach In der Au,16.05
+Neuwied -> Puderbach,Mo-Fr,10,25,Hanroth Hedwigsthal B,16.09
+Neuwied -> Puderbach,Mo-Fr,10,26,Puderbach Hölzchens Mühle,16.10
+Neuwied -> Puderbach,Mo-Fr,10,27,Puderbach Verbandsgemeinde,16.14
+Neuwied -> Puderbach,Mo-Fr,11,1,Neuwied Bahnhof D,16.11
+Neuwied -> Puderbach,Mo-Fr,11,2,Moltkeplatz B,16.13
+Neuwied -> Puderbach,Mo-Fr,11,3,An der Matthiaskirche A,16.14
+Neuwied -> Puderbach,Mo-Fr,11,4,Schloßstraße A,16.18
+Neuwied -> Puderbach,Mo-Fr,11,5,Im Weidchen B,16.20
+Neuwied -> Puderbach,Mo-Fr,11,6,Stadion B,16.21
+Neuwied -> Puderbach,Mo-Fr,11,7,Matthiasberg,16.23
+Neuwied -> Puderbach,Mo-Fr,11,8,Ludwig-Erhard-Schule,16.25
+Neuwied -> Puderbach,Mo-Fr,11,9,Beverwijker Ring,16.26
+Neuwied -> Puderbach,Mo-Fr,11,10,Torney Friedhof Wennenberg,16.28
+Neuwied -> Puderbach,Mo-Fr,11,11,Dierdorfer Straße,16.29
+Neuwied -> Puderbach,Mo-Fr,11,12,Gladbach Chausseehaus,16.31
+Neuwied -> Puderbach,Mo-Fr,11,13,Haus am Pilz,16.33
+Neuwied -> Puderbach,Mo-Fr,11,14,Anhausen Braunsberg/Rheinhöhenweg,16.36
+Neuwied -> Puderbach,Mo-Fr,11,15,Schillerstraße B an,16.39
+Neuwied -> Puderbach,Mo-Fr,11,16,Schillerstraße B ab,16.41
+Neuwied -> Puderbach,Mo-Fr,11,17,Petershof B,16.44
+Neuwied -> Puderbach,Mo-Fr,11,18,Rüscheid Bamberger,16.46
+Neuwied -> Puderbach,Mo-Fr,11,19,Dierdorf SZ-Center A,16.53
+Neuwied -> Puderbach,Mo-Fr,11,20,Neuwieder Straße A,16.55
+Neuwied -> Puderbach,Mo-Fr,11,21,Dierdorf Markt an,16.57
+Neuwied -> Puderbach,Mo-Fr,11,22,Dierdorf Markt ab,16.58
+Neuwied -> Puderbach,Mo-Fr,11,23,Wienau Flemmer,17.02
+Neuwied -> Puderbach,Mo-Fr,11,24,Raubach In der Au,17.05
+Neuwied -> Puderbach,Mo-Fr,11,25,Hanroth Hedwigsthal B,17.09
+Neuwied -> Puderbach,Mo-Fr,11,26,Puderbach Hölzchens Mühle,17.10
+Neuwied -> Puderbach,Mo-Fr,11,27,Puderbach Verbandsgemeinde,17.14
+Neuwied -> Puderbach,Mo-Fr,12,1,Neuwied Bahnhof D,17.11
+Neuwied -> Puderbach,Mo-Fr,12,2,Moltkeplatz B,17.13
+Neuwied -> Puderbach,Mo-Fr,12,3,An der Matthiaskirche A,17.14
+Neuwied -> Puderbach,Mo-Fr,12,4,Schloßstraße A,17.18
+Neuwied -> Puderbach,Mo-Fr,12,5,Im Weidchen B,17.20
+Neuwied -> Puderbach,Mo-Fr,12,6,Stadion B,17.21
+Neuwied -> Puderbach,Mo-Fr,12,7,Matthiasberg,17.23
+Neuwied -> Puderbach,Mo-Fr,12,8,Ludwig-Erhard-Schule,17.25
+Neuwied -> Puderbach,Mo-Fr,12,9,Beverwijker Ring,17.26
+Neuwied -> Puderbach,Mo-Fr,12,10,Torney Friedhof Wennenberg,17.28
+Neuwied -> Puderbach,Mo-Fr,12,11,Dierdorfer Straße,17.29
+Neuwied -> Puderbach,Mo-Fr,12,12,Gladbach Chausseehaus,17.31
+Neuwied -> Puderbach,Mo-Fr,12,13,Haus am Pilz,17.33
+Neuwied -> Puderbach,Mo-Fr,12,14,Anhausen Braunsberg/Rheinhöhenweg,17.36
+Neuwied -> Puderbach,Mo-Fr,12,15,Schillerstraße B an,17.39
+Neuwied -> Puderbach,Mo-Fr,12,16,Schillerstraße B ab,17.41
+Neuwied -> Puderbach,Mo-Fr,12,17,Petershof B,17.44
+Neuwied -> Puderbach,Mo-Fr,12,18,Rüscheid Bamberger,17.46
+Neuwied -> Puderbach,Mo-Fr,12,19,Dierdorf SZ-Center A,17.53
+Neuwied -> Puderbach,Mo-Fr,12,20,Neuwieder Straße A,17.55
+Neuwied -> Puderbach,Mo-Fr,12,21,Dierdorf Markt an,17.57
+Neuwied -> Puderbach,Mo-Fr,12,22,Dierdorf Markt ab,17.58
+Neuwied -> Puderbach,Mo-Fr,12,23,Wienau Flemmer,18.02
+Neuwied -> Puderbach,Mo-Fr,12,24,Raubach In der Au,18.05
+Neuwied -> Puderbach,Mo-Fr,12,25,Hanroth Hedwigsthal B,18.09
+Neuwied -> Puderbach,Mo-Fr,12,26,Puderbach Hölzchens Mühle,18.10
+Neuwied -> Puderbach,Mo-Fr,12,27,Puderbach Verbandsgemeinde,18.14
+Neuwied -> Puderbach,Mo-Fr,13,1,Neuwied Bahnhof D,18.11
+Neuwied -> Puderbach,Mo-Fr,13,2,Moltkeplatz B,18.13
+Neuwied -> Puderbach,Mo-Fr,13,3,An der Matthiaskirche A,18.14
+Neuwied -> Puderbach,Mo-Fr,13,4,Schloßstraße A,18.18
+Neuwied -> Puderbach,Mo-Fr,13,5,Im Weidchen B,18.20
+Neuwied -> Puderbach,Mo-Fr,13,6,Stadion B,18.21
+Neuwied -> Puderbach,Mo-Fr,13,7,Matthiasberg,18.23
+Neuwied -> Puderbach,Mo-Fr,13,8,Ludwig-Erhard-Schule,18.25
+Neuwied -> Puderbach,Mo-Fr,13,9,Beverwijker Ring,18.26
+Neuwied -> Puderbach,Mo-Fr,13,10,Torney Friedhof Wennenberg,18.28
+Neuwied -> Puderbach,Mo-Fr,13,11,Dierdorfer Straße,18.29
+Neuwied -> Puderbach,Mo-Fr,13,12,Gladbach Chausseehaus,18.31
+Neuwied -> Puderbach,Mo-Fr,13,13,Haus am Pilz,18.33
+Neuwied -> Puderbach,Mo-Fr,13,14,Anhausen Braunsberg/Rheinhöhenweg,18.36
+Neuwied -> Puderbach,Mo-Fr,13,15,Schillerstraße B an,18.39
+Neuwied -> Puderbach,Mo-Fr,13,16,Schillerstraße B ab,18.41
+Neuwied -> Puderbach,Mo-Fr,13,17,Petershof B,18.44
+Neuwied -> Puderbach,Mo-Fr,13,18,Rüscheid Bamberger,18.46
+Neuwied -> Puderbach,Mo-Fr,13,19,Dierdorf SZ-Center A,18.53
+Neuwied -> Puderbach,Mo-Fr,13,20,Neuwieder Straße A,18.55
+Neuwied -> Puderbach,Mo-Fr,13,21,Dierdorf Markt an,18.57
+Neuwied -> Puderbach,Mo-Fr,13,22,Dierdorf Markt ab,18.58
+Neuwied -> Puderbach,Mo-Fr,13,23,Wienau Flemmer,19.02
+Neuwied -> Puderbach,Mo-Fr,13,24,Raubach In der Au,19.05
+Neuwied -> Puderbach,Mo-Fr,13,25,Hanroth Hedwigsthal B,19.09
+Neuwied -> Puderbach,Mo-Fr,13,26,Puderbach Hölzchens Mühle,19.10
+Neuwied -> Puderbach,Mo-Fr,13,27,Puderbach Verbandsgemeinde,19.14
+Neuwied -> Puderbach,Mo-Fr,14,1,Neuwied Bahnhof D,19.11
+Neuwied -> Puderbach,Mo-Fr,14,2,Moltkeplatz B,19.13
+Neuwied -> Puderbach,Mo-Fr,14,3,An der Matthiaskirche A,19.14
+Neuwied -> Puderbach,Mo-Fr,14,4,Schloßstraße A,19.18
+Neuwied -> Puderbach,Mo-Fr,14,5,Im Weidchen B,19.20
+Neuwied -> Puderbach,Mo-Fr,14,6,Stadion B,19.21
+Neuwied -> Puderbach,Mo-Fr,14,7,Matthiasberg,19.23
+Neuwied -> Puderbach,Mo-Fr,14,8,Ludwig-Erhard-Schule,19.25
+Neuwied -> Puderbach,Mo-Fr,14,9,Beverwijker Ring,19.26
+Neuwied -> Puderbach,Mo-Fr,14,10,Torney Friedhof Wennenberg,19.28
+Neuwied -> Puderbach,Mo-Fr,14,11,Dierdorfer Straße,19.29
+Neuwied -> Puderbach,Mo-Fr,14,12,Gladbach Chausseehaus,19.31
+Neuwied -> Puderbach,Mo-Fr,14,13,Haus am Pilz,19.33
+Neuwied -> Puderbach,Mo-Fr,14,14,Anhausen Braunsberg/Rheinhöhenweg,19.36
+Neuwied -> Puderbach,Mo-Fr,14,15,Schillerstraße B an,19.39
+Neuwied -> Puderbach,Mo-Fr,14,16,Schillerstraße B ab,19.41
+Neuwied -> Puderbach,Mo-Fr,14,17,Petershof B,19.44
+Neuwied -> Puderbach,Mo-Fr,14,18,Rüscheid Bamberger,19.46
+Neuwied -> Puderbach,Mo-Fr,14,19,Dierdorf SZ-Center A,19.53
+Neuwied -> Puderbach,Mo-Fr,14,20,Neuwieder Straße A,19.55
+Neuwied -> Puderbach,Mo-Fr,14,21,Dierdorf Markt an,19.57
+Neuwied -> Puderbach,Mo-Fr,14,22,Dierdorf Markt ab,19.58
+Neuwied -> Puderbach,Mo-Fr,14,23,Wienau Flemmer,20.02
+Neuwied -> Puderbach,Mo-Fr,14,24,Raubach In der Au,20.05
+Neuwied -> Puderbach,Mo-Fr,14,25,Hanroth Hedwigsthal B,20.09
+Neuwied -> Puderbach,Mo-Fr,14,26,Puderbach Hölzchens Mühle,20.10
+Neuwied -> Puderbach,Mo-Fr,14,27,Puderbach Verbandsgemeinde,20.14
+Neuwied -> Puderbach,Mo-Fr,15,1,Neuwied Bahnhof D,20.11
+Neuwied -> Puderbach,Mo-Fr,15,2,Moltkeplatz B,20.13
+Neuwied -> Puderbach,Mo-Fr,15,3,An der Matthiaskirche A,20.14
+Neuwied -> Puderbach,Mo-Fr,15,4,Schloßstraße A,20.18
+Neuwied -> Puderbach,Mo-Fr,15,5,Im Weidchen B,20.20
+Neuwied -> Puderbach,Mo-Fr,15,6,Stadion B,20.21
+Neuwied -> Puderbach,Mo-Fr,15,7,Matthiasberg,20.23
+Neuwied -> Puderbach,Mo-Fr,15,8,Ludwig-Erhard-Schule,20.25
+Neuwied -> Puderbach,Mo-Fr,15,9,Beverwijker Ring,20.26
+Neuwied -> Puderbach,Mo-Fr,15,10,Torney Friedhof Wennenberg,20.28
+Neuwied -> Puderbach,Mo-Fr,15,11,Dierdorfer Straße,20.29
+Neuwied -> Puderbach,Mo-Fr,15,12,Gladbach Chausseehaus,20.31
+Neuwied -> Puderbach,Mo-Fr,15,13,Haus am Pilz,20.33
+Neuwied -> Puderbach,Mo-Fr,15,14,Anhausen Braunsberg/Rheinhöhenweg,20.36
+Neuwied -> Puderbach,Mo-Fr,15,15,Schillerstraße B an,20.39
+Neuwied -> Puderbach,Mo-Fr,15,16,Schillerstraße B ab,20.41
+Neuwied -> Puderbach,Mo-Fr,15,17,Petershof B,20.44
+Neuwied -> Puderbach,Mo-Fr,15,18,Rüscheid Bamberger,20.46
+Neuwied -> Puderbach,Mo-Fr,15,19,Dierdorf SZ-Center A,20.53
+Neuwied -> Puderbach,Mo-Fr,15,20,Neuwieder Straße A,20.55
+Neuwied -> Puderbach,Mo-Fr,15,21,Dierdorf Markt an,20.57
+Neuwied -> Puderbach,Mo-Fr,16,1,Neuwied Bahnhof D,21.11
+Neuwied -> Puderbach,Mo-Fr,16,2,Moltkeplatz B,21.13
+Neuwied -> Puderbach,Mo-Fr,16,3,An der Matthiaskirche A,21.14
+Neuwied -> Puderbach,Mo-Fr,16,4,Schloßstraße A,21.18
+Neuwied -> Puderbach,Mo-Fr,16,5,Im Weidchen B,21.20
+Neuwied -> Puderbach,Mo-Fr,16,6,Stadion B,21.21
+Neuwied -> Puderbach,Mo-Fr,16,7,Matthiasberg,21.23
+Neuwied -> Puderbach,Mo-Fr,16,8,Ludwig-Erhard-Schule,21.25
+Neuwied -> Puderbach,Mo-Fr,16,9,Beverwijker Ring,21.26
+Neuwied -> Puderbach,Mo-Fr,16,10,Torney Friedhof Wennenberg,21.28
+Neuwied -> Puderbach,Mo-Fr,16,11,Dierdorfer Straße,21.29
+Neuwied -> Puderbach,Mo-Fr,16,12,Gladbach Chausseehaus,21.31
+Neuwied -> Puderbach,Mo-Fr,16,13,Haus am Pilz,21.33
+Neuwied -> Puderbach,Mo-Fr,16,14,Anhausen Braunsberg/Rheinhöhenweg,21.36
+Neuwied -> Puderbach,Mo-Fr,16,15,Schillerstraße B an,21.39
+Neuwied -> Puderbach,Mo-Fr,16,16,Schillerstraße B ab,21.41
+Neuwied -> Puderbach,Mo-Fr,16,17,Petershof B,21.44
+Neuwied -> Puderbach,Mo-Fr,16,18,Rüscheid Bamberger,21.46
+Neuwied -> Puderbach,Mo-Fr,16,19,Dierdorf SZ-Center A,21.53
+Neuwied -> Puderbach,Mo-Fr,16,20,Neuwieder Straße A,21.55
+Neuwied -> Puderbach,Mo-Fr,16,21,Dierdorf Markt an,21.57
+Neuwied -> Puderbach,Mo-Fr,16,22,Dierdorf Markt ab,21.58
+Neuwied -> Puderbach,Mo-Fr,16,23,Wienau Flemmer,22.02
+Neuwied -> Puderbach,Mo-Fr,16,24,Raubach In der Au,22.05
+Neuwied -> Puderbach,Mo-Fr,16,25,Hanroth Hedwigsthal B,22.09
+Neuwied -> Puderbach,Mo-Fr,16,26,Puderbach Hölzchens Mühle,22.10
+Neuwied -> Puderbach,Mo-Fr,16,27,Puderbach Verbandsgemeinde,22.14
+Neuwied -> Puderbach,Mo-Fr,17,1,Neuwied Bahnhof D,23.11
+Neuwied -> Puderbach,Mo-Fr,17,2,Moltkeplatz B,23.13
+Neuwied -> Puderbach,Mo-Fr,17,3,An der Matthiaskirche A,23.14
+Neuwied -> Puderbach,Mo-Fr,17,4,Schloßstraße A,23.18
+Neuwied -> Puderbach,Mo-Fr,17,5,Im Weidchen B,23.20
+Neuwied -> Puderbach,Mo-Fr,17,6,Stadion B,23.21
+Neuwied -> Puderbach,Mo-Fr,17,7,Matthiasberg,23.23
+Neuwied -> Puderbach,Mo-Fr,17,8,Ludwig-Erhard-Schule,23.25
+Neuwied -> Puderbach,Mo-Fr,17,9,Beverwijker Ring,23.26
+Neuwied -> Puderbach,Mo-Fr,17,10,Torney Friedhof Wennenberg,23.28
+Neuwied -> Puderbach,Mo-Fr,17,11,Dierdorfer Straße,23.29
+Neuwied -> Puderbach,Mo-Fr,17,12,Gladbach Chausseehaus,23.31
+Neuwied -> Puderbach,Mo-Fr,17,13,Haus am Pilz,23.33
+Neuwied -> Puderbach,Mo-Fr,17,14,Anhausen Braunsberg/Rheinhöhenweg,23.36
+Neuwied -> Puderbach,Mo-Fr,17,15,Schillerstraße B an,23.39
+Neuwied -> Puderbach,Mo-Fr,17,16,Schillerstraße B ab,23.41
+Neuwied -> Puderbach,Mo-Fr,17,17,Petershof B,23.44
+Neuwied -> Puderbach,Mo-Fr,17,18,Rüscheid Bamberger,23.46
+Neuwied -> Puderbach,Mo-Fr,17,19,Dierdorf SZ-Center A,23.53
+Neuwied -> Puderbach,Mo-Fr,17,20,Neuwieder Straße A,23.55
+Neuwied -> Puderbach,Mo-Fr,17,21,Dierdorf Markt an,23.57
+Neuwied -> Puderbach,Mo-Fr,17,22,Dierdorf Markt ab,23.58
+Neuwied -> Puderbach,Mo-Fr,17,23,Wienau Flemmer,0.02
+Neuwied -> Puderbach,Mo-Fr,17,24,Raubach In der Au,0.05
+Neuwied -> Puderbach,Mo-Fr,17,25,Hanroth Hedwigsthal B,0.09
+Neuwied -> Puderbach,Mo-Fr,17,26,Puderbach Hölzchens Mühle,0.10
+Neuwied -> Puderbach,Mo-Fr,17,27,Puderbach Verbandsgemeinde,0.14
+Neuwied -> Puderbach,Sa,1,1,Neuwied Bahnhof D,8.11
+Neuwied -> Puderbach,Sa,1,2,Moltkeplatz B,8.13
+Neuwied -> Puderbach,Sa,1,3,An der Matthiaskirche A,8.14
+Neuwied -> Puderbach,Sa,1,4,Schloßstraße A,8.18
+Neuwied -> Puderbach,Sa,1,5,Im Weidchen B,8.20
+Neuwied -> Puderbach,Sa,1,6,Stadion B,8.21
+Neuwied -> Puderbach,Sa,1,7,Matthiasberg,8.23
+Neuwied -> Puderbach,Sa,1,8,Ludwig-Erhard-Schule,8.25
+Neuwied -> Puderbach,Sa,1,9,Beverwijker Ring,8.26
+Neuwied -> Puderbach,Sa,1,10,Torney Friedhof Wennenberg,8.28
+Neuwied -> Puderbach,Sa,1,11,Dierdorfer Straße,8.29
+Neuwied -> Puderbach,Sa,1,12,Gladbach Chausseehaus,8.31
+Neuwied -> Puderbach,Sa,1,13,Haus am Pilz,8.33
+Neuwied -> Puderbach,Sa,1,14,Anhausen Braunsberg/Rheinhöhenweg,8.36
+Neuwied -> Puderbach,Sa,1,15,Schillerstraße B an,8.39
+Neuwied -> Puderbach,Sa,1,16,Schillerstraße B ab,8.41
+Neuwied -> Puderbach,Sa,1,17,Petershof B,8.44
+Neuwied -> Puderbach,Sa,1,18,Rüscheid Bamberger,8.46
+Neuwied -> Puderbach,Sa,1,19,Dierdorf SZ-Center A,8.53
+Neuwied -> Puderbach,Sa,1,20,Neuwieder Straße A,8.55
+Neuwied -> Puderbach,Sa,1,21,Dierdorf Markt an,8.57
+Neuwied -> Puderbach,Sa,2,1,Neuwied Bahnhof D,9.11
+Neuwied -> Puderbach,Sa,2,2,Moltkeplatz B,9.13
+Neuwied -> Puderbach,Sa,2,3,An der Matthiaskirche A,9.14
+Neuwied -> Puderbach,Sa,2,4,Schloßstraße A,9.18
+Neuwied -> Puderbach,Sa,2,5,Im Weidchen B,9.20
+Neuwied -> Puderbach,Sa,2,6,Stadion B,9.21
+Neuwied -> Puderbach,Sa,2,7,Matthiasberg,9.23
+Neuwied -> Puderbach,Sa,2,8,Ludwig-Erhard-Schule,9.25
+Neuwied -> Puderbach,Sa,2,9,Beverwijker Ring,9.26
+Neuwied -> Puderbach,Sa,2,10,Torney Friedhof Wennenberg,9.28
+Neuwied -> Puderbach,Sa,2,11,Dierdorfer Straße,9.29
+Neuwied -> Puderbach,Sa,2,12,Gladbach Chausseehaus,9.31
+Neuwied -> Puderbach,Sa,2,13,Haus am Pilz,9.33
+Neuwied -> Puderbach,Sa,2,14,Anhausen Braunsberg/Rheinhöhenweg,9.36
+Neuwied -> Puderbach,Sa,2,15,Schillerstraße B an,9.39
+Neuwied -> Puderbach,Sa,2,16,Schillerstraße B ab,9.41
+Neuwied -> Puderbach,Sa,2,17,Petershof B,9.44
+Neuwied -> Puderbach,Sa,2,18,Rüscheid Bamberger,9.46
+Neuwied -> Puderbach,Sa,2,19,Dierdorf SZ-Center A,9.53
+Neuwied -> Puderbach,Sa,2,20,Neuwieder Straße A,9.55
+Neuwied -> Puderbach,Sa,2,21,Dierdorf Markt an,9.57
+Neuwied -> Puderbach,Sa,2,22,Dierdorf Markt ab,9.58
+Neuwied -> Puderbach,Sa,2,23,Wienau Flemmer,10.02
+Neuwied -> Puderbach,Sa,2,24,Raubach In der Au,10.05
+Neuwied -> Puderbach,Sa,2,25,Hanroth Hedwigsthal B,10.09
+Neuwied -> Puderbach,Sa,2,26,Puderbach Hölzchens Mühle,10.10
+Neuwied -> Puderbach,Sa,2,27,Puderbach Verbandsgemeinde,10.14
+Neuwied -> Puderbach,Sa,3,1,Neuwied Bahnhof D,10.11
+Neuwied -> Puderbach,Sa,3,2,Moltkeplatz B,10.13
+Neuwied -> Puderbach,Sa,3,3,An der Matthiaskirche A,10.14
+Neuwied -> Puderbach,Sa,3,4,Schloßstraße A,10.18
+Neuwied -> Puderbach,Sa,3,5,Im Weidchen B,10.20
+Neuwied -> Puderbach,Sa,3,6,Stadion B,10.21
+Neuwied -> Puderbach,Sa,3,7,Matthiasberg,10.23
+Neuwied -> Puderbach,Sa,3,8,Ludwig-Erhard-Schule,10.25
+Neuwied -> Puderbach,Sa,3,9,Beverwijker Ring,10.26
+Neuwied -> Puderbach,Sa,3,10,Torney Friedhof Wennenberg,10.28
+Neuwied -> Puderbach,Sa,3,11,Dierdorfer Straße,10.29
+Neuwied -> Puderbach,Sa,3,12,Gladbach Chausseehaus,10.31
+Neuwied -> Puderbach,Sa,3,13,Haus am Pilz,10.33
+Neuwied -> Puderbach,Sa,3,14,Anhausen Braunsberg/Rheinhöhenweg,10.36
+Neuwied -> Puderbach,Sa,3,15,Schillerstraße B an,10.39
+Neuwied -> Puderbach,Sa,3,16,Schillerstraße B ab,10.41
+Neuwied -> Puderbach,Sa,3,17,Petershof B,10.44
+Neuwied -> Puderbach,Sa,3,18,Rüscheid Bamberger,10.46
+Neuwied -> Puderbach,Sa,3,19,Dierdorf SZ-Center A,10.53
+Neuwied -> Puderbach,Sa,3,20,Neuwieder Straße A,10.55
+Neuwied -> Puderbach,Sa,3,21,Dierdorf Markt an,10.57
+Neuwied -> Puderbach,Sa,3,22,Dierdorf Markt ab,10.58
+Neuwied -> Puderbach,Sa,4,1,Neuwied Bahnhof D,11.11
+Neuwied -> Puderbach,Sa,4,2,Moltkeplatz B,11.13
+Neuwied -> Puderbach,Sa,4,3,An der Matthiaskirche A,11.14
+Neuwied -> Puderbach,Sa,4,4,Schloßstraße A,11.18
+Neuwied -> Puderbach,Sa,4,5,Im Weidchen B,11.20
+Neuwied -> Puderbach,Sa,4,6,Stadion B,11.21
+Neuwied -> Puderbach,Sa,4,7,Matthiasberg,11.23
+Neuwied -> Puderbach,Sa,4,8,Ludwig-Erhard-Schule,11.25
+Neuwied -> Puderbach,Sa,4,9,Beverwijker Ring,11.26
+Neuwied -> Puderbach,Sa,4,10,Torney Friedhof Wennenberg,11.28
+Neuwied -> Puderbach,Sa,4,11,Dierdorfer Straße,11.29
+Neuwied -> Puderbach,Sa,4,12,Gladbach Chausseehaus,11.31
+Neuwied -> Puderbach,Sa,4,13,Haus am Pilz,11.33
+Neuwied -> Puderbach,Sa,4,14,Anhausen Braunsberg/Rheinhöhenweg,11.36
+Neuwied -> Puderbach,Sa,4,15,Schillerstraße B an,11.39
+Neuwied -> Puderbach,Sa,4,16,Schillerstraße B ab,11.41
+Neuwied -> Puderbach,Sa,4,17,Petershof B,11.44
+Neuwied -> Puderbach,Sa,4,18,Rüscheid Bamberger,11.46
+Neuwied -> Puderbach,Sa,4,19,Dierdorf SZ-Center A,11.53
+Neuwied -> Puderbach,Sa,4,20,Neuwieder Straße A,11.55
+Neuwied -> Puderbach,Sa,4,21,Dierdorf Markt an,11.57
+Neuwied -> Puderbach,Sa,4,22,Dierdorf Markt ab,11.58
+Neuwied -> Puderbach,Sa,4,23,Wienau Flemmer,12.02
+Neuwied -> Puderbach,Sa,4,24,Raubach In der Au,12.05
+Neuwied -> Puderbach,Sa,4,25,Hanroth Hedwigsthal B,12.09
+Neuwied -> Puderbach,Sa,4,26,Puderbach Hölzchens Mühle,12.10
+Neuwied -> Puderbach,Sa,4,27,Puderbach Verbandsgemeinde,12.14
+Neuwied -> Puderbach,Sa,5,1,Neuwied Bahnhof D,12.11
+Neuwied -> Puderbach,Sa,5,2,Moltkeplatz B,12.13
+Neuwied -> Puderbach,Sa,5,3,An der Matthiaskirche A,12.14
+Neuwied -> Puderbach,Sa,5,4,Schloßstraße A,12.18
+Neuwied -> Puderbach,Sa,5,5,Im Weidchen B,12.20
+Neuwied -> Puderbach,Sa,5,6,Stadion B,12.21
+Neuwied -> Puderbach,Sa,5,7,Matthiasberg,12.23
+Neuwied -> Puderbach,Sa,5,8,Ludwig-Erhard-Schule,12.25
+Neuwied -> Puderbach,Sa,5,9,Beverwijker Ring,12.26
+Neuwied -> Puderbach,Sa,5,10,Torney Friedhof Wennenberg,12.28
+Neuwied -> Puderbach,Sa,5,11,Dierdorfer Straße,12.29
+Neuwied -> Puderbach,Sa,5,12,Gladbach Chausseehaus,12.31
+Neuwied -> Puderbach,Sa,5,13,Haus am Pilz,12.33
+Neuwied -> Puderbach,Sa,5,14,Anhausen Braunsberg/Rheinhöhenweg,12.36
+Neuwied -> Puderbach,Sa,5,15,Schillerstraße B an,12.39
+Neuwied -> Puderbach,Sa,5,16,Schillerstraße B ab,12.41
+Neuwied -> Puderbach,Sa,5,17,Petershof B,12.44
+Neuwied -> Puderbach,Sa,5,18,Rüscheid Bamberger,12.46
+Neuwied -> Puderbach,Sa,5,19,Dierdorf SZ-Center A,12.53
+Neuwied -> Puderbach,Sa,5,20,Neuwieder Straße A,12.55
+Neuwied -> Puderbach,Sa,5,21,Dierdorf Markt an,12.57
+Neuwied -> Puderbach,Sa,5,22,Dierdorf Markt ab,12.58
+Neuwied -> Puderbach,Sa,6,1,Neuwied Bahnhof D,13.11
+Neuwied -> Puderbach,Sa,6,2,Moltkeplatz B,13.13
+Neuwied -> Puderbach,Sa,6,3,An der Matthiaskirche A,13.14
+Neuwied -> Puderbach,Sa,6,4,Schloßstraße A,13.18
+Neuwied -> Puderbach,Sa,6,5,Im Weidchen B,13.20
+Neuwied -> Puderbach,Sa,6,6,Stadion B,13.21
+Neuwied -> Puderbach,Sa,6,7,Matthiasberg,13.23
+Neuwied -> Puderbach,Sa,6,8,Ludwig-Erhard-Schule,13.25
+Neuwied -> Puderbach,Sa,6,9,Beverwijker Ring,13.26
+Neuwied -> Puderbach,Sa,6,10,Torney Friedhof Wennenberg,13.28
+Neuwied -> Puderbach,Sa,6,11,Dierdorfer Straße,13.29
+Neuwied -> Puderbach,Sa,6,12,Gladbach Chausseehaus,13.31
+Neuwied -> Puderbach,Sa,6,13,Haus am Pilz,13.33
+Neuwied -> Puderbach,Sa,6,14,Anhausen Braunsberg/Rheinhöhenweg,13.36
+Neuwied -> Puderbach,Sa,6,15,Schillerstraße B an,13.39
+Neuwied -> Puderbach,Sa,6,16,Schillerstraße B ab,13.41
+Neuwied -> Puderbach,Sa,6,17,Petershof B,13.44
+Neuwied -> Puderbach,Sa,6,18,Rüscheid Bamberger,13.46
+Neuwied -> Puderbach,Sa,6,19,Dierdorf SZ-Center A,13.53
+Neuwied -> Puderbach,Sa,6,20,Neuwieder Straße A,13.55
+Neuwied -> Puderbach,Sa,6,21,Dierdorf Markt an,13.57
+Neuwied -> Puderbach,Sa,6,22,Dierdorf Markt ab,13.58
+Neuwied -> Puderbach,Sa,6,23,Wienau Flemmer,14.02
+Neuwied -> Puderbach,Sa,6,24,Raubach In der Au,14.05
+Neuwied -> Puderbach,Sa,6,25,Hanroth Hedwigsthal B,14.09
+Neuwied -> Puderbach,Sa,6,26,Puderbach Hölzchens Mühle,14.10
+Neuwied -> Puderbach,Sa,6,27,Puderbach Verbandsgemeinde,14.14
+Neuwied -> Puderbach,Sa,7,1,Neuwied Bahnhof D,14.11
+Neuwied -> Puderbach,Sa,7,2,Moltkeplatz B,14.13
+Neuwied -> Puderbach,Sa,7,3,An der Matthiaskirche A,14.14
+Neuwied -> Puderbach,Sa,7,4,Schloßstraße A,14.18
+Neuwied -> Puderbach,Sa,7,5,Im Weidchen B,14.20
+Neuwied -> Puderbach,Sa,7,6,Stadion B,14.21
+Neuwied -> Puderbach,Sa,7,7,Matthiasberg,14.23
+Neuwied -> Puderbach,Sa,7,8,Ludwig-Erhard-Schule,14.25
+Neuwied -> Puderbach,Sa,7,9,Beverwijker Ring,14.26
+Neuwied -> Puderbach,Sa,7,10,Torney Friedhof Wennenberg,14.28
+Neuwied -> Puderbach,Sa,7,11,Dierdorfer Straße,14.29
+Neuwied -> Puderbach,Sa,7,12,Gladbach Chausseehaus,14.31
+Neuwied -> Puderbach,Sa,7,13,Haus am Pilz,14.33
+Neuwied -> Puderbach,Sa,7,14,Anhausen Braunsberg/Rheinhöhenweg,14.36
+Neuwied -> Puderbach,Sa,7,15,Schillerstraße B an,14.39
+Neuwied -> Puderbach,Sa,7,16,Schillerstraße B ab,14.41
+Neuwied -> Puderbach,Sa,7,17,Petershof B,14.44
+Neuwied -> Puderbach,Sa,7,18,Rüscheid Bamberger,14.46
+Neuwied -> Puderbach,Sa,7,19,Dierdorf SZ-Center A,14.53
+Neuwied -> Puderbach,Sa,7,20,Neuwieder Straße A,14.55
+Neuwied -> Puderbach,Sa,7,21,Dierdorf Markt an,14.57
+Neuwied -> Puderbach,Sa,7,22,Dierdorf Markt ab,14.58
+Neuwied -> Puderbach,Sa,8,1,Neuwied Bahnhof D,15.11
+Neuwied -> Puderbach,Sa,8,2,Moltkeplatz B,15.13
+Neuwied -> Puderbach,Sa,8,3,An der Matthiaskirche A,15.14
+Neuwied -> Puderbach,Sa,8,4,Schloßstraße A,15.18
+Neuwied -> Puderbach,Sa,8,5,Im Weidchen B,15.20
+Neuwied -> Puderbach,Sa,8,6,Stadion B,15.21
+Neuwied -> Puderbach,Sa,8,7,Matthiasberg,15.23
+Neuwied -> Puderbach,Sa,8,8,Ludwig-Erhard-Schule,15.25
+Neuwied -> Puderbach,Sa,8,9,Beverwijker Ring,15.26
+Neuwied -> Puderbach,Sa,8,10,Torney Friedhof Wennenberg,15.28
+Neuwied -> Puderbach,Sa,8,11,Dierdorfer Straße,15.29
+Neuwied -> Puderbach,Sa,8,12,Gladbach Chausseehaus,15.31
+Neuwied -> Puderbach,Sa,8,13,Haus am Pilz,15.33
+Neuwied -> Puderbach,Sa,8,14,Anhausen Braunsberg/Rheinhöhenweg,15.36
+Neuwied -> Puderbach,Sa,8,15,Schillerstraße B an,15.39
+Neuwied -> Puderbach,Sa,8,16,Schillerstraße B ab,15.41
+Neuwied -> Puderbach,Sa,8,17,Petershof B,15.44
+Neuwied -> Puderbach,Sa,8,18,Rüscheid Bamberger,15.46
+Neuwied -> Puderbach,Sa,8,19,Dierdorf SZ-Center A,15.53
+Neuwied -> Puderbach,Sa,8,20,Neuwieder Straße A,15.55
+Neuwied -> Puderbach,Sa,8,21,Dierdorf Markt an,15.57
+Neuwied -> Puderbach,Sa,8,22,Dierdorf Markt ab,15.58
+Neuwied -> Puderbach,Sa,8,23,Wienau Flemmer,16.02
+Neuwied -> Puderbach,Sa,8,24,Raubach In der Au,16.05
+Neuwied -> Puderbach,Sa,8,25,Hanroth Hedwigsthal B,16.09
+Neuwied -> Puderbach,Sa,8,26,Puderbach Hölzchens Mühle,16.10
+Neuwied -> Puderbach,Sa,8,27,Puderbach Verbandsgemeinde,16.14
+Neuwied -> Puderbach,Sa,9,1,Neuwied Bahnhof D,16.11
+Neuwied -> Puderbach,Sa,9,2,Moltkeplatz B,16.13
+Neuwied -> Puderbach,Sa,9,3,An der Matthiaskirche A,16.14
+Neuwied -> Puderbach,Sa,9,4,Schloßstraße A,16.18
+Neuwied -> Puderbach,Sa,9,5,Im Weidchen B,16.20
+Neuwied -> Puderbach,Sa,9,6,Stadion B,16.21
+Neuwied -> Puderbach,Sa,9,7,Matthiasberg,16.23
+Neuwied -> Puderbach,Sa,9,8,Ludwig-Erhard-Schule,16.25
+Neuwied -> Puderbach,Sa,9,9,Beverwijker Ring,16.26
+Neuwied -> Puderbach,Sa,9,10,Torney Friedhof Wennenberg,16.28
+Neuwied -> Puderbach,Sa,9,11,Dierdorfer Straße,16.29
+Neuwied -> Puderbach,Sa,9,12,Gladbach Chausseehaus,16.31
+Neuwied -> Puderbach,Sa,9,13,Haus am Pilz,16.33
+Neuwied -> Puderbach,Sa,9,14,Anhausen Braunsberg/Rheinhöhenweg,16.36
+Neuwied -> Puderbach,Sa,9,15,Schillerstraße B an,16.39
+Neuwied -> Puderbach,Sa,9,16,Schillerstraße B ab,16.41
+Neuwied -> Puderbach,Sa,9,17,Petershof B,16.44
+Neuwied -> Puderbach,Sa,9,18,Rüscheid Bamberger,16.46
+Neuwied -> Puderbach,Sa,9,19,Dierdorf SZ-Center A,16.53
+Neuwied -> Puderbach,Sa,9,20,Neuwieder Straße A,16.55
+Neuwied -> Puderbach,Sa,9,21,Dierdorf Markt an,16.57
+Neuwied -> Puderbach,Sa,9,22,Dierdorf Markt ab,16.58
+Neuwied -> Puderbach,Sa,10,1,Neuwied Bahnhof D,17.11
+Neuwied -> Puderbach,Sa,10,2,Moltkeplatz B,17.13
+Neuwied -> Puderbach,Sa,10,3,An der Matthiaskirche A,17.14
+Neuwied -> Puderbach,Sa,10,4,Schloßstraße A,17.18
+Neuwied -> Puderbach,Sa,10,5,Im Weidchen B,17.20
+Neuwied -> Puderbach,Sa,10,6,Stadion B,17.21
+Neuwied -> Puderbach,Sa,10,7,Matthiasberg,17.23
+Neuwied -> Puderbach,Sa,10,8,Ludwig-Erhard-Schule,17.25
+Neuwied -> Puderbach,Sa,10,9,Beverwijker Ring,17.26
+Neuwied -> Puderbach,Sa,10,10,Torney Friedhof Wennenberg,17.28
+Neuwied -> Puderbach,Sa,10,11,Dierdorfer Straße,17.29
+Neuwied -> Puderbach,Sa,10,12,Gladbach Chausseehaus,17.31
+Neuwied -> Puderbach,Sa,10,13,Haus am Pilz,17.33
+Neuwied -> Puderbach,Sa,10,14,Anhausen Braunsberg/Rheinhöhenweg,17.36
+Neuwied -> Puderbach,Sa,10,15,Schillerstraße B an,17.39
+Neuwied -> Puderbach,Sa,10,16,Schillerstraße B ab,17.41
+Neuwied -> Puderbach,Sa,10,17,Petershof B,17.44
+Neuwied -> Puderbach,Sa,10,18,Rüscheid Bamberger,17.46
+Neuwied -> Puderbach,Sa,10,19,Dierdorf SZ-Center A,17.53
+Neuwied -> Puderbach,Sa,10,20,Neuwieder Straße A,17.55
+Neuwied -> Puderbach,Sa,10,21,Dierdorf Markt an,17.57
+Neuwied -> Puderbach,Sa,10,22,Dierdorf Markt ab,17.58
+Neuwied -> Puderbach,Sa,10,23,Wienau Flemmer,18.02
+Neuwied -> Puderbach,Sa,10,24,Raubach In der Au,18.05
+Neuwied -> Puderbach,Sa,10,25,Hanroth Hedwigsthal B,18.09
+Neuwied -> Puderbach,Sa,10,26,Puderbach Hölzchens Mühle,18.10
+Neuwied -> Puderbach,Sa,10,27,Puderbach Verbandsgemeinde,18.14
+Neuwied -> Puderbach,Sa,11,1,Neuwied Bahnhof D,18.11
+Neuwied -> Puderbach,Sa,11,2,Moltkeplatz B,18.13
+Neuwied -> Puderbach,Sa,11,3,An der Matthiaskirche A,18.14
+Neuwied -> Puderbach,Sa,11,4,Schloßstraße A,18.18
+Neuwied -> Puderbach,Sa,11,5,Im Weidchen B,18.20
+Neuwied -> Puderbach,Sa,11,6,Stadion B,18.21
+Neuwied -> Puderbach,Sa,11,7,Matthiasberg,18.23
+Neuwied -> Puderbach,Sa,11,8,Ludwig-Erhard-Schule,18.25
+Neuwied -> Puderbach,Sa,11,9,Beverwijker Ring,18.26
+Neuwied -> Puderbach,Sa,11,10,Torney Friedhof Wennenberg,18.28
+Neuwied -> Puderbach,Sa,11,11,Dierdorfer Straße,18.29
+Neuwied -> Puderbach,Sa,11,12,Gladbach Chausseehaus,18.31
+Neuwied -> Puderbach,Sa,11,13,Haus am Pilz,18.33
+Neuwied -> Puderbach,Sa,11,14,Anhausen Braunsberg/Rheinhöhenweg,18.36
+Neuwied -> Puderbach,Sa,11,15,Schillerstraße B an,18.39
+Neuwied -> Puderbach,Sa,11,16,Schillerstraße B ab,18.41
+Neuwied -> Puderbach,Sa,11,17,Petershof B,18.44
+Neuwied -> Puderbach,Sa,11,18,Rüscheid Bamberger,18.46
+Neuwied -> Puderbach,Sa,11,19,Dierdorf SZ-Center A,18.53
+Neuwied -> Puderbach,Sa,11,20,Neuwieder Straße A,18.55
+Neuwied -> Puderbach,Sa,11,21,Dierdorf Markt an,18.57
+Neuwied -> Puderbach,Sa,11,22,Dierdorf Markt ab,18.58
+Neuwied -> Puderbach,Sa,12,1,Neuwied Bahnhof D,19.11
+Neuwied -> Puderbach,Sa,12,2,Moltkeplatz B,19.13
+Neuwied -> Puderbach,Sa,12,3,An der Matthiaskirche A,19.14
+Neuwied -> Puderbach,Sa,12,4,Schloßstraße A,19.18
+Neuwied -> Puderbach,Sa,12,5,Im Weidchen B,19.20
+Neuwied -> Puderbach,Sa,12,6,Stadion B,19.21
+Neuwied -> Puderbach,Sa,12,7,Matthiasberg,19.23
+Neuwied -> Puderbach,Sa,12,8,Ludwig-Erhard-Schule,19.25
+Neuwied -> Puderbach,Sa,12,9,Beverwijker Ring,19.26
+Neuwied -> Puderbach,Sa,12,10,Torney Friedhof Wennenberg,19.28
+Neuwied -> Puderbach,Sa,12,11,Dierdorfer Straße,19.29
+Neuwied -> Puderbach,Sa,12,12,Gladbach Chausseehaus,19.31
+Neuwied -> Puderbach,Sa,12,13,Haus am Pilz,19.33
+Neuwied -> Puderbach,Sa,12,14,Anhausen Braunsberg/Rheinhöhenweg,19.36
+Neuwied -> Puderbach,Sa,12,15,Schillerstraße B an,19.39
+Neuwied -> Puderbach,Sa,12,16,Schillerstraße B ab,19.41
+Neuwied -> Puderbach,Sa,12,17,Petershof B,19.44
+Neuwied -> Puderbach,Sa,12,18,Rüscheid Bamberger,19.46
+Neuwied -> Puderbach,Sa,12,19,Dierdorf SZ-Center A,19.53
+Neuwied -> Puderbach,Sa,12,20,Neuwieder Straße A,19.55
+Neuwied -> Puderbach,Sa,12,21,Dierdorf Markt an,19.57
+Neuwied -> Puderbach,Sa,12,22,Dierdorf Markt ab,19.58
+Neuwied -> Puderbach,Sa,12,23,Wienau Flemmer,20.02
+Neuwied -> Puderbach,Sa,12,24,Raubach In der Au,20.05
+Neuwied -> Puderbach,Sa,12,25,Hanroth Hedwigsthal B,20.09
+Neuwied -> Puderbach,Sa,12,26,Puderbach Hölzchens Mühle,20.10
+Neuwied -> Puderbach,Sa,12,27,Puderbach Verbandsgemeinde,20.14
+Neuwied -> Puderbach,Sa,13,1,Neuwied Bahnhof D,20.11
+Neuwied -> Puderbach,Sa,13,2,Moltkeplatz B,20.13
+Neuwied -> Puderbach,Sa,13,3,An der Matthiaskirche A,20.14
+Neuwied -> Puderbach,Sa,13,4,Schloßstraße A,20.18
+Neuwied -> Puderbach,Sa,13,5,Im Weidchen B,20.20
+Neuwied -> Puderbach,Sa,13,6,Stadion B,20.21
+Neuwied -> Puderbach,Sa,13,7,Matthiasberg,20.23
+Neuwied -> Puderbach,Sa,13,8,Ludwig-Erhard-Schule,20.25
+Neuwied -> Puderbach,Sa,13,9,Beverwijker Ring,20.26
+Neuwied -> Puderbach,Sa,13,10,Torney Friedhof Wennenberg,20.28
+Neuwied -> Puderbach,Sa,13,11,Dierdorfer Straße,20.29
+Neuwied -> Puderbach,Sa,13,12,Gladbach Chausseehaus,20.31
+Neuwied -> Puderbach,Sa,13,13,Haus am Pilz,20.33
+Neuwied -> Puderbach,Sa,13,14,Anhausen Braunsberg/Rheinhöhenweg,20.36
+Neuwied -> Puderbach,Sa,13,15,Schillerstraße B an,20.39
+Neuwied -> Puderbach,Sa,13,16,Schillerstraße B ab,20.41
+Neuwied -> Puderbach,Sa,13,17,Petershof B,20.44
+Neuwied -> Puderbach,Sa,13,18,Rüscheid Bamberger,20.46
+Neuwied -> Puderbach,Sa,13,19,Dierdorf SZ-Center A,20.53
+Neuwied -> Puderbach,Sa,13,20,Neuwieder Straße A,20.55
+Neuwied -> Puderbach,Sa,13,21,Dierdorf Markt an,20.57
+Neuwied -> Puderbach,Sa,13,22,Dierdorf Markt ab,20.58
+Neuwied -> Puderbach,Sa,14,1,Neuwied Bahnhof D,21.11
+Neuwied -> Puderbach,Sa,14,2,Moltkeplatz B,21.13
+Neuwied -> Puderbach,Sa,14,3,An der Matthiaskirche A,21.14
+Neuwied -> Puderbach,Sa,14,4,Schloßstraße A,21.18
+Neuwied -> Puderbach,Sa,14,5,Im Weidchen B,21.20
+Neuwied -> Puderbach,Sa,14,6,Stadion B,21.21
+Neuwied -> Puderbach,Sa,14,7,Matthiasberg,21.23
+Neuwied -> Puderbach,Sa,14,8,Ludwig-Erhard-Schule,21.25
+Neuwied -> Puderbach,Sa,14,9,Beverwijker Ring,21.26
+Neuwied -> Puderbach,Sa,14,10,Torney Friedhof Wennenberg,21.28
+Neuwied -> Puderbach,Sa,14,11,Dierdorfer Straße,21.29
+Neuwied -> Puderbach,Sa,14,12,Gladbach Chausseehaus,21.31
+Neuwied -> Puderbach,Sa,14,13,Haus am Pilz,21.33
+Neuwied -> Puderbach,Sa,14,14,Anhausen Braunsberg/Rheinhöhenweg,21.36
+Neuwied -> Puderbach,Sa,14,15,Schillerstraße B an,21.39
+Neuwied -> Puderbach,Sa,14,16,Schillerstraße B ab,21.41
+Neuwied -> Puderbach,Sa,14,17,Petershof B,21.44
+Neuwied -> Puderbach,Sa,14,18,Rüscheid Bamberger,21.46
+Neuwied -> Puderbach,Sa,14,19,Dierdorf SZ-Center A,21.53
+Neuwied -> Puderbach,Sa,14,20,Neuwieder Straße A,21.55
+Neuwied -> Puderbach,Sa,14,21,Dierdorf Markt an,21.57
+Neuwied -> Puderbach,Sa,14,22,Dierdorf Markt ab,21.58
+Neuwied -> Puderbach,Sa,14,23,Wienau Flemmer,22.02
+Neuwied -> Puderbach,Sa,14,24,Raubach In der Au,22.05
+Neuwied -> Puderbach,Sa,14,25,Hanroth Hedwigsthal B,22.09
+Neuwied -> Puderbach,Sa,14,26,Puderbach Hölzchens Mühle,22.10
+Neuwied -> Puderbach,Sa,14,27,Puderbach Verbandsgemeinde,22.14
+Neuwied -> Puderbach,Sa,15,1,Neuwied Bahnhof D,23.11
+Neuwied -> Puderbach,Sa,15,2,Moltkeplatz B,23.13
+Neuwied -> Puderbach,Sa,15,3,An der Matthiaskirche A,23.14
+Neuwied -> Puderbach,Sa,15,4,Schloßstraße A,23.18
+Neuwied -> Puderbach,Sa,15,5,Im Weidchen B,23.20
+Neuwied -> Puderbach,Sa,15,6,Stadion B,23.21
+Neuwied -> Puderbach,Sa,15,7,Matthiasberg,23.23
+Neuwied -> Puderbach,Sa,15,8,Ludwig-Erhard-Schule,23.25
+Neuwied -> Puderbach,Sa,15,9,Beverwijker Ring,23.26
+Neuwied -> Puderbach,Sa,15,10,Torney Friedhof Wennenberg,23.28
+Neuwied -> Puderbach,Sa,15,11,Dierdorfer Straße,23.29
+Neuwied -> Puderbach,Sa,15,12,Gladbach Chausseehaus,23.31
+Neuwied -> Puderbach,Sa,15,13,Haus am Pilz,23.33
+Neuwied -> Puderbach,Sa,15,14,Anhausen Braunsberg/Rheinhöhenweg,23.36
+Neuwied -> Puderbach,Sa,15,15,Schillerstraße B an,23.39
+Neuwied -> Puderbach,Sa,15,16,Schillerstraße B ab,23.41
+Neuwied -> Puderbach,Sa,15,17,Petershof B,23.44
+Neuwied -> Puderbach,Sa,15,18,Rüscheid Bamberger,23.46
+Neuwied -> Puderbach,Sa,15,19,Dierdorf SZ-Center A,23.53
+Neuwied -> Puderbach,Sa,15,20,Neuwieder Straße A,23.55
+Neuwied -> Puderbach,Sa,15,21,Dierdorf Markt an,23.57
+Neuwied -> Puderbach,Sa,15,22,Dierdorf Markt ab,23.58
+Neuwied -> Puderbach,Sa,15,23,Wienau Flemmer,0.02
+Neuwied -> Puderbach,Sa,15,24,Raubach In der Au,0.05
+Neuwied -> Puderbach,Sa,15,25,Hanroth Hedwigsthal B,0.09
+Neuwied -> Puderbach,Sa,15,26,Puderbach Hölzchens Mühle,0.10
+Neuwied -> Puderbach,Sa,15,27,Puderbach Verbandsgemeinde,0.14
+Neuwied -> Puderbach,So+Feiertag,1,1,Neuwied Bahnhof D,8.11
+Neuwied -> Puderbach,So+Feiertag,1,2,Moltkeplatz B,8.13
+Neuwied -> Puderbach,So+Feiertag,1,3,An der Matthiaskirche A,8.14
+Neuwied -> Puderbach,So+Feiertag,1,4,Schloßstraße A,8.18
+Neuwied -> Puderbach,So+Feiertag,1,5,Im Weidchen B,8.20
+Neuwied -> Puderbach,So+Feiertag,1,6,Stadion B,8.21
+Neuwied -> Puderbach,So+Feiertag,1,7,Matthiasberg,8.23
+Neuwied -> Puderbach,So+Feiertag,1,8,Ludwig-Erhard-Schule,8.25
+Neuwied -> Puderbach,So+Feiertag,1,9,Beverwijker Ring,8.26
+Neuwied -> Puderbach,So+Feiertag,1,10,Torney Friedhof Wennenberg,8.28
+Neuwied -> Puderbach,So+Feiertag,1,11,Dierdorfer Straße,8.29
+Neuwied -> Puderbach,So+Feiertag,1,12,Gladbach Chausseehaus,8.31
+Neuwied -> Puderbach,So+Feiertag,1,13,Haus am Pilz,8.33
+Neuwied -> Puderbach,So+Feiertag,1,14,Anhausen Braunsberg/Rheinhöhenweg,8.36
+Neuwied -> Puderbach,So+Feiertag,1,15,Schillerstraße B an,8.39
+Neuwied -> Puderbach,So+Feiertag,1,16,Schillerstraße B ab,8.41
+Neuwied -> Puderbach,So+Feiertag,1,17,Petershof B,8.44
+Neuwied -> Puderbach,So+Feiertag,1,18,Rüscheid Bamberger,8.46
+Neuwied -> Puderbach,So+Feiertag,1,19,Dierdorf SZ-Center A,8.53
+Neuwied -> Puderbach,So+Feiertag,1,20,Neuwieder Straße A,8.55
+Neuwied -> Puderbach,So+Feiertag,1,21,Dierdorf Markt an,8.57
+Neuwied -> Puderbach,So+Feiertag,2,1,Neuwied Bahnhof D,9.11
+Neuwied -> Puderbach,So+Feiertag,2,2,Moltkeplatz B,9.13
+Neuwied -> Puderbach,So+Feiertag,2,3,An der Matthiaskirche A,9.14
+Neuwied -> Puderbach,So+Feiertag,2,4,Schloßstraße A,9.18
+Neuwied -> Puderbach,So+Feiertag,2,5,Im Weidchen B,9.20
+Neuwied -> Puderbach,So+Feiertag,2,6,Stadion B,9.21
+Neuwied -> Puderbach,So+Feiertag,2,7,Matthiasberg,9.23
+Neuwied -> Puderbach,So+Feiertag,2,8,Ludwig-Erhard-Schule,9.25
+Neuwied -> Puderbach,So+Feiertag,2,9,Beverwijker Ring,9.26
+Neuwied -> Puderbach,So+Feiertag,2,10,Torney Friedhof Wennenberg,9.28
+Neuwied -> Puderbach,So+Feiertag,2,11,Dierdorfer Straße,9.29
+Neuwied -> Puderbach,So+Feiertag,2,12,Gladbach Chausseehaus,9.31
+Neuwied -> Puderbach,So+Feiertag,2,13,Haus am Pilz,9.33
+Neuwied -> Puderbach,So+Feiertag,2,14,Anhausen Braunsberg/Rheinhöhenweg,9.36
+Neuwied -> Puderbach,So+Feiertag,2,15,Schillerstraße B an,9.39
+Neuwied -> Puderbach,So+Feiertag,2,16,Schillerstraße B ab,9.41
+Neuwied -> Puderbach,So+Feiertag,2,17,Petershof B,9.44
+Neuwied -> Puderbach,So+Feiertag,2,18,Rüscheid Bamberger,9.46
+Neuwied -> Puderbach,So+Feiertag,2,19,Dierdorf SZ-Center A,9.53
+Neuwied -> Puderbach,So+Feiertag,2,20,Neuwieder Straße A,9.55
+Neuwied -> Puderbach,So+Feiertag,2,21,Dierdorf Markt an,9.57
+Neuwied -> Puderbach,So+Feiertag,2,22,Dierdorf Markt ab,9.58
+Neuwied -> Puderbach,So+Feiertag,2,23,Wienau Flemmer,10.02
+Neuwied -> Puderbach,So+Feiertag,2,24,Raubach In der Au,10.05
+Neuwied -> Puderbach,So+Feiertag,2,25,Hanroth Hedwigsthal B,10.09
+Neuwied -> Puderbach,So+Feiertag,2,26,Puderbach Hölzchens Mühle,10.10
+Neuwied -> Puderbach,So+Feiertag,2,27,Puderbach Verbandsgemeinde,10.14
+Neuwied -> Puderbach,So+Feiertag,3,1,Neuwied Bahnhof D,10.11
+Neuwied -> Puderbach,So+Feiertag,3,2,Moltkeplatz B,10.13
+Neuwied -> Puderbach,So+Feiertag,3,3,An der Matthiaskirche A,10.14
+Neuwied -> Puderbach,So+Feiertag,3,4,Schloßstraße A,10.18
+Neuwied -> Puderbach,So+Feiertag,3,5,Im Weidchen B,10.20
+Neuwied -> Puderbach,So+Feiertag,3,6,Stadion B,10.21
+Neuwied -> Puderbach,So+Feiertag,3,7,Matthiasberg,10.23
+Neuwied -> Puderbach,So+Feiertag,3,8,Ludwig-Erhard-Schule,10.25
+Neuwied -> Puderbach,So+Feiertag,3,9,Beverwijker Ring,10.26
+Neuwied -> Puderbach,So+Feiertag,3,10,Torney Friedhof Wennenberg,10.28
+Neuwied -> Puderbach,So+Feiertag,3,11,Dierdorfer Straße,10.29
+Neuwied -> Puderbach,So+Feiertag,3,12,Gladbach Chausseehaus,10.31
+Neuwied -> Puderbach,So+Feiertag,3,13,Haus am Pilz,10.33
+Neuwied -> Puderbach,So+Feiertag,3,14,Anhausen Braunsberg/Rheinhöhenweg,10.36
+Neuwied -> Puderbach,So+Feiertag,3,15,Schillerstraße B an,10.39
+Neuwied -> Puderbach,So+Feiertag,3,16,Schillerstraße B ab,10.41
+Neuwied -> Puderbach,So+Feiertag,3,17,Petershof B,10.44
+Neuwied -> Puderbach,So+Feiertag,3,18,Rüscheid Bamberger,10.46
+Neuwied -> Puderbach,So+Feiertag,3,19,Dierdorf SZ-Center A,10.53
+Neuwied -> Puderbach,So+Feiertag,3,20,Neuwieder Straße A,10.55
+Neuwied -> Puderbach,So+Feiertag,3,21,Dierdorf Markt an,10.57
+Neuwied -> Puderbach,So+Feiertag,3,22,Dierdorf Markt ab,10.58
+Neuwied -> Puderbach,So+Feiertag,4,1,Neuwied Bahnhof D,11.11
+Neuwied -> Puderbach,So+Feiertag,4,2,Moltkeplatz B,11.13
+Neuwied -> Puderbach,So+Feiertag,4,3,An der Matthiaskirche A,11.14
+Neuwied -> Puderbach,So+Feiertag,4,4,Schloßstraße A,11.18
+Neuwied -> Puderbach,So+Feiertag,4,5,Im Weidchen B,11.20
+Neuwied -> Puderbach,So+Feiertag,4,6,Stadion B,11.21
+Neuwied -> Puderbach,So+Feiertag,4,7,Matthiasberg,11.23
+Neuwied -> Puderbach,So+Feiertag,4,8,Ludwig-Erhard-Schule,11.25
+Neuwied -> Puderbach,So+Feiertag,4,9,Beverwijker Ring,11.26
+Neuwied -> Puderbach,So+Feiertag,4,10,Torney Friedhof Wennenberg,11.28
+Neuwied -> Puderbach,So+Feiertag,4,11,Dierdorfer Straße,11.29
+Neuwied -> Puderbach,So+Feiertag,4,12,Gladbach Chausseehaus,11.31
+Neuwied -> Puderbach,So+Feiertag,4,13,Haus am Pilz,11.33
+Neuwied -> Puderbach,So+Feiertag,4,14,Anhausen Braunsberg/Rheinhöhenweg,11.36
+Neuwied -> Puderbach,So+Feiertag,4,15,Schillerstraße B an,11.39
+Neuwied -> Puderbach,So+Feiertag,4,16,Schillerstraße B ab,11.41
+Neuwied -> Puderbach,So+Feiertag,4,17,Petershof B,11.44
+Neuwied -> Puderbach,So+Feiertag,4,18,Rüscheid Bamberger,11.46
+Neuwied -> Puderbach,So+Feiertag,4,19,Dierdorf SZ-Center A,11.53
+Neuwied -> Puderbach,So+Feiertag,4,20,Neuwieder Straße A,11.55
+Neuwied -> Puderbach,So+Feiertag,4,21,Dierdorf Markt an,11.57
+Neuwied -> Puderbach,So+Feiertag,4,22,Dierdorf Markt ab,11.58
+Neuwied -> Puderbach,So+Feiertag,4,23,Wienau Flemmer,12.02
+Neuwied -> Puderbach,So+Feiertag,4,24,Raubach In der Au,12.05
+Neuwied -> Puderbach,So+Feiertag,4,25,Hanroth Hedwigsthal B,12.09
+Neuwied -> Puderbach,So+Feiertag,4,26,Puderbach Hölzchens Mühle,12.10
+Neuwied -> Puderbach,So+Feiertag,4,27,Puderbach Verbandsgemeinde,12.14
+Neuwied -> Puderbach,So+Feiertag,5,1,Neuwied Bahnhof D,12.11
+Neuwied -> Puderbach,So+Feiertag,5,2,Moltkeplatz B,12.13
+Neuwied -> Puderbach,So+Feiertag,5,3,An der Matthiaskirche A,12.14
+Neuwied -> Puderbach,So+Feiertag,5,4,Schloßstraße A,12.18
+Neuwied -> Puderbach,So+Feiertag,5,5,Im Weidchen B,12.20
+Neuwied -> Puderbach,So+Feiertag,5,6,Stadion B,12.21
+Neuwied -> Puderbach,So+Feiertag,5,7,Matthiasberg,12.23
+Neuwied -> Puderbach,So+Feiertag,5,8,Ludwig-Erhard-Schule,12.25
+Neuwied -> Puderbach,So+Feiertag,5,9,Beverwijker Ring,12.26
+Neuwied -> Puderbach,So+Feiertag,5,10,Torney Friedhof Wennenberg,12.28
+Neuwied -> Puderbach,So+Feiertag,5,11,Dierdorfer Straße,12.29
+Neuwied -> Puderbach,So+Feiertag,5,12,Gladbach Chausseehaus,12.31
+Neuwied -> Puderbach,So+Feiertag,5,13,Haus am Pilz,12.33
+Neuwied -> Puderbach,So+Feiertag,5,14,Anhausen Braunsberg/Rheinhöhenweg,12.36
+Neuwied -> Puderbach,So+Feiertag,5,15,Schillerstraße B an,12.39
+Neuwied -> Puderbach,So+Feiertag,5,16,Schillerstraße B ab,12.41
+Neuwied -> Puderbach,So+Feiertag,5,17,Petershof B,12.44
+Neuwied -> Puderbach,So+Feiertag,5,18,Rüscheid Bamberger,12.46
+Neuwied -> Puderbach,So+Feiertag,5,19,Dierdorf SZ-Center A,12.53
+Neuwied -> Puderbach,So+Feiertag,5,20,Neuwieder Straße A,12.55
+Neuwied -> Puderbach,So+Feiertag,5,21,Dierdorf Markt an,12.57
+Neuwied -> Puderbach,So+Feiertag,5,22,Dierdorf Markt ab,12.58
+Neuwied -> Puderbach,So+Feiertag,6,1,Neuwied Bahnhof D,13.11
+Neuwied -> Puderbach,So+Feiertag,6,2,Moltkeplatz B,13.13
+Neuwied -> Puderbach,So+Feiertag,6,3,An der Matthiaskirche A,13.14
+Neuwied -> Puderbach,So+Feiertag,6,4,Schloßstraße A,13.18
+Neuwied -> Puderbach,So+Feiertag,6,5,Im Weidchen B,13.20
+Neuwied -> Puderbach,So+Feiertag,6,6,Stadion B,13.21
+Neuwied -> Puderbach,So+Feiertag,6,7,Matthiasberg,13.23
+Neuwied -> Puderbach,So+Feiertag,6,8,Ludwig-Erhard-Schule,13.25
+Neuwied -> Puderbach,So+Feiertag,6,9,Beverwijker Ring,13.26
+Neuwied -> Puderbach,So+Feiertag,6,10,Torney Friedhof Wennenberg,13.28
+Neuwied -> Puderbach,So+Feiertag,6,11,Dierdorfer Straße,13.29
+Neuwied -> Puderbach,So+Feiertag,6,12,Gladbach Chausseehaus,13.31
+Neuwied -> Puderbach,So+Feiertag,6,13,Haus am Pilz,13.33
+Neuwied -> Puderbach,So+Feiertag,6,14,Anhausen Braunsberg/Rheinhöhenweg,13.36
+Neuwied -> Puderbach,So+Feiertag,6,15,Schillerstraße B an,13.39
+Neuwied -> Puderbach,So+Feiertag,6,16,Schillerstraße B ab,13.41
+Neuwied -> Puderbach,So+Feiertag,6,17,Petershof B,13.44
+Neuwied -> Puderbach,So+Feiertag,6,18,Rüscheid Bamberger,13.46
+Neuwied -> Puderbach,So+Feiertag,6,19,Dierdorf SZ-Center A,13.53
+Neuwied -> Puderbach,So+Feiertag,6,20,Neuwieder Straße A,13.55
+Neuwied -> Puderbach,So+Feiertag,6,21,Dierdorf Markt an,13.57
+Neuwied -> Puderbach,So+Feiertag,6,22,Dierdorf Markt ab,13.58
+Neuwied -> Puderbach,So+Feiertag,6,23,Wienau Flemmer,14.02
+Neuwied -> Puderbach,So+Feiertag,6,24,Raubach In der Au,14.05
+Neuwied -> Puderbach,So+Feiertag,6,25,Hanroth Hedwigsthal B,14.09
+Neuwied -> Puderbach,So+Feiertag,6,26,Puderbach Hölzchens Mühle,14.10
+Neuwied -> Puderbach,So+Feiertag,6,27,Puderbach Verbandsgemeinde,14.14
+Neuwied -> Puderbach,So+Feiertag,7,1,Neuwied Bahnhof D,14.11
+Neuwied -> Puderbach,So+Feiertag,7,2,Moltkeplatz B,14.13
+Neuwied -> Puderbach,So+Feiertag,7,3,An der Matthiaskirche A,14.14
+Neuwied -> Puderbach,So+Feiertag,7,4,Schloßstraße A,14.18
+Neuwied -> Puderbach,So+Feiertag,7,5,Im Weidchen B,14.20
+Neuwied -> Puderbach,So+Feiertag,7,6,Stadion B,14.21
+Neuwied -> Puderbach,So+Feiertag,7,7,Matthiasberg,14.23
+Neuwied -> Puderbach,So+Feiertag,7,8,Ludwig-Erhard-Schule,14.25
+Neuwied -> Puderbach,So+Feiertag,7,9,Beverwijker Ring,14.26
+Neuwied -> Puderbach,So+Feiertag,7,10,Torney Friedhof Wennenberg,14.28
+Neuwied -> Puderbach,So+Feiertag,7,11,Dierdorfer Straße,14.29
+Neuwied -> Puderbach,So+Feiertag,7,12,Gladbach Chausseehaus,14.31
+Neuwied -> Puderbach,So+Feiertag,7,13,Haus am Pilz,14.33
+Neuwied -> Puderbach,So+Feiertag,7,14,Anhausen Braunsberg/Rheinhöhenweg,14.36
+Neuwied -> Puderbach,So+Feiertag,7,15,Schillerstraße B an,14.39
+Neuwied -> Puderbach,So+Feiertag,7,16,Schillerstraße B ab,14.41
+Neuwied -> Puderbach,So+Feiertag,7,17,Petershof B,14.44
+Neuwied -> Puderbach,So+Feiertag,7,18,Rüscheid Bamberger,14.46
+Neuwied -> Puderbach,So+Feiertag,7,19,Dierdorf SZ-Center A,14.53
+Neuwied -> Puderbach,So+Feiertag,7,20,Neuwieder Straße A,14.55
+Neuwied -> Puderbach,So+Feiertag,7,21,Dierdorf Markt an,14.57
+Neuwied -> Puderbach,So+Feiertag,7,22,Dierdorf Markt ab,14.58
+Neuwied -> Puderbach,So+Feiertag,8,1,Neuwied Bahnhof D,15.11
+Neuwied -> Puderbach,So+Feiertag,8,2,Moltkeplatz B,15.13
+Neuwied -> Puderbach,So+Feiertag,8,3,An der Matthiaskirche A,15.14
+Neuwied -> Puderbach,So+Feiertag,8,4,Schloßstraße A,15.18
+Neuwied -> Puderbach,So+Feiertag,8,5,Im Weidchen B,15.20
+Neuwied -> Puderbach,So+Feiertag,8,6,Stadion B,15.21
+Neuwied -> Puderbach,So+Feiertag,8,7,Matthiasberg,15.23
+Neuwied -> Puderbach,So+Feiertag,8,8,Ludwig-Erhard-Schule,15.25
+Neuwied -> Puderbach,So+Feiertag,8,9,Beverwijker Ring,15.26
+Neuwied -> Puderbach,So+Feiertag,8,10,Torney Friedhof Wennenberg,15.28
+Neuwied -> Puderbach,So+Feiertag,8,11,Dierdorfer Straße,15.29
+Neuwied -> Puderbach,So+Feiertag,8,12,Gladbach Chausseehaus,15.31
+Neuwied -> Puderbach,So+Feiertag,8,13,Haus am Pilz,15.33
+Neuwied -> Puderbach,So+Feiertag,8,14,Anhausen Braunsberg/Rheinhöhenweg,15.36
+Neuwied -> Puderbach,So+Feiertag,8,15,Schillerstraße B an,15.39
+Neuwied -> Puderbach,So+Feiertag,8,16,Schillerstraße B ab,15.41
+Neuwied -> Puderbach,So+Feiertag,8,17,Petershof B,15.44
+Neuwied -> Puderbach,So+Feiertag,8,18,Rüscheid Bamberger,15.46
+Neuwied -> Puderbach,So+Feiertag,8,19,Dierdorf SZ-Center A,15.53
+Neuwied -> Puderbach,So+Feiertag,8,20,Neuwieder Straße A,15.55
+Neuwied -> Puderbach,So+Feiertag,8,21,Dierdorf Markt an,15.57
+Neuwied -> Puderbach,So+Feiertag,8,22,Dierdorf Markt ab,15.58
+Neuwied -> Puderbach,So+Feiertag,8,23,Wienau Flemmer,16.02
+Neuwied -> Puderbach,So+Feiertag,8,24,Raubach In der Au,16.05
+Neuwied -> Puderbach,So+Feiertag,8,25,Hanroth Hedwigsthal B,16.09
+Neuwied -> Puderbach,So+Feiertag,8,26,Puderbach Hölzchens Mühle,16.10
+Neuwied -> Puderbach,So+Feiertag,8,27,Puderbach Verbandsgemeinde,16.14
+Neuwied -> Puderbach,So+Feiertag,9,1,Neuwied Bahnhof D,16.11
+Neuwied -> Puderbach,So+Feiertag,9,2,Moltkeplatz B,16.13
+Neuwied -> Puderbach,So+Feiertag,9,3,An der Matthiaskirche A,16.14
+Neuwied -> Puderbach,So+Feiertag,9,4,Schloßstraße A,16.18
+Neuwied -> Puderbach,So+Feiertag,9,5,Im Weidchen B,16.20
+Neuwied -> Puderbach,So+Feiertag,9,6,Stadion B,16.21
+Neuwied -> Puderbach,So+Feiertag,9,7,Matthiasberg,16.23
+Neuwied -> Puderbach,So+Feiertag,9,8,Ludwig-Erhard-Schule,16.25
+Neuwied -> Puderbach,So+Feiertag,9,9,Beverwijker Ring,16.26
+Neuwied -> Puderbach,So+Feiertag,9,10,Torney Friedhof Wennenberg,16.28
+Neuwied -> Puderbach,So+Feiertag,9,11,Dierdorfer Straße,16.29
+Neuwied -> Puderbach,So+Feiertag,9,12,Gladbach Chausseehaus,16.31
+Neuwied -> Puderbach,So+Feiertag,9,13,Haus am Pilz,16.33
+Neuwied -> Puderbach,So+Feiertag,9,14,Anhausen Braunsberg/Rheinhöhenweg,16.36
+Neuwied -> Puderbach,So+Feiertag,9,15,Schillerstraße B an,16.39
+Neuwied -> Puderbach,So+Feiertag,9,16,Schillerstraße B ab,16.41
+Neuwied -> Puderbach,So+Feiertag,9,17,Petershof B,16.44
+Neuwied -> Puderbach,So+Feiertag,9,18,Rüscheid Bamberger,16.46
+Neuwied -> Puderbach,So+Feiertag,9,19,Dierdorf SZ-Center A,16.53
+Neuwied -> Puderbach,So+Feiertag,9,20,Neuwieder Straße A,16.55
+Neuwied -> Puderbach,So+Feiertag,9,21,Dierdorf Markt an,16.57
+Neuwied -> Puderbach,So+Feiertag,9,22,Dierdorf Markt ab,16.58
+Neuwied -> Puderbach,So+Feiertag,10,1,Neuwied Bahnhof D,17.11
+Neuwied -> Puderbach,So+Feiertag,10,2,Moltkeplatz B,17.13
+Neuwied -> Puderbach,So+Feiertag,10,3,An der Matthiaskirche A,17.14
+Neuwied -> Puderbach,So+Feiertag,10,4,Schloßstraße A,17.18
+Neuwied -> Puderbach,So+Feiertag,10,5,Im Weidchen B,17.20
+Neuwied -> Puderbach,So+Feiertag,10,6,Stadion B,17.21
+Neuwied -> Puderbach,So+Feiertag,10,7,Matthiasberg,17.23
+Neuwied -> Puderbach,So+Feiertag,10,8,Ludwig-Erhard-Schule,17.25
+Neuwied -> Puderbach,So+Feiertag,10,9,Beverwijker Ring,17.26
+Neuwied -> Puderbach,So+Feiertag,10,10,Torney Friedhof Wennenberg,17.28
+Neuwied -> Puderbach,So+Feiertag,10,11,Dierdorfer Straße,17.29
+Neuwied -> Puderbach,So+Feiertag,10,12,Gladbach Chausseehaus,17.31
+Neuwied -> Puderbach,So+Feiertag,10,13,Haus am Pilz,17.33
+Neuwied -> Puderbach,So+Feiertag,10,14,Anhausen Braunsberg/Rheinhöhenweg,17.36
+Neuwied -> Puderbach,So+Feiertag,10,15,Schillerstraße B an,17.39
+Neuwied -> Puderbach,So+Feiertag,10,16,Schillerstraße B ab,17.41
+Neuwied -> Puderbach,So+Feiertag,10,17,Petershof B,17.44
+Neuwied -> Puderbach,So+Feiertag,10,18,Rüscheid Bamberger,17.46
+Neuwied -> Puderbach,So+Feiertag,10,19,Dierdorf SZ-Center A,17.53
+Neuwied -> Puderbach,So+Feiertag,10,20,Neuwieder Straße A,17.55
+Neuwied -> Puderbach,So+Feiertag,10,21,Dierdorf Markt an,17.57
+Neuwied -> Puderbach,So+Feiertag,10,22,Dierdorf Markt ab,17.58
+Neuwied -> Puderbach,So+Feiertag,10,23,Wienau Flemmer,18.02
+Neuwied -> Puderbach,So+Feiertag,10,24,Raubach In der Au,18.05
+Neuwied -> Puderbach,So+Feiertag,10,25,Hanroth Hedwigsthal B,18.09
+Neuwied -> Puderbach,So+Feiertag,10,26,Puderbach Hölzchens Mühle,18.10
+Neuwied -> Puderbach,So+Feiertag,10,27,Puderbach Verbandsgemeinde,18.14
+Neuwied -> Puderbach,So+Feiertag,11,1,Neuwied Bahnhof D,18.11
+Neuwied -> Puderbach,So+Feiertag,11,2,Moltkeplatz B,18.13
+Neuwied -> Puderbach,So+Feiertag,11,3,An der Matthiaskirche A,18.14
+Neuwied -> Puderbach,So+Feiertag,11,4,Schloßstraße A,18.18
+Neuwied -> Puderbach,So+Feiertag,11,5,Im Weidchen B,18.20
+Neuwied -> Puderbach,So+Feiertag,11,6,Stadion B,18.21
+Neuwied -> Puderbach,So+Feiertag,11,7,Matthiasberg,18.23
+Neuwied -> Puderbach,So+Feiertag,11,8,Ludwig-Erhard-Schule,18.25
+Neuwied -> Puderbach,So+Feiertag,11,9,Beverwijker Ring,18.26
+Neuwied -> Puderbach,So+Feiertag,11,10,Torney Friedhof Wennenberg,18.28
+Neuwied -> Puderbach,So+Feiertag,11,11,Dierdorfer Straße,18.29
+Neuwied -> Puderbach,So+Feiertag,11,12,Gladbach Chausseehaus,18.31
+Neuwied -> Puderbach,So+Feiertag,11,13,Haus am Pilz,18.33
+Neuwied -> Puderbach,So+Feiertag,11,14,Anhausen Braunsberg/Rheinhöhenweg,18.36
+Neuwied -> Puderbach,So+Feiertag,11,15,Schillerstraße B an,18.39
+Neuwied -> Puderbach,So+Feiertag,11,16,Schillerstraße B ab,18.41
+Neuwied -> Puderbach,So+Feiertag,11,17,Petershof B,18.44
+Neuwied -> Puderbach,So+Feiertag,11,18,Rüscheid Bamberger,18.46
+Neuwied -> Puderbach,So+Feiertag,11,19,Dierdorf SZ-Center A,18.53
+Neuwied -> Puderbach,So+Feiertag,11,20,Neuwieder Straße A,18.55
+Neuwied -> Puderbach,So+Feiertag,11,21,Dierdorf Markt an,18.57
+Neuwied -> Puderbach,So+Feiertag,11,22,Dierdorf Markt ab,18.58
+Neuwied -> Puderbach,So+Feiertag,12,1,Neuwied Bahnhof D,19.11
+Neuwied -> Puderbach,So+Feiertag,12,2,Moltkeplatz B,19.13
+Neuwied -> Puderbach,So+Feiertag,12,3,An der Matthiaskirche A,19.14
+Neuwied -> Puderbach,So+Feiertag,12,4,Schloßstraße A,19.18
+Neuwied -> Puderbach,So+Feiertag,12,5,Im Weidchen B,19.20
+Neuwied -> Puderbach,So+Feiertag,12,6,Stadion B,19.21
+Neuwied -> Puderbach,So+Feiertag,12,7,Matthiasberg,19.23
+Neuwied -> Puderbach,So+Feiertag,12,8,Ludwig-Erhard-Schule,19.25
+Neuwied -> Puderbach,So+Feiertag,12,9,Beverwijker Ring,19.26
+Neuwied -> Puderbach,So+Feiertag,12,10,Torney Friedhof Wennenberg,19.28
+Neuwied -> Puderbach,So+Feiertag,12,11,Dierdorfer Straße,19.29
+Neuwied -> Puderbach,So+Feiertag,12,12,Gladbach Chausseehaus,19.31
+Neuwied -> Puderbach,So+Feiertag,12,13,Haus am Pilz,19.33
+Neuwied -> Puderbach,So+Feiertag,12,14,Anhausen Braunsberg/Rheinhöhenweg,19.36
+Neuwied -> Puderbach,So+Feiertag,12,15,Schillerstraße B an,19.39
+Neuwied -> Puderbach,So+Feiertag,12,16,Schillerstraße B ab,19.41
+Neuwied -> Puderbach,So+Feiertag,12,17,Petershof B,19.44
+Neuwied -> Puderbach,So+Feiertag,12,18,Rüscheid Bamberger,19.46
+Neuwied -> Puderbach,So+Feiertag,12,19,Dierdorf SZ-Center A,19.53
+Neuwied -> Puderbach,So+Feiertag,12,20,Neuwieder Straße A,19.55
+Neuwied -> Puderbach,So+Feiertag,12,21,Dierdorf Markt an,19.57
+Neuwied -> Puderbach,So+Feiertag,12,22,Dierdorf Markt ab,19.58
+Neuwied -> Puderbach,So+Feiertag,12,23,Wienau Flemmer,20.02
+Neuwied -> Puderbach,So+Feiertag,12,24,Raubach In der Au,20.05
+Neuwied -> Puderbach,So+Feiertag,12,25,Hanroth Hedwigsthal B,20.09
+Neuwied -> Puderbach,So+Feiertag,12,26,Puderbach Hölzchens Mühle,20.10
+Neuwied -> Puderbach,So+Feiertag,12,27,Puderbach Verbandsgemeinde,20.14
+Neuwied -> Puderbach,So+Feiertag,13,1,Neuwied Bahnhof D,20.11
+Neuwied -> Puderbach,So+Feiertag,13,2,Moltkeplatz B,20.13
+Neuwied -> Puderbach,So+Feiertag,13,3,An der Matthiaskirche A,20.14
+Neuwied -> Puderbach,So+Feiertag,13,4,Schloßstraße A,20.18
+Neuwied -> Puderbach,So+Feiertag,13,5,Im Weidchen B,20.20
+Neuwied -> Puderbach,So+Feiertag,13,6,Stadion B,20.21
+Neuwied -> Puderbach,So+Feiertag,13,7,Matthiasberg,20.23
+Neuwied -> Puderbach,So+Feiertag,13,8,Ludwig-Erhard-Schule,20.25
+Neuwied -> Puderbach,So+Feiertag,13,9,Beverwijker Ring,20.26
+Neuwied -> Puderbach,So+Feiertag,13,10,Torney Friedhof Wennenberg,20.28
+Neuwied -> Puderbach,So+Feiertag,13,11,Dierdorfer Straße,20.29
+Neuwied -> Puderbach,So+Feiertag,13,12,Gladbach Chausseehaus,20.31
+Neuwied -> Puderbach,So+Feiertag,13,13,Haus am Pilz,20.33
+Neuwied -> Puderbach,So+Feiertag,13,14,Anhausen Braunsberg/Rheinhöhenweg,20.36
+Neuwied -> Puderbach,So+Feiertag,13,15,Schillerstraße B an,20.39
+Neuwied -> Puderbach,So+Feiertag,13,16,Schillerstraße B ab,20.41
+Neuwied -> Puderbach,So+Feiertag,13,17,Petershof B,20.44
+Neuwied -> Puderbach,So+Feiertag,13,18,Rüscheid Bamberger,20.46
+Neuwied -> Puderbach,So+Feiertag,13,19,Dierdorf SZ-Center A,20.53
+Neuwied -> Puderbach,So+Feiertag,13,20,Neuwieder Straße A,20.55
+Neuwied -> Puderbach,So+Feiertag,13,21,Dierdorf Markt an,20.57
+Neuwied -> Puderbach,So+Feiertag,13,22,Dierdorf Markt ab,20.58
+Neuwied -> Puderbach,So+Feiertag,14,1,Neuwied Bahnhof D,21.11
+Neuwied -> Puderbach,So+Feiertag,14,2,Moltkeplatz B,21.13
+Neuwied -> Puderbach,So+Feiertag,14,3,An der Matthiaskirche A,21.14
+Neuwied -> Puderbach,So+Feiertag,14,4,Schloßstraße A,21.18
+Neuwied -> Puderbach,So+Feiertag,14,5,Im Weidchen B,21.20
+Neuwied -> Puderbach,So+Feiertag,14,6,Stadion B,21.21
+Neuwied -> Puderbach,So+Feiertag,14,7,Matthiasberg,21.23
+Neuwied -> Puderbach,So+Feiertag,14,8,Ludwig-Erhard-Schule,21.25
+Neuwied -> Puderbach,So+Feiertag,14,9,Beverwijker Ring,21.26
+Neuwied -> Puderbach,So+Feiertag,14,10,Torney Friedhof Wennenberg,21.28
+Neuwied -> Puderbach,So+Feiertag,14,11,Dierdorfer Straße,21.29
+Neuwied -> Puderbach,So+Feiertag,14,12,Gladbach Chausseehaus,21.31
+Neuwied -> Puderbach,So+Feiertag,14,13,Haus am Pilz,21.33
+Neuwied -> Puderbach,So+Feiertag,14,14,Anhausen Braunsberg/Rheinhöhenweg,21.36
+Neuwied -> Puderbach,So+Feiertag,14,15,Schillerstraße B an,21.39
+Neuwied -> Puderbach,So+Feiertag,14,16,Schillerstraße B ab,21.41
+Neuwied -> Puderbach,So+Feiertag,14,17,Petershof B,21.44
+Neuwied -> Puderbach,So+Feiertag,14,18,Rüscheid Bamberger,21.46
+Neuwied -> Puderbach,So+Feiertag,14,19,Dierdorf SZ-Center A,21.53
+Neuwied -> Puderbach,So+Feiertag,14,20,Neuwieder Straße A,21.55
+Neuwied -> Puderbach,So+Feiertag,14,21,Dierdorf Markt an,21.57
+Neuwied -> Puderbach,So+Feiertag,14,22,Dierdorf Markt ab,21.58
+Neuwied -> Puderbach,So+Feiertag,14,23,Wienau Flemmer,22.02
+Neuwied -> Puderbach,So+Feiertag,14,24,Raubach In der Au,22.05
+Neuwied -> Puderbach,So+Feiertag,14,25,Hanroth Hedwigsthal B,22.09
+Neuwied -> Puderbach,So+Feiertag,14,26,Puderbach Hölzchens Mühle,22.10
+Neuwied -> Puderbach,So+Feiertag,14,27,Puderbach Verbandsgemeinde,22.14
+Neuwied -> Puderbach,So+Feiertag,15,1,Neuwied Bahnhof D,23.11
+Neuwied -> Puderbach,So+Feiertag,15,2,Moltkeplatz B,23.13
+Neuwied -> Puderbach,So+Feiertag,15,3,An der Matthiaskirche A,23.14
+Neuwied -> Puderbach,So+Feiertag,15,4,Schloßstraße A,23.18
+Neuwied -> Puderbach,So+Feiertag,15,5,Im Weidchen B,23.20
+Neuwied -> Puderbach,So+Feiertag,15,6,Stadion B,23.21
+Neuwied -> Puderbach,So+Feiertag,15,7,Matthiasberg,23.23
+Neuwied -> Puderbach,So+Feiertag,15,8,Ludwig-Erhard-Schule,23.25
+Neuwied -> Puderbach,So+Feiertag,15,9,Beverwijker Ring,23.26
+Neuwied -> Puderbach,So+Feiertag,15,10,Torney Friedhof Wennenberg,23.28
+Neuwied -> Puderbach,So+Feiertag,15,11,Dierdorfer Straße,23.29
+Neuwied -> Puderbach,So+Feiertag,15,12,Gladbach Chausseehaus,23.31
+Neuwied -> Puderbach,So+Feiertag,15,13,Haus am Pilz,23.33
+Neuwied -> Puderbach,So+Feiertag,15,14,Anhausen Braunsberg/Rheinhöhenweg,23.36
+Neuwied -> Puderbach,So+Feiertag,15,15,Schillerstraße B an,23.39
+Neuwied -> Puderbach,So+Feiertag,15,16,Schillerstraße B ab,23.41
+Neuwied -> Puderbach,So+Feiertag,15,17,Petershof B,23.44
+Neuwied -> Puderbach,So+Feiertag,15,18,Rüscheid Bamberger,23.46
+Neuwied -> Puderbach,So+Feiertag,15,19,Dierdorf SZ-Center A,23.53
+Neuwied -> Puderbach,So+Feiertag,15,20,Neuwieder Straße A,23.55
+Neuwied -> Puderbach,So+Feiertag,15,21,Dierdorf Markt an,23.57
+Neuwied -> Puderbach,So+Feiertag,15,22,Dierdorf Markt ab,23.58
+Neuwied -> Puderbach,So+Feiertag,15,23,Wienau Flemmer,0.02
+Neuwied -> Puderbach,So+Feiertag,15,24,Raubach In der Au,0.05
+Neuwied -> Puderbach,So+Feiertag,15,25,Hanroth Hedwigsthal B,0.09
+Neuwied -> Puderbach,So+Feiertag,15,26,Puderbach Hölzchens Mühle,0.10
+Neuwied -> Puderbach,So+Feiertag,15,27,Puderbach Verbandsgemeinde,0.14

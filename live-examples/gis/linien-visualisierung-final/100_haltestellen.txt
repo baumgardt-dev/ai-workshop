@@ -1,0 +1,63 @@
+Linie B 100 — Haltestellenverlauf
+==================================
+
+Richtung Puderbach → Neuwied
+-----------------------------
+ 1. Puderbach Verbandsgemeinde
+ 2. Puderbach Hölzchens Mühle
+ 3. Hanroth Hedwigsthal A
+ 4. Raubach In der Au
+ 5. Wienau Flemmer
+ 6. Dierdorf Markt
+ 7. Dierdorf Neuwieder Straße B
+ 8. Dierdorf SZ-Center B
+ 9. Rüscheid Siegel
+10. Anhausen Petershof A
+11. Anhausen Schillerstraße A
+12. Anhausen Braunsberg/Rheinhöhenweg
+13. Gladbach Haus am Pilz
+14. Gladbach Chausseehaus
+15. Torney Dierdorfer Straße
+16. Torney Friedhof Wennenberg
+17. Neuwied Beverwijker Ring
+18. Neuwied Ludwig-Erhard-Schule
+19. Neuwied Matthiasberg
+20. Neuwied Stadion A
+21. Neuwied Im Weidchen A
+22. Neuwied Schloßtheater A
+23. Neuwied Marktkirche A
+24. Neuwied Marktstraße B
+25. Neuwied Moltkeplatz A
+26. Neuwied Bahnhof H
+
+   (26 Haltestellen)
+
+Richtung Neuwied → Puderbach
+-----------------------------
+ 1. Neuwied Bahnhof D
+ 2. Neuwied Moltkeplatz B
+ 3. Neuwied An der Matthiaskirche A
+ 4. Neuwied Schloßstraße A
+ 5. Neuwied Im Weidchen B
+ 6. Neuwied Stadion B
+ 7. Neuwied Matthiasberg
+ 8. Neuwied Ludwig-Erhard-Schule
+ 9. Neuwied Beverwijker Ring
+10. Torney Friedhof Wennenberg
+11. Torney Dierdorfer Straße
+12. Gladbach Chausseehaus
+13. Gladbach Haus am Pilz
+14. Anhausen Braunsberg/Rheinhöhenweg
+15. Anhausen Schillerstraße B
+16. Anhausen Petershof B
+17. Rüscheid Bamberger
+18. Dierdorf SZ-Center A
+19. Dierdorf Neuwieder Straße A
+20. Dierdorf Markt
+21. Wienau Flemmer
+22. Raubach In der Au
+23. Hanroth Hedwigsthal B
+24. Puderbach Hölzchens Mühle
+25. Puderbach Verbandsgemeinde
+
+   (25 Haltestellen)

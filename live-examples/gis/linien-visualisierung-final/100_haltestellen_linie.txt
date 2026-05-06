@@ -1,0 +1,35 @@
+Linie B 100 — Haltestellen (Linienverlauf gesamt)
+Puderbach – Raubach – Dierdorf – Anhausen – Neuwied
+=======================================================
+
+ 1. Puderbach Verbandsgemeinde
+ 2. Puderbach Hölzchens Mühle
+ 3. Hanroth Hedwigsthal
+ 4. Raubach In der Au
+ 5. Wienau Flemmer
+ 6. Dierdorf Markt
+ 7. Dierdorf Neuwieder Straße
+ 8. Dierdorf SZ-Center
+ 9. Rüscheid Bamberger
+10. Rüscheid Siegel
+11. Anhausen Petershof
+12. Anhausen Schillerstraße
+13. Anhausen Braunsberg/Rheinhöhenweg
+14. Gladbach Haus am Pilz
+15. Gladbach Chausseehaus
+16. Torney Dierdorfer Straße
+17. Torney Friedhof Wennenberg
+18. Neuwied Beverwijker Ring
+19. Neuwied Ludwig-Erhard-Schule
+20. Neuwied Matthiasberg
+21. Neuwied Stadion
+22. Neuwied Im Weidchen
+23. Neuwied Schloßstraße
+24. Neuwied An der Matthiaskirche
+25. Neuwied Schloßtheater
+26. Neuwied Marktkirche
+27. Neuwied Marktstraße
+28. Neuwied Moltkeplatz
+29. Neuwied Bahnhof
+
+29 Haltestellen gesamt
