@@ -32,15 +32,9 @@ workshop/
 
 ### 1. Claude Code installieren
 
-```bash
-npm install -g @anthropic-ai/claude-code
-```
+Die aktuelle Installationsanleitung steht auf der offiziellen Seite — Installationswege ändern sich gelegentlich, deshalb dort nachschauen statt hier eine veraltete Befehlszeile abzuschreiben:
 
-Dann im Projektordner starten:
-
-```bash
-claude
-```
+→ <https://code.claude.com/docs/de/setup>
 
 Beim ersten Start einmal mit dem Anthropic-Account authentifizieren. Alternativen (Desktop-App, IDE-Plugins) sind in der Präsentation kurz erwähnt.
 
