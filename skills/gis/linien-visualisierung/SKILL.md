@@ -39,10 +39,11 @@ PDF
  │
  ├─[4] Liniennummer ergänzen                 → linie_haltestellen.csv  (vollständig)
  │
- ├─[5] Routing                                → linie_route_*.json
+ ├─[5] Routing                                → linie_route_*.json + linie_route_*.geojson
  │     a) Google Routes API (mit Token)
  │     b) OSRM (kostenlos, immer verfügbar)
  │     ↳ beides geht parallel
+ │     ↳ jeweils auch als GeoJSON (FeatureCollection: LineString + Stop-Points)
  │
  └─[6] Leaflet-HTML rendern                  → linie_karte.html
 ```
@@ -241,6 +242,13 @@ Beide Output-JSONs haben dasselbe Schema:
 { "coords": [[lat, lon], ...], "distance_km": 43.5, "duration_min": 77, "engine": "..." }
 ```
 
+**Zusätzlich schreiben beide Skripte automatisch eine `.geojson`** an einen Pfad, der aus `--output` abgeleitet wird (`linie_route_google.json` → `linie_route_google.geojson`). Es ist eine standardkonforme `FeatureCollection`:
+
+- 1× `LineString` mit dem Fahrtverlauf — Properties: `engine`, `distance_km`, `duration_min`, `kind: "route"`.
+- pro Haltestelle 1× `Point` — Properties: `name`, `order`, `linie`, `kind: "stop"`.
+
+Damit lässt sich die Linie direkt in QGIS, geojson.io, Mapbox/Tippecanoe, ArcGIS oder als Layer in eigenen Web-Karten weiterverwenden, ohne erst aus dem internen JSON-Format zu konvertieren. Eigener Pfad mit `--geojson <path>` möglich.
+
 ### Wenn beides geht
 
 Beide gleichzeitig laufen lassen und dem Nutzer als Vergleich zeigen. Unterschiede entstehen häufig in Innenstadt-Schleifen (Einbahnstraßen) und bei der Straßenwahl außerorts.
@@ -269,9 +277,11 @@ Bei Sonderwünschen (eigene Tile-Quelle, eigene Farben, andere Marker, Cluster b
 Alles im Workspace-Ordner ablegen, Dateinamen mit Linienkennung als Prefix, damit mehrere Linien parallel funktionieren:
 
 - `100_haltestellen.csv` — finale Liste mit Koordinaten und Linie
-- `100_route_google.json` (optional)
-- `100_route_osrm.json` (optional)
+- `100_route_google.json` + `100_route_google.geojson` (optional)
+- `100_route_osrm.json` + `100_route_osrm.geojson` (optional)
 - `100_karte.html` — die fertige Karte
+
+Die `.json`-Dateien sind das interne Format für `render_map.py`; die `.geojson`-Dateien sind portabel für GIS-Tools, Mapbox, geojson.io etc.
 
 ---
 
@@ -305,8 +315,8 @@ Bei API-Fehlern oder unerwarteten Daten: nicht stumm retryen, sondern dem Nutzer
 |---|---|---|---|
 | `scripts/extract_stops.py` | Layout-Text → Stops-CSV | `.txt` | CSV mit `haltestelle,x,y,linie` |
 | `scripts/match_coords.py` | Stops + Master-CSV / Geocoding → Stops mit Koordinaten | CSV | dieselbe CSV (in-place) |
-| `scripts/route_google.py` | Stops → Google-Route-JSON | CSV, `.env` | JSON |
-| `scripts/route_osrm.py` | Stops → OSRM-Route-JSON | CSV | JSON |
+| `scripts/route_google.py` | Stops → Google-Route-JSON + GeoJSON | CSV, `.env` | JSON + `.geojson` |
+| `scripts/route_osrm.py` | Stops → OSRM-Route-JSON + GeoJSON | CSV | JSON + `.geojson` |
 | `scripts/render_map.py` | Stops + Routen → Leaflet-HTML | CSV, JSON(s) | HTML |
 | `scripts/save_token.py` | Token an OS-typischer Stelle persistieren (einmalig) | Token | `.env` an OS-globalem Pfad |
 

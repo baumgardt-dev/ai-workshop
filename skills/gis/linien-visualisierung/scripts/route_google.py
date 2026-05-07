@@ -38,6 +38,51 @@ ENDPOINT = "https://routes.googleapis.com/directions/v2:computeRoutes"
 MAX_WAYPOINTS = 25  # = 27 total points per call (origin + 25 intermediates + dest)
 
 
+def _derive_geojson_path(output_json_path):
+    """Replace .json suffix with .geojson, or append .geojson if no .json suffix."""
+    if output_json_path.lower().endswith('.json'):
+        return output_json_path[:-5] + '.geojson'
+    return output_json_path + '.geojson'
+
+
+def write_geojson(path, engine, line_coords_lonlat, stops, distance_km, duration_min):
+    """Write a FeatureCollection with one LineString (the route) and one Point per stop.
+
+    line_coords_lonlat: list of [lon, lat] (GeoJSON order).
+    stops: list of dicts with name, lon, lat, linie.
+    """
+    features = [{
+        'type': 'Feature',
+        'geometry': {
+            'type': 'LineString',
+            'coordinates': line_coords_lonlat,
+        },
+        'properties': {
+            'engine': engine,
+            'distance_km': distance_km,
+            'duration_min': duration_min,
+            'kind': 'route',
+        },
+    }]
+    for i, s in enumerate(stops, 1):
+        features.append({
+            'type': 'Feature',
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [s['lon'], s['lat']],
+            },
+            'properties': {
+                'name': s['name'],
+                'order': i,
+                'linie': s.get('linie', ''),
+                'kind': 'stop',
+            },
+        })
+    fc = {'type': 'FeatureCollection', 'features': features}
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(fc, f, ensure_ascii=False)
+
+
 def global_config_paths():
     """Return [(label, Path), ...] of candidate global config locations,
     in priority order. The first entry is the preferred write location for
@@ -165,6 +210,8 @@ def main():
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--stops', required=True)
     p.add_argument('--output', required=True)
+    p.add_argument('--geojson', default=None,
+                   help='GeoJSON output path (default: --output mit .geojson statt .json)')
     p.add_argument('--env-key', default='TOKEN', help='env var / .env key name')
     p.add_argument('--env-file', default='.env')
     args = p.parse_args()
@@ -199,6 +246,7 @@ def main():
                 'name': row['haltestelle'],
                 'lat': float(row['y']),
                 'lon': float(row['x']),
+                'linie': row.get('linie', ''),
             })
 
     if len(stops) < 2:
@@ -237,10 +285,12 @@ def main():
         for leg in route.get('legs', []):
             leg_distances.append(leg['distanceMeters'])
 
+    distance_km = round(total_dist / 1000, 2)
+    duration_min = round(total_time / 60)
     out = {
         'coords': all_coords,
-        'distance_km': round(total_dist / 1000, 2),
-        'duration_min': round(total_time / 60),
+        'distance_km': distance_km,
+        'duration_min': duration_min,
         'leg_distances_m': leg_distances,
         'engine': 'google-routes',
     }
@@ -248,6 +298,18 @@ def main():
         json.dump(out, f)
     print(f"→ {out['distance_km']} km · {out['duration_min']} min · "
           f"{len(all_coords)} polyline points → {args.output}", file=sys.stderr)
+
+    geojson_path = args.geojson or _derive_geojson_path(args.output)
+    line_coords_lonlat = [[lon, lat] for lat, lon in all_coords]
+    write_geojson(
+        path=geojson_path,
+        engine='google-routes',
+        line_coords_lonlat=line_coords_lonlat,
+        stops=stops,
+        distance_km=distance_km,
+        duration_min=duration_min,
+    )
+    print(f"→ {geojson_path} (GeoJSON)", file=sys.stderr)
 
 
 if __name__ == '__main__':
