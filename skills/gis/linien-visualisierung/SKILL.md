@@ -45,7 +45,12 @@ PDF
  │     ↳ beides geht parallel
  │     ↳ jeweils auch als GeoJSON (FeatureCollection: LineString + Stop-Points)
  │
- └─[6] Leaflet-HTML rendern                  → linie_karte.html
+ ├─[6] Leaflet-HTML rendern                  → linie_karte.html
+ │
+ └─[7] GIS-Export (final)                    → HST_Linie<NR>.geojson + Linie<NR>.geojson
+       ↳ zwei getrennte GeoJSONs mit dem vom GIS-Konsumenten geforderten
+         Attribut- und Namens-Schema (Defaults: position=2, label=1, active=1,
+         HEX=#000000, Farbe=000000)
 ```
 
 ## Eingaben — vor dem Start klären
@@ -272,6 +277,67 @@ Bei Sonderwünschen (eigene Tile-Quelle, eigene Farben, andere Marker, Cluster b
 
 ---
 
+## Schritt 7 — GIS-Export (finale Lieferung)
+
+Die in Schritt 5 erzeugten `.geojson`-Dateien enthalten alles in einer Datei (LineString + Stop-Points) mit dem internen Property-Schema (`engine`, `kind`, `order`, …). Für die finale Übergabe an das GIS-Tooling werden daraus **zwei getrennte GeoJSON-Dateien** mit einem festen Attributschema und einer festen Namenskonvention.
+
+### Output-Anforderungen
+
+**Haltestellen-Datei** — `HST_Linie<NR>.geojson`
+
+FeatureCollection aus `Point`-Features (eine pro Haltestelle), jeweils mit Properties:
+
+| Property   | Inhalt                                  | Default |
+|------------|-----------------------------------------|---------|
+| `Name`     | Haltestellenname                        | —       |
+| `position` | Layout-/Anzeigeposition                 | `2`     |
+| `linie`    | Liniennummer                            | —       |
+| `label`    | Label-Flag                              | `1`     |
+| `active`   | Aktiv-Flag                              | `1`     |
+
+**Linien-Datei** — `Linie<NR>.geojson`
+
+FeatureCollection mit genau einem `LineString`-Feature (Linienverlauf), Properties:
+
+| Property | Inhalt                | Default     |
+|----------|-----------------------|-------------|
+| `NAME`   | Liniennummer          | —           |
+| `HEX`    | Farb-Hex inkl. `#`    | `#000000`   |
+| `Farbe`  | Farb-Hex ohne `#`     | `000000`    |
+
+**Alle Linien sind in Schwarz (`#000000`)** zu liefern — Default ist bereits gesetzt, keine Anpassung nötig.
+
+### Namenskonvention
+
+- `HST_Linie<NR>.geojson` — z.B. `HST_Linie5003.geojson`
+- `Linie<NR>.geojson` — z.B. `Linie5003.geojson`
+
+`<NR>` ist die Liniennummer ohne Leerzeichen oder Präfix (also `5003`, nicht `Linie 5003`).
+
+### Skript
+
+```bash
+python3 scripts/gis_export.py \
+        --stops 5003_haltestellen.csv \
+        --route 5003_route_google.json \
+        --linie 5003 \
+        --out-dir .
+```
+
+Erzeugt `HST_Linie5003.geojson` und `Linie5003.geojson` im Zielverzeichnis. Das Skript akzeptiert als `--route` sowohl das interne `route_*.json` als auch ein vollständiges GeoJSON aus Schritt 5 — die LineString-Geometrie wird in beiden Fällen extrahiert.
+
+Wenn beide Routing-Engines gelaufen sind (Google **und** OSRM), die mit dem Nutzer abgestimmte Variante als `--route` wählen — in der Regel Google, sofern verfügbar.
+
+### Verifizieren
+
+Nach dem Export kurz prüfen:
+- Beide Dateien existieren, sind gültiges JSON, Dateinamen stimmen.
+- `HST_Linie<NR>.geojson` enthält so viele Features wie Haltestellen mit Koordinaten.
+- `Linie<NR>.geojson` enthält genau ein LineString-Feature.
+- Properties sind exakt benannt (Groß-/Kleinschreibung beachten: `Name`, nicht `name`; `NAME`, nicht `name`; `HEX`, nicht `hex`; `Farbe`, nicht `farbe`).
+
+---
+
 ## Outputs (Konvention)
 
 Alles im Workspace-Ordner ablegen, Dateinamen mit Linienkennung als Prefix, damit mehrere Linien parallel funktionieren:
@@ -280,8 +346,10 @@ Alles im Workspace-Ordner ablegen, Dateinamen mit Linienkennung als Prefix, dami
 - `100_route_google.json` + `100_route_google.geojson` (optional)
 - `100_route_osrm.json` + `100_route_osrm.geojson` (optional)
 - `100_karte.html` — die fertige Karte
+- `HST_Linie100.geojson` — **finaler GIS-Export: Haltestellen** (Schritt 7)
+- `Linie100.geojson` — **finaler GIS-Export: Linienverlauf** (Schritt 7)
 
-Die `.json`-Dateien sind das interne Format für `render_map.py`; die `.geojson`-Dateien sind portabel für GIS-Tools, Mapbox, geojson.io etc.
+Die `.json`-Dateien sind das interne Format für `render_map.py`; die `.geojson`-Dateien aus Schritt 5 sind portabel für GIS-Tools, Mapbox, geojson.io etc.; die zwei Dateien aus Schritt 7 sind die **Liefer-Artefakte** mit dem vom GIS-Konsumenten geforderten Attributschema und Dateinamen.
 
 ---
 
@@ -318,6 +386,7 @@ Bei API-Fehlern oder unerwarteten Daten: nicht stumm retryen, sondern dem Nutzer
 | `scripts/route_google.py` | Stops → Google-Route-JSON + GeoJSON | CSV, `.env` | JSON + `.geojson` |
 | `scripts/route_osrm.py` | Stops → OSRM-Route-JSON + GeoJSON | CSV | JSON + `.geojson` |
 | `scripts/render_map.py` | Stops + Routen → Leaflet-HTML | CSV, JSON(s) | HTML |
+| `scripts/gis_export.py` | Stops + Route → 2 GIS-konforme GeoJSONs (HST + Linie) mit festem Attributschema und Namenskonvention | CSV, route-JSON/GeoJSON, Liniennummer | `HST_Linie<NR>.geojson` + `Linie<NR>.geojson` |
 | `scripts/save_token.py` | Token an OS-typischer Stelle persistieren (einmalig) | Token | `.env` an OS-globalem Pfad |
 
 Alle Skripte sind in einer Datei, kein Build, nur Python 3 stdlib + `pdftotext` (CLI). Können als Vorlage benutzt oder per Inline-Snippet ersetzt werden.
