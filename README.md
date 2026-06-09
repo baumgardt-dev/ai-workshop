@@ -79,6 +79,18 @@ Frag Claude nach einer der folgenden Aufgaben — die Skills springen automatisc
 
 **Grafik-Beispiel:** `live-examples/grafik/fahrplan-tabellen/` — Quell-PDFs unter `source/`, nachgebautes JSON (`beispiel_223.json`) und fertige Ausgabe (`Fahrplan_223.pdf`, `.svg`, `.ai`).
 
+## Ausblick: Langzeitgedächtnis für KI
+
+Eine KI vergisst von Haus aus nach jeder Sitzung alles. Für ein Unternehmen, das laufend mit denselben Kunden arbeitet, ist das die größte Bremse — Briefings, Absprachen und Vorlieben müssen jedes Mal neu erklärt werden. Ein **Langzeitgedächtnis** löst das: eine zusätzliche Schicht, die relevantes Wissen dauerhaft speichert und der KI bei Bedarf wieder bereitstellt. Wichtig dabei: so etwas lässt sich **vollständig auf einem eigenen Server intern** betreiben — Kundendaten verlassen das Haus nicht.
+
+Wofür das in der täglichen Arbeit konkret nützt:
+
+- **Kundengedächtnis** — pro Kunde bleiben Briefings, frühere Entscheidungen, Feedback und Vorlieben abrufbar. Beim nächsten Auftrag ist der Kontext sofort da, ohne Nachschlagen.
+- **Projektmanagement** — Projektverlauf, offene Punkte und getroffene Absprachen bleiben erhalten, auch wenn Teammitglieder wechseln oder zwischen Projekten gewechselt wird.
+- **Grafik & Marke** — Brand-Guidelines, Farb- und Schriftvorgaben, „so will Kunde X seine Logos nie sehen" werden zu durchsuchbarem Wissen statt verstreuter Notizen.
+
+Das ist bewusst nur die Grundidee — die passende Umsetzung (Datenquellen, Anbindung, Hosting) hängt vom konkreten Setup ab und ist ein eigenes Thema.
+
 ## Präsentationen
 
 | Workshop | Datei |
