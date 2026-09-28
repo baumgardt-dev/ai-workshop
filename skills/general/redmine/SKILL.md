@@ -7,6 +7,8 @@ description: Use this skill whenever the user wants to query, create, update, or
 
 Helps you interact with the user's Redmine instance through the REST API. The OpenAPI spec (`openapi.json`) and credentials (`.env`) are bundled in this skill's own folder — always read them from there. Don't invent endpoints or parameter names; verify against `openapi.json` whenever you're unsure.
 
+**Prefer Redmine MCP when available** (`redmine_request` / `mcp-redmine`, configured for Cursor & Claude). Use this skill as fallback for curl/OpenAPI workflows or when MCP is not loaded. Instance conventions: workspace `.redmine/INSTRUCTIONS.md`.
+
 ## Setup — credentials and base URL
 
 Both files are bundled in this skill's own directory, alongside `SKILL.md`:
